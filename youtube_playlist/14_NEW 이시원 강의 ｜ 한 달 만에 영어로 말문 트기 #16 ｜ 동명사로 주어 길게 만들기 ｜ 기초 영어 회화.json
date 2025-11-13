@@ -1,0 +1,3655 @@
+{
+  "text": " 안녕하세요. 안녕하세요. 소위 우리가 여기저기서 들어봤을 법한 동명사라는 애예요. 일하는 건. 일하는 건. 일하는 건 가능하다. 이스파스부. 일하는 건 쉽다. 그런데 공부하는 건. 스토딩. 스토딩 해 시작. 그런데 공부하는 건 쉽다. 스토딩. 이스파스. 먹는 건. 1인. 먹는 건. 쉽다. 1인. 만나는 건. 쉽다. 말하는 건. 쉽다. 춤추는 건. 춤추는 건. 쉽다. 버스를 탄다. 테이크 버스. 버스를 탄다. 버스를 탄한 건 그러면. 테이킹어 버스 해야 돼요. 시작. 테이킹어 버스. 다시요. 테이킹어 버스. 그러면 먹는 건. 1인. 다시요. 1인. 덜 먹는 건. 1인. 다시 덜 먹는 건. 덜 먹는 게 중요해. 1인. 1인. 1인. 다시요. 1인. 다시요. 1인. 다시요. 1인. 덜 먹는 게. 1인. 1인. 1인. 1인. 1인. 공부를 하는 게.itation. 공부를 하는 게.itation. 열심히 공부하는 게.itation. 중요해요. 많이 공부하는 게 많이 공부하는 게 많이 공부하는 게 중요해요. 내 친구를 만나는 건 미팅� My Friend 영화를 보는 건 뭐냐, 왓칭뮤비 시작 다시요? 다시요? 연행하는 건 트랩블링 시작 연행하는 건 내 가족과 여행하는 건 가족과 함께 여행하는 건 트랩블링 with my family is fun! 다른 사람들, 뭐예요? 다른 사람들은? 다른 사람들과? 다른 사람들과? 다른 사람들과? 다른 사람들과 사는 게?例대인 With Others 다시요? 다른 사람들과 공부하는 게? 다른 사람들과 같이 숨 쉬는 게? breathing with others breathing with others breathing with others 다른 사람들과 일하는 게? 다른 사람들과? 만나는 게? 다시요? 이슬, 그것은 좋다? 낫다는? is better 최고다? is the best 그냥 이거는 왜 오세요? 전주에서 비빔밥 먹는 게 더 나 1인, 비빔밥인, 전주 is better is better, 그쵸? is better, 더 나 영화를 공부하는 게 최고다 studying English is the best 그쵸? 서울에서 입하는 게 최고야 working in the self is the best 부산에서 사는 게 최고야 living in the self is the best is hard is hard is easy is easy is easy is easy is easy is it easy? 쉽지 않아? 그치 is important is it important? is it important? is fast is fast is fast is fast eating a lot is good is it a lot is good? is it a lot is good? is it a lot is good? is it a lot is good? is it good? 그쵸? 방금 무슨 말 하신 거예요? 많이 먹는 게? 좋지 않? 그치 is good? is it good? is good? is good is it good? is it good? drink coffee is good drink coffee is good drink coffee is good drink coffee is good drink coffee in the morning is good drink coffee is good drink coffee in the morning is good drink coffee is good 무슨 말 안 거예요? 지금 그치 drink coffee in the morning is good 그쵸? 문장에 좀씩 늘어나죠 taking a subway is fast taking a subway is fast taking a subway is fast taking a subway is fast 무슨 말이에요? 종로에서 지하철 가는 건 빠르지 않다 그렇죠 getting a back is expensive getting a back is expensive getting a back is expensive getting a back in Hong Kong is expensive getting a back in Hong Kong is expensive 무슨 말 안 거예요? Hong Kong에서 가방 사는 거는 사자 getting a visa is possible getting a visa is impossible 다시 getting a visa is possible getting a visa is possible getting an American visa is possible getting an American visa is possible 자, 오늘의 소위 여기서 마치겠습니다",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " 안녕하세요.",
+      "tokens": [
+        50364,
+        19289,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43923268734830095,
+      "compression_ratio": 1.7485714285714287,
+      "no_speech_prob": 0.023505890741944313
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.0,
+      "end": 6.0,
+      "text": " 안녕하세요.",
+      "tokens": [
+        50564,
+        19289,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43923268734830095,
+      "compression_ratio": 1.7485714285714287,
+      "no_speech_prob": 0.023505890741944313
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.0,
+      "end": 11.0,
+      "text": " 소위 우리가 여기저기서 들어봤을 법한 동명사라는 애예요.",
+      "tokens": [
+        50664,
+        10614,
+        14098,
+        22408,
+        7543,
+        11738,
+        2401,
+        2393,
+        46088,
+        23560,
+        1638,
+        31461,
+        3049,
+        11685,
+        16330,
+        14506,
+        13182,
+        21459,
+        10790,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43923268734830095,
+      "compression_ratio": 1.7485714285714287,
+      "no_speech_prob": 0.023505890741944313
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.0,
+      "end": 13.0,
+      "text": " 일하는 건.",
+      "tokens": [
+        50914,
+        7682,
+        7116,
+        13507,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43923268734830095,
+      "compression_ratio": 1.7485714285714287,
+      "no_speech_prob": 0.023505890741944313
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.0,
+      "end": 15.0,
+      "text": " 일하는 건.",
+      "tokens": [
+        51014,
+        7682,
+        7116,
+        13507,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43923268734830095,
+      "compression_ratio": 1.7485714285714287,
+      "no_speech_prob": 0.023505890741944313
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 15.0,
+      "end": 17.0,
+      "text": " 일하는 건 가능하다.",
+      "tokens": [
+        51114,
+        7682,
+        7116,
+        13507,
+        25732,
+        25786,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43923268734830095,
+      "compression_ratio": 1.7485714285714287,
+      "no_speech_prob": 0.023505890741944313
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 17.0,
+      "end": 19.0,
+      "text": " 이스파스부.",
+      "tokens": [
+        51214,
+        4329,
+        232,
+        4644,
+        234,
+        234,
+        7785,
+        17317,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43923268734830095,
+      "compression_ratio": 1.7485714285714287,
+      "no_speech_prob": 0.023505890741944313
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 19.0,
+      "end": 21.0,
+      "text": " 일하는 건 쉽다.",
+      "tokens": [
+        51314,
+        7682,
+        7116,
+        13507,
+        33561,
+        1235,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43923268734830095,
+      "compression_ratio": 1.7485714285714287,
+      "no_speech_prob": 0.023505890741944313
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 21.0,
+      "end": 24.0,
+      "text": " 그런데 공부하는 건.",
+      "tokens": [
+        51414,
+        16610,
+        9273,
+        17317,
+        7116,
+        13507,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43923268734830095,
+      "compression_ratio": 1.7485714285714287,
+      "no_speech_prob": 0.023505890741944313
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 24.0,
+      "end": 25.0,
+      "text": " 스토딩.",
+      "tokens": [
+        51564,
+        11196,
+        228,
+        4673,
+        34521,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43923268734830095,
+      "compression_ratio": 1.7485714285714287,
+      "no_speech_prob": 0.023505890741944313
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 25.0,
+      "end": 27.0,
+      "text": " 스토딩 해 시작.",
+      "tokens": [
+        51614,
+        11196,
+        228,
+        4673,
+        34521,
+        11683,
+        14525,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43923268734830095,
+      "compression_ratio": 1.7485714285714287,
+      "no_speech_prob": 0.023505890741944313
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 27.0,
+      "end": 29.0,
+      "text": " 그런데 공부하는 건 쉽다.",
+      "tokens": [
+        51714,
+        16610,
+        9273,
+        17317,
+        7116,
+        13507,
+        33561,
+        1235,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43923268734830095,
+      "compression_ratio": 1.7485714285714287,
+      "no_speech_prob": 0.023505890741944313
+    },
+    {
+      "id": 12,
+      "seek": 2900,
+      "start": 29.0,
+      "end": 31.0,
+      "text": " 스토딩.",
+      "tokens": [
+        50364,
+        11196,
+        228,
+        4673,
+        34521,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 13,
+      "seek": 2900,
+      "start": 31.0,
+      "end": 33.0,
+      "text": " 이스파스.",
+      "tokens": [
+        50464,
+        4329,
+        232,
+        4644,
+        234,
+        234,
+        7785,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 14,
+      "seek": 2900,
+      "start": 33.0,
+      "end": 35.0,
+      "text": " 먹는 건.",
+      "tokens": [
+        50564,
+        30616,
+        13507,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 15,
+      "seek": 2900,
+      "start": 35.0,
+      "end": 37.0,
+      "text": " 1인.",
+      "tokens": [
+        50664,
+        502,
+        4215,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 16,
+      "seek": 2900,
+      "start": 37.0,
+      "end": 39.0,
+      "text": " 먹는 건.",
+      "tokens": [
+        50764,
+        30616,
+        13507,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 17,
+      "seek": 2900,
+      "start": 39.0,
+      "end": 41.0,
+      "text": " 쉽다.",
+      "tokens": [
+        50864,
+        33561,
+        1235,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 18,
+      "seek": 2900,
+      "start": 41.0,
+      "end": 43.0,
+      "text": " 1인.",
+      "tokens": [
+        50964,
+        502,
+        4215,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 19,
+      "seek": 2900,
+      "start": 43.0,
+      "end": 45.0,
+      "text": " 만나는 건.",
+      "tokens": [
+        51064,
+        38841,
+        1098,
+        13507,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 20,
+      "seek": 2900,
+      "start": 45.0,
+      "end": 47.0,
+      "text": " 쉽다.",
+      "tokens": [
+        51164,
+        33561,
+        1235,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 21,
+      "seek": 2900,
+      "start": 47.0,
+      "end": 49.0,
+      "text": " 말하는 건.",
+      "tokens": [
+        51264,
+        7058,
+        7116,
+        13507,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 22,
+      "seek": 2900,
+      "start": 49.0,
+      "end": 51.0,
+      "text": " 쉽다.",
+      "tokens": [
+        51364,
+        33561,
+        1235,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 23,
+      "seek": 2900,
+      "start": 51.0,
+      "end": 53.0,
+      "text": " 춤추는 건.",
+      "tokens": [
+        51464,
+        40037,
+        25023,
+        1098,
+        13507,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 24,
+      "seek": 2900,
+      "start": 53.0,
+      "end": 55.0,
+      "text": " 춤추는 건.",
+      "tokens": [
+        51564,
+        40037,
+        25023,
+        1098,
+        13507,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 25,
+      "seek": 2900,
+      "start": 55.0,
+      "end": 57.0,
+      "text": " 쉽다.",
+      "tokens": [
+        51664,
+        33561,
+        1235,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25187063217163086,
+      "compression_ratio": 1.7471264367816093,
+      "no_speech_prob": 0.01796533726155758
+    },
+    {
+      "id": 26,
+      "seek": 5700,
+      "start": 57.0,
+      "end": 59.0,
+      "text": " 버스를 탄다.",
+      "tokens": [
+        50364,
+        22076,
+        35967,
+        46979,
+        1235,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 27,
+      "seek": 5700,
+      "start": 59.0,
+      "end": 61.0,
+      "text": " 테이크 버스.",
+      "tokens": [
+        50464,
+        30516,
+        1129,
+        12504,
+        22076,
+        7785,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 28,
+      "seek": 5700,
+      "start": 61.0,
+      "end": 63.0,
+      "text": " 버스를 탄다.",
+      "tokens": [
+        50564,
+        22076,
+        35967,
+        46979,
+        1235,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 29,
+      "seek": 5700,
+      "start": 63.0,
+      "end": 65.0,
+      "text": " 버스를 탄한 건 그러면.",
+      "tokens": [
+        50664,
+        22076,
+        35967,
+        46979,
+        3049,
+        13507,
+        16645,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 30,
+      "seek": 5700,
+      "start": 65.0,
+      "end": 67.0,
+      "text": " 테이킹어 버스 해야 돼요.",
+      "tokens": [
+        50764,
+        30516,
+        1129,
+        13289,
+        117,
+        3103,
+        22076,
+        7785,
+        20556,
+        21565,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 31,
+      "seek": 5700,
+      "start": 67.0,
+      "end": 68.0,
+      "text": " 시작.",
+      "tokens": [
+        50864,
+        14525,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 32,
+      "seek": 5700,
+      "start": 68.0,
+      "end": 69.0,
+      "text": " 테이킹어 버스.",
+      "tokens": [
+        50914,
+        30516,
+        1129,
+        13289,
+        117,
+        3103,
+        22076,
+        7785,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 33,
+      "seek": 5700,
+      "start": 69.0,
+      "end": 70.0,
+      "text": " 다시요.",
+      "tokens": [
+        50964,
+        15463,
+        1495,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 34,
+      "seek": 5700,
+      "start": 70.0,
+      "end": 71.0,
+      "text": " 테이킹어 버스.",
+      "tokens": [
+        51014,
+        30516,
+        1129,
+        13289,
+        117,
+        3103,
+        22076,
+        7785,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 35,
+      "seek": 5700,
+      "start": 71.0,
+      "end": 73.0,
+      "text": " 그러면 먹는 건.",
+      "tokens": [
+        51064,
+        16645,
+        30616,
+        13507,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 36,
+      "seek": 5700,
+      "start": 73.0,
+      "end": 74.0,
+      "text": " 1인.",
+      "tokens": [
+        51164,
+        502,
+        4215,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 37,
+      "seek": 5700,
+      "start": 74.0,
+      "end": 75.0,
+      "text": " 다시요.",
+      "tokens": [
+        51214,
+        15463,
+        1495,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 38,
+      "seek": 5700,
+      "start": 75.0,
+      "end": 76.0,
+      "text": " 1인.",
+      "tokens": [
+        51264,
+        502,
+        4215,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 39,
+      "seek": 5700,
+      "start": 76.0,
+      "end": 78.0,
+      "text": " 덜 먹는 건.",
+      "tokens": [
+        51314,
+        5596,
+        250,
+        30616,
+        13507,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 40,
+      "seek": 5700,
+      "start": 78.0,
+      "end": 79.0,
+      "text": " 1인.",
+      "tokens": [
+        51414,
+        502,
+        4215,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 41,
+      "seek": 5700,
+      "start": 79.0,
+      "end": 81.0,
+      "text": " 다시 덜 먹는 건.",
+      "tokens": [
+        51464,
+        15463,
+        5596,
+        250,
+        30616,
+        13507,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 42,
+      "seek": 5700,
+      "start": 81.0,
+      "end": 83.0,
+      "text": " 덜 먹는 게 중요해.",
+      "tokens": [
+        51564,
+        5596,
+        250,
+        30616,
+        7845,
+        24851,
+        5302,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 43,
+      "seek": 5700,
+      "start": 83.0,
+      "end": 84.0,
+      "text": " 1인.",
+      "tokens": [
+        51664,
+        502,
+        4215,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 44,
+      "seek": 5700,
+      "start": 84.0,
+      "end": 85.0,
+      "text": " 1인.",
+      "tokens": [
+        51714,
+        502,
+        4215,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 45,
+      "seek": 5700,
+      "start": 85.0,
+      "end": 86.0,
+      "text": " 1인.",
+      "tokens": [
+        51764,
+        502,
+        4215,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18677775979899675,
+      "compression_ratio": 2.0723684210526314,
+      "no_speech_prob": 0.010796258226037025
+    },
+    {
+      "id": 46,
+      "seek": 8600,
+      "start": 86.0,
+      "end": 87.0,
+      "text": " 다시요.",
+      "tokens": [
+        50364,
+        15463,
+        1495,
+        13,
+        50414
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 47,
+      "seek": 8600,
+      "start": 87.0,
+      "end": 88.0,
+      "text": " 1인.",
+      "tokens": [
+        50414,
+        502,
+        4215,
+        13,
+        50464
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 48,
+      "seek": 8600,
+      "start": 88.0,
+      "end": 89.0,
+      "text": " 다시요.",
+      "tokens": [
+        50464,
+        15463,
+        1495,
+        13,
+        50514
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 49,
+      "seek": 8600,
+      "start": 89.0,
+      "end": 90.0,
+      "text": " 1인.",
+      "tokens": [
+        50514,
+        502,
+        4215,
+        13,
+        50564
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 50,
+      "seek": 8600,
+      "start": 90.0,
+      "end": 91.0,
+      "text": " 다시요.",
+      "tokens": [
+        50564,
+        15463,
+        1495,
+        13,
+        50614
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 51,
+      "seek": 8600,
+      "start": 91.0,
+      "end": 92.0,
+      "text": " 1인.",
+      "tokens": [
+        50614,
+        502,
+        4215,
+        13,
+        50664
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 52,
+      "seek": 8600,
+      "start": 92.0,
+      "end": 94.0,
+      "text": " 덜 먹는 게.",
+      "tokens": [
+        50664,
+        5596,
+        250,
+        30616,
+        7845,
+        13,
+        50764
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 53,
+      "seek": 8600,
+      "start": 94.0,
+      "end": 96.0,
+      "text": " 1인.",
+      "tokens": [
+        50764,
+        502,
+        4215,
+        13,
+        50864
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 54,
+      "seek": 8600,
+      "start": 96.0,
+      "end": 98.0,
+      "text": " 1인.",
+      "tokens": [
+        50864,
+        502,
+        4215,
+        13,
+        50964
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 55,
+      "seek": 8600,
+      "start": 98.0,
+      "end": 100.0,
+      "text": " 1인.",
+      "tokens": [
+        50964,
+        502,
+        4215,
+        13,
+        51064
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 56,
+      "seek": 8600,
+      "start": 100.0,
+      "end": 102.0,
+      "text": " 1인.",
+      "tokens": [
+        51064,
+        502,
+        4215,
+        13,
+        51164
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 57,
+      "seek": 8600,
+      "start": 102.0,
+      "end": 104.0,
+      "text": " 1인.",
+      "tokens": [
+        51164,
+        502,
+        4215,
+        13,
+        51264
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 58,
+      "seek": 8600,
+      "start": 104.0,
+      "end": 106.0,
+      "text": " 공부를 하는 게.",
+      "tokens": [
+        51264,
+        9273,
+        35912,
+        2429,
+        10914,
+        7845,
+        13,
+        51364
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 59,
+      "seek": 8600,
+      "start": 106.0,
+      "end": 108.0,
+      "text": "itation.",
+      "tokens": [
+        51364,
+        4614,
+        13,
+        51464
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 60,
+      "seek": 8600,
+      "start": 108.0,
+      "end": 110.0,
+      "text": " 공부를 하는 게.",
+      "tokens": [
+        51464,
+        9273,
+        35912,
+        2429,
+        10914,
+        7845,
+        13,
+        51564
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 61,
+      "seek": 8600,
+      "start": 110.0,
+      "end": 111.0,
+      "text": "itation.",
+      "tokens": [
+        51564,
+        4614,
+        13,
+        51614
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 62,
+      "seek": 8600,
+      "start": 111.0,
+      "end": 113.0,
+      "text": " 열심히 공부하는 게.",
+      "tokens": [
+        51614,
+        31939,
+        9273,
+        17317,
+        7116,
+        7845,
+        13,
+        51714
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 63,
+      "seek": 8600,
+      "start": 113.0,
+      "end": 115.0,
+      "text": "itation.",
+      "tokens": [
+        51714,
+        4614,
+        13,
+        51814
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.28211862564086915,
+      "compression_ratio": 2.206896551724138,
+      "no_speech_prob": 0.002933108014985919
+    },
+    {
+      "id": 64,
+      "seek": 11500,
+      "start": 115.0,
+      "end": 116.0,
+      "text": " 중요해요.",
+      "tokens": [
+        50364,
+        24851,
+        15788,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5001651602731624,
+      "compression_ratio": 1.4081632653061225,
+      "no_speech_prob": 0.2859807014465332
+    },
+    {
+      "id": 65,
+      "seek": 11500,
+      "start": 119.0,
+      "end": 121.0,
+      "text": " 많이 공부하는 게",
+      "tokens": [
+        50564,
+        8358,
+        9273,
+        17317,
+        7116,
+        7845,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5001651602731624,
+      "compression_ratio": 1.4081632653061225,
+      "no_speech_prob": 0.2859807014465332
+    },
+    {
+      "id": 66,
+      "seek": 11500,
+      "start": 122.0,
+      "end": 124.0,
+      "text": " 많이 공부하는 게",
+      "tokens": [
+        50714,
+        8358,
+        9273,
+        17317,
+        7116,
+        7845,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5001651602731624,
+      "compression_ratio": 1.4081632653061225,
+      "no_speech_prob": 0.2859807014465332
+    },
+    {
+      "id": 67,
+      "seek": 11500,
+      "start": 125.0,
+      "end": 126.0,
+      "text": " 많이 공부하는 게 중요해요.",
+      "tokens": [
+        50864,
+        8358,
+        9273,
+        17317,
+        7116,
+        7845,
+        24851,
+        15788,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5001651602731624,
+      "compression_ratio": 1.4081632653061225,
+      "no_speech_prob": 0.2859807014465332
+    },
+    {
+      "id": 68,
+      "seek": 11500,
+      "start": 129.0,
+      "end": 130.0,
+      "text": " 내 친구를 만나는 건",
+      "tokens": [
+        51064,
+        6918,
+        30922,
+        2429,
+        38841,
+        1098,
+        13507,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5001651602731624,
+      "compression_ratio": 1.4081632653061225,
+      "no_speech_prob": 0.2859807014465332
+    },
+    {
+      "id": 69,
+      "seek": 11500,
+      "start": 131.0,
+      "end": 132.0,
+      "text": " 미팅� My Friend",
+      "tokens": [
+        51164,
+        10795,
+        27086,
+        167,
+        1222,
+        22812,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5001651602731624,
+      "compression_ratio": 1.4081632653061225,
+      "no_speech_prob": 0.2859807014465332
+    },
+    {
+      "id": 70,
+      "seek": 11500,
+      "start": 134.0,
+      "end": 135.0,
+      "text": " 영화를 보는 건",
+      "tokens": [
+        51314,
+        9293,
+        37859,
+        40891,
+        13507,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5001651602731624,
+      "compression_ratio": 1.4081632653061225,
+      "no_speech_prob": 0.2859807014465332
+    },
+    {
+      "id": 71,
+      "seek": 11500,
+      "start": 137.0,
+      "end": 139.0,
+      "text": " 뭐냐, 왓칭뮤비 시작",
+      "tokens": [
+        51464,
+        25205,
+        12476,
+        11,
+        4186,
+        241,
+        4741,
+        255,
+        167,
+        106,
+        2990,
+        9790,
+        14525,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5001651602731624,
+      "compression_ratio": 1.4081632653061225,
+      "no_speech_prob": 0.2859807014465332
+    },
+    {
+      "id": 72,
+      "seek": 11500,
+      "start": 140.0,
+      "end": 141.0,
+      "text": " 다시요?",
+      "tokens": [
+        51614,
+        15463,
+        1495,
+        30,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5001651602731624,
+      "compression_ratio": 1.4081632653061225,
+      "no_speech_prob": 0.2859807014465332
+    },
+    {
+      "id": 73,
+      "seek": 14100,
+      "start": 142.0,
+      "end": 143.0,
+      "text": " 다시요?",
+      "tokens": [
+        50414,
+        15463,
+        1495,
+        30,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28031742141907473,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.00925928819924593
+    },
+    {
+      "id": 74,
+      "seek": 14100,
+      "start": 144.0,
+      "end": 145.0,
+      "text": " 연행하는 건",
+      "tokens": [
+        50514,
+        11839,
+        12724,
+        7116,
+        13507,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28031742141907473,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.00925928819924593
+    },
+    {
+      "id": 75,
+      "seek": 14100,
+      "start": 146.0,
+      "end": 147.0,
+      "text": " 트랩블링 시작",
+      "tokens": [
+        50614,
+        34479,
+        252,
+        102,
+        167,
+        116,
+        3261,
+        25787,
+        14525,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28031742141907473,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.00925928819924593
+    },
+    {
+      "id": 76,
+      "seek": 14100,
+      "start": 148.0,
+      "end": 149.0,
+      "text": " 연행하는 건",
+      "tokens": [
+        50714,
+        11839,
+        12724,
+        7116,
+        13507,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28031742141907473,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.00925928819924593
+    },
+    {
+      "id": 77,
+      "seek": 14100,
+      "start": 150.0,
+      "end": 151.0,
+      "text": " 내 가족과 여행하는 건",
+      "tokens": [
+        50814,
+        6918,
+        46008,
+        7097,
+        5518,
+        12724,
+        7116,
+        13507,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28031742141907473,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.00925928819924593
+    },
+    {
+      "id": 78,
+      "seek": 14100,
+      "start": 160.0,
+      "end": 161.0,
+      "text": " 가족과 함께 여행하는 건",
+      "tokens": [
+        51314,
+        46008,
+        7097,
+        21469,
+        5518,
+        12724,
+        7116,
+        13507,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28031742141907473,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.00925928819924593
+    },
+    {
+      "id": 79,
+      "seek": 14100,
+      "start": 162.0,
+      "end": 164.0,
+      "text": " 트랩블링 with my family",
+      "tokens": [
+        51414,
+        34479,
+        252,
+        102,
+        167,
+        116,
+        3261,
+        25787,
+        365,
+        452,
+        1605,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28031742141907473,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.00925928819924593
+    },
+    {
+      "id": 80,
+      "seek": 14100,
+      "start": 165.0,
+      "end": 166.0,
+      "text": " is fun!",
+      "tokens": [
+        51564,
+        307,
+        1019,
+        0,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28031742141907473,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.00925928819924593
+    },
+    {
+      "id": 81,
+      "seek": 14100,
+      "start": 166.0,
+      "end": 167.0,
+      "text": " 다른 사람들, 뭐예요?",
+      "tokens": [
+        51614,
+        16435,
+        39570,
+        11,
+        7034,
+        10790,
+        30,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28031742141907473,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.00925928819924593
+    },
+    {
+      "id": 82,
+      "seek": 14100,
+      "start": 168.0,
+      "end": 169.0,
+      "text": " 다른 사람들은?",
+      "tokens": [
+        51714,
+        16435,
+        18078,
+        22571,
+        30,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28031742141907473,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.00925928819924593
+    },
+    {
+      "id": 83,
+      "seek": 14100,
+      "start": 169.0,
+      "end": 170.0,
+      "text": " 다른 사람들과?",
+      "tokens": [
+        51764,
+        16435,
+        39570,
+        7097,
+        30,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28031742141907473,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.00925928819924593
+    },
+    {
+      "id": 84,
+      "seek": 17100,
+      "start": 171.0,
+      "end": 172.0,
+      "text": " 다른 사람들과?",
+      "tokens": [
+        50364,
+        16435,
+        39570,
+        7097,
+        30,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700535774230957,
+      "compression_ratio": 2.1742424242424243,
+      "no_speech_prob": 0.0027985668275505304
+    },
+    {
+      "id": 85,
+      "seek": 17100,
+      "start": 173.0,
+      "end": 174.0,
+      "text": " 다른 사람들과?",
+      "tokens": [
+        50464,
+        16435,
+        39570,
+        7097,
+        30,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700535774230957,
+      "compression_ratio": 2.1742424242424243,
+      "no_speech_prob": 0.0027985668275505304
+    },
+    {
+      "id": 86,
+      "seek": 17100,
+      "start": 175.0,
+      "end": 176.0,
+      "text": " 다른 사람들과 사는 게?",
+      "tokens": [
+        50564,
+        16435,
+        39570,
+        7097,
+        4744,
+        1098,
+        7845,
+        30,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700535774230957,
+      "compression_ratio": 2.1742424242424243,
+      "no_speech_prob": 0.0027985668275505304
+    },
+    {
+      "id": 87,
+      "seek": 17100,
+      "start": 178.0,
+      "end": 179.0,
+      "text": "例대인 With Others",
+      "tokens": [
+        50714,
+        17797,
+        14173,
+        4215,
+        2022,
+        20277,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700535774230957,
+      "compression_ratio": 2.1742424242424243,
+      "no_speech_prob": 0.0027985668275505304
+    },
+    {
+      "id": 88,
+      "seek": 17100,
+      "start": 180.0,
+      "end": 181.0,
+      "text": " 다시요?",
+      "tokens": [
+        50814,
+        15463,
+        1495,
+        30,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700535774230957,
+      "compression_ratio": 2.1742424242424243,
+      "no_speech_prob": 0.0027985668275505304
+    },
+    {
+      "id": 89,
+      "seek": 17100,
+      "start": 182.0,
+      "end": 183.0,
+      "text": " 다른 사람들과 공부하는 게?",
+      "tokens": [
+        50914,
+        16435,
+        39570,
+        7097,
+        9273,
+        17317,
+        7116,
+        7845,
+        30,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700535774230957,
+      "compression_ratio": 2.1742424242424243,
+      "no_speech_prob": 0.0027985668275505304
+    },
+    {
+      "id": 90,
+      "seek": 17100,
+      "start": 185.0,
+      "end": 187.0,
+      "text": " 다른 사람들과 같이 숨 쉬는 게?",
+      "tokens": [
+        51064,
+        16435,
+        39570,
+        7097,
+        16358,
+        33354,
+        37687,
+        1098,
+        7845,
+        30,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700535774230957,
+      "compression_ratio": 2.1742424242424243,
+      "no_speech_prob": 0.0027985668275505304
+    },
+    {
+      "id": 91,
+      "seek": 17100,
+      "start": 188.0,
+      "end": 189.0,
+      "text": " breathing with others",
+      "tokens": [
+        51214,
+        9570,
+        365,
+        2357,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700535774230957,
+      "compression_ratio": 2.1742424242424243,
+      "no_speech_prob": 0.0027985668275505304
+    },
+    {
+      "id": 92,
+      "seek": 17100,
+      "start": 191.0,
+      "end": 192.0,
+      "text": " breathing with others",
+      "tokens": [
+        51364,
+        9570,
+        365,
+        2357,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700535774230957,
+      "compression_ratio": 2.1742424242424243,
+      "no_speech_prob": 0.0027985668275505304
+    },
+    {
+      "id": 93,
+      "seek": 17100,
+      "start": 194.0,
+      "end": 195.0,
+      "text": " breathing with others",
+      "tokens": [
+        51514,
+        9570,
+        365,
+        2357,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700535774230957,
+      "compression_ratio": 2.1742424242424243,
+      "no_speech_prob": 0.0027985668275505304
+    },
+    {
+      "id": 94,
+      "seek": 17100,
+      "start": 197.0,
+      "end": 198.0,
+      "text": " 다른 사람들과 일하는 게?",
+      "tokens": [
+        51664,
+        16435,
+        39570,
+        7097,
+        7682,
+        7116,
+        7845,
+        30,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2700535774230957,
+      "compression_ratio": 2.1742424242424243,
+      "no_speech_prob": 0.0027985668275505304
+    },
+    {
+      "id": 95,
+      "seek": 19800,
+      "start": 198.0,
+      "end": 199.0,
+      "text": " 다른 사람들과?",
+      "tokens": [
+        50364,
+        16435,
+        39570,
+        7097,
+        30,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 96,
+      "seek": 19800,
+      "start": 200.0,
+      "end": 201.0,
+      "text": " 만나는 게?",
+      "tokens": [
+        50464,
+        38841,
+        1098,
+        7845,
+        30,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 97,
+      "seek": 19800,
+      "start": 204.0,
+      "end": 205.0,
+      "text": " 다시요?",
+      "tokens": [
+        50664,
+        15463,
+        1495,
+        30,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 98,
+      "seek": 19800,
+      "start": 207.0,
+      "end": 208.0,
+      "text": " 이슬, 그것은 좋다?",
+      "tokens": [
+        50814,
+        4329,
+        232,
+        105,
+        11,
+        32565,
+        2124,
+        44891,
+        30,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 99,
+      "seek": 19800,
+      "start": 209.0,
+      "end": 210.0,
+      "text": " 낫다는?",
+      "tokens": [
+        50914,
+        2079,
+        104,
+        10520,
+        30,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 100,
+      "seek": 19800,
+      "start": 210.0,
+      "end": 211.0,
+      "text": " is better",
+      "tokens": [
+        50964,
+        307,
+        1101,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 101,
+      "seek": 19800,
+      "start": 211.0,
+      "end": 212.0,
+      "text": " 최고다?",
+      "tokens": [
+        51014,
+        36703,
+        1235,
+        30,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 102,
+      "seek": 19800,
+      "start": 212.0,
+      "end": 213.0,
+      "text": " is the best",
+      "tokens": [
+        51064,
+        307,
+        264,
+        1151,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 103,
+      "seek": 19800,
+      "start": 213.0,
+      "end": 214.0,
+      "text": " 그냥 이거는 왜 오세요?",
+      "tokens": [
+        51114,
+        11208,
+        24535,
+        9883,
+        5175,
+        7046,
+        30,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 104,
+      "seek": 19800,
+      "start": 214.0,
+      "end": 216.0,
+      "text": " 전주에서 비빔밥 먹는 게 더 나",
+      "tokens": [
+        51164,
+        6831,
+        5836,
+        4885,
+        24241,
+        117,
+        3261,
+        45582,
+        30616,
+        7845,
+        6990,
+        3948,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 105,
+      "seek": 19800,
+      "start": 217.0,
+      "end": 221.0,
+      "text": " 1인, 비빔밥인, 전주 is better",
+      "tokens": [
+        51314,
+        502,
+        4215,
+        11,
+        24241,
+        117,
+        3261,
+        45582,
+        4215,
+        11,
+        6831,
+        5836,
+        307,
+        1101,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 106,
+      "seek": 19800,
+      "start": 221.0,
+      "end": 222.0,
+      "text": " is better, 그쵸?",
+      "tokens": [
+        51514,
+        307,
+        1101,
+        11,
+        4296,
+        43910,
+        116,
+        30,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 107,
+      "seek": 19800,
+      "start": 222.0,
+      "end": 223.0,
+      "text": " is better, 더 나",
+      "tokens": [
+        51564,
+        307,
+        1101,
+        11,
+        6990,
+        3948,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 108,
+      "seek": 19800,
+      "start": 223.0,
+      "end": 224.0,
+      "text": " 영화를 공부하는 게 최고다",
+      "tokens": [
+        51614,
+        9293,
+        37859,
+        9273,
+        17317,
+        7116,
+        7845,
+        36703,
+        1235,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655102360355961,
+      "compression_ratio": 1.4312796208530805,
+      "no_speech_prob": 0.04584846273064613
+    },
+    {
+      "id": 109,
+      "seek": 22400,
+      "start": 224.0,
+      "end": 227.0,
+      "text": " studying English is the best",
+      "tokens": [
+        50364,
+        7601,
+        3669,
+        307,
+        264,
+        1151,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 110,
+      "seek": 22400,
+      "start": 227.0,
+      "end": 228.0,
+      "text": " 그쵸?",
+      "tokens": [
+        50514,
+        4296,
+        43910,
+        116,
+        30,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 111,
+      "seek": 22400,
+      "start": 228.0,
+      "end": 229.0,
+      "text": " 서울에서 입하는 게 최고야",
+      "tokens": [
+        50564,
+        31039,
+        4885,
+        10051,
+        7116,
+        7845,
+        36703,
+        4248,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 112,
+      "seek": 22400,
+      "start": 230.0,
+      "end": 232.0,
+      "text": " working in the self is the best",
+      "tokens": [
+        50664,
+        1364,
+        294,
+        264,
+        2698,
+        307,
+        264,
+        1151,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 113,
+      "seek": 22400,
+      "start": 232.0,
+      "end": 234.0,
+      "text": " 부산에서 사는 게 최고야",
+      "tokens": [
+        50764,
+        11351,
+        16551,
+        4885,
+        4744,
+        1098,
+        7845,
+        36703,
+        4248,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 114,
+      "seek": 22400,
+      "start": 234.0,
+      "end": 237.0,
+      "text": " living in the self is the best",
+      "tokens": [
+        50864,
+        2647,
+        294,
+        264,
+        2698,
+        307,
+        264,
+        1151,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 115,
+      "seek": 22400,
+      "start": 239.0,
+      "end": 240.0,
+      "text": " is hard",
+      "tokens": [
+        51114,
+        307,
+        1152,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 116,
+      "seek": 22400,
+      "start": 241.0,
+      "end": 242.0,
+      "text": " is hard",
+      "tokens": [
+        51214,
+        307,
+        1152,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 117,
+      "seek": 22400,
+      "start": 242.0,
+      "end": 244.0,
+      "text": " is easy",
+      "tokens": [
+        51264,
+        307,
+        1858,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 118,
+      "seek": 22400,
+      "start": 244.0,
+      "end": 245.0,
+      "text": " is easy",
+      "tokens": [
+        51364,
+        307,
+        1858,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 119,
+      "seek": 22400,
+      "start": 245.0,
+      "end": 246.0,
+      "text": " is easy",
+      "tokens": [
+        51414,
+        307,
+        1858,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 120,
+      "seek": 22400,
+      "start": 246.0,
+      "end": 247.0,
+      "text": " is easy",
+      "tokens": [
+        51464,
+        307,
+        1858,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 121,
+      "seek": 22400,
+      "start": 247.0,
+      "end": 248.0,
+      "text": " is easy",
+      "tokens": [
+        51514,
+        307,
+        1858,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 122,
+      "seek": 22400,
+      "start": 248.0,
+      "end": 249.0,
+      "text": " is it easy?",
+      "tokens": [
+        51564,
+        307,
+        309,
+        1858,
+        30,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 123,
+      "seek": 22400,
+      "start": 249.0,
+      "end": 251.0,
+      "text": " 쉽지 않아? 그치",
+      "tokens": [
+        51614,
+        33561,
+        1831,
+        39860,
+        30,
+        4296,
+        8464,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 124,
+      "seek": 22400,
+      "start": 251.0,
+      "end": 253.0,
+      "text": " is important",
+      "tokens": [
+        51714,
+        307,
+        1021,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.332132845508809,
+      "compression_ratio": 1.6347305389221556,
+      "no_speech_prob": 0.03059007041156292
+    },
+    {
+      "id": 125,
+      "seek": 25300,
+      "start": 253.0,
+      "end": 255.0,
+      "text": " is it important?",
+      "tokens": [
+        50364,
+        307,
+        309,
+        1021,
+        30,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 126,
+      "seek": 25300,
+      "start": 255.0,
+      "end": 256.0,
+      "text": " is it important?",
+      "tokens": [
+        50464,
+        307,
+        309,
+        1021,
+        30,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 127,
+      "seek": 25300,
+      "start": 256.0,
+      "end": 257.0,
+      "text": " is fast",
+      "tokens": [
+        50514,
+        307,
+        2370,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 128,
+      "seek": 25300,
+      "start": 257.0,
+      "end": 259.0,
+      "text": " is fast",
+      "tokens": [
+        50564,
+        307,
+        2370,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 129,
+      "seek": 25300,
+      "start": 259.0,
+      "end": 261.0,
+      "text": " is fast",
+      "tokens": [
+        50664,
+        307,
+        2370,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 130,
+      "seek": 25300,
+      "start": 261.0,
+      "end": 263.0,
+      "text": " is fast",
+      "tokens": [
+        50764,
+        307,
+        2370,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 131,
+      "seek": 25300,
+      "start": 263.0,
+      "end": 265.0,
+      "text": " eating a lot is good",
+      "tokens": [
+        50864,
+        3936,
+        257,
+        688,
+        307,
+        665,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 132,
+      "seek": 25300,
+      "start": 265.0,
+      "end": 267.0,
+      "text": " is it a lot is good?",
+      "tokens": [
+        50964,
+        307,
+        309,
+        257,
+        688,
+        307,
+        665,
+        30,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 133,
+      "seek": 25300,
+      "start": 267.0,
+      "end": 269.0,
+      "text": " is it a lot is good?",
+      "tokens": [
+        51064,
+        307,
+        309,
+        257,
+        688,
+        307,
+        665,
+        30,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 134,
+      "seek": 25300,
+      "start": 269.0,
+      "end": 271.0,
+      "text": " is it a lot is good?",
+      "tokens": [
+        51164,
+        307,
+        309,
+        257,
+        688,
+        307,
+        665,
+        30,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 135,
+      "seek": 25300,
+      "start": 271.0,
+      "end": 273.0,
+      "text": " is it a lot is good?",
+      "tokens": [
+        51264,
+        307,
+        309,
+        257,
+        688,
+        307,
+        665,
+        30,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 136,
+      "seek": 25300,
+      "start": 273.0,
+      "end": 274.0,
+      "text": " is it good?",
+      "tokens": [
+        51364,
+        307,
+        309,
+        665,
+        30,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 137,
+      "seek": 25300,
+      "start": 274.0,
+      "end": 275.0,
+      "text": " 그쵸?",
+      "tokens": [
+        51414,
+        4296,
+        43910,
+        116,
+        30,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 138,
+      "seek": 25300,
+      "start": 275.0,
+      "end": 276.0,
+      "text": " 방금 무슨 말 하신 거예요?",
+      "tokens": [
+        51464,
+        10006,
+        4781,
+        22712,
+        7058,
+        3369,
+        7575,
+        14050,
+        30,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 139,
+      "seek": 25300,
+      "start": 276.0,
+      "end": 277.0,
+      "text": " 많이 먹는 게?",
+      "tokens": [
+        51514,
+        8358,
+        30616,
+        7845,
+        30,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 140,
+      "seek": 25300,
+      "start": 277.0,
+      "end": 278.0,
+      "text": " 좋지 않?",
+      "tokens": [
+        51564,
+        5008,
+        1831,
+        6718,
+        30,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 141,
+      "seek": 25300,
+      "start": 278.0,
+      "end": 279.0,
+      "text": " 그치",
+      "tokens": [
+        51614,
+        4296,
+        8464,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 142,
+      "seek": 25300,
+      "start": 279.0,
+      "end": 280.0,
+      "text": " is good?",
+      "tokens": [
+        51664,
+        307,
+        665,
+        30,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 143,
+      "seek": 25300,
+      "start": 280.0,
+      "end": 281.0,
+      "text": " is it good?",
+      "tokens": [
+        51714,
+        307,
+        309,
+        665,
+        30,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 144,
+      "seek": 25300,
+      "start": 281.0,
+      "end": 282.0,
+      "text": " is good?",
+      "tokens": [
+        51764,
+        307,
+        665,
+        30,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22990695322592428,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.008727356791496277
+    },
+    {
+      "id": 145,
+      "seek": 28200,
+      "start": 282.0,
+      "end": 283.0,
+      "text": " is good",
+      "tokens": [
+        50364,
+        307,
+        665,
+        50414
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 146,
+      "seek": 28200,
+      "start": 283.0,
+      "end": 284.0,
+      "text": " is it good?",
+      "tokens": [
+        50414,
+        307,
+        309,
+        665,
+        30,
+        50464
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 147,
+      "seek": 28200,
+      "start": 284.0,
+      "end": 285.0,
+      "text": " is it good?",
+      "tokens": [
+        50464,
+        307,
+        309,
+        665,
+        30,
+        50514
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 148,
+      "seek": 28200,
+      "start": 285.0,
+      "end": 287.0,
+      "text": " drink coffee is good",
+      "tokens": [
+        50514,
+        2822,
+        4982,
+        307,
+        665,
+        50614
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 149,
+      "seek": 28200,
+      "start": 287.0,
+      "end": 289.0,
+      "text": " drink coffee is good",
+      "tokens": [
+        50614,
+        2822,
+        4982,
+        307,
+        665,
+        50714
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 150,
+      "seek": 28200,
+      "start": 289.0,
+      "end": 290.0,
+      "text": " drink coffee is good",
+      "tokens": [
+        50714,
+        2822,
+        4982,
+        307,
+        665,
+        50764
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 151,
+      "seek": 28200,
+      "start": 290.0,
+      "end": 292.0,
+      "text": " drink coffee is good",
+      "tokens": [
+        50764,
+        2822,
+        4982,
+        307,
+        665,
+        50864
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 152,
+      "seek": 28200,
+      "start": 292.0,
+      "end": 294.0,
+      "text": " drink coffee in the morning is good",
+      "tokens": [
+        50864,
+        2822,
+        4982,
+        294,
+        264,
+        2446,
+        307,
+        665,
+        50964
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 153,
+      "seek": 28200,
+      "start": 294.0,
+      "end": 296.0,
+      "text": " drink coffee is good",
+      "tokens": [
+        50964,
+        2822,
+        4982,
+        307,
+        665,
+        51064
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 154,
+      "seek": 28200,
+      "start": 296.0,
+      "end": 299.0,
+      "text": " drink coffee in the morning is good",
+      "tokens": [
+        51064,
+        2822,
+        4982,
+        294,
+        264,
+        2446,
+        307,
+        665,
+        51214
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 155,
+      "seek": 28200,
+      "start": 299.0,
+      "end": 301.0,
+      "text": " drink coffee is good",
+      "tokens": [
+        51214,
+        2822,
+        4982,
+        307,
+        665,
+        51314
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 156,
+      "seek": 28200,
+      "start": 301.0,
+      "end": 302.0,
+      "text": " 무슨 말 안 거예요?",
+      "tokens": [
+        51314,
+        22712,
+        7058,
+        4811,
+        14050,
+        30,
+        51364
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 157,
+      "seek": 28200,
+      "start": 302.0,
+      "end": 303.0,
+      "text": " 지금",
+      "tokens": [
+        51364,
+        7356,
+        51414
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 158,
+      "seek": 28200,
+      "start": 304.0,
+      "end": 305.0,
+      "text": " 그치",
+      "tokens": [
+        51464,
+        4296,
+        8464,
+        51514
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 159,
+      "seek": 28200,
+      "start": 305.0,
+      "end": 307.0,
+      "text": " drink coffee in the morning is good",
+      "tokens": [
+        51514,
+        2822,
+        4982,
+        294,
+        264,
+        2446,
+        307,
+        665,
+        51614
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 160,
+      "seek": 28200,
+      "start": 307.0,
+      "end": 308.0,
+      "text": " 그쵸?",
+      "tokens": [
+        51614,
+        4296,
+        43910,
+        116,
+        30,
+        51664
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 161,
+      "seek": 28200,
+      "start": 308.0,
+      "end": 309.0,
+      "text": " 문장에 좀씩 늘어나죠",
+      "tokens": [
+        51664,
+        13086,
+        4573,
+        1517,
+        6796,
+        24317,
+        33684,
+        31134,
+        5837,
+        51714
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 162,
+      "seek": 28200,
+      "start": 309.0,
+      "end": 311.0,
+      "text": " taking a subway is fast",
+      "tokens": [
+        51714,
+        1940,
+        257,
+        24953,
+        307,
+        2370,
+        51814
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1929243863639185,
+      "compression_ratio": 2.308176100628931,
+      "no_speech_prob": 0.016435949131846428
+    },
+    {
+      "id": 163,
+      "seek": 31100,
+      "start": 311.0,
+      "end": 314.0,
+      "text": " taking a subway is fast",
+      "tokens": [
+        50364,
+        1940,
+        257,
+        24953,
+        307,
+        2370,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2098966189793178,
+      "compression_ratio": 1.6458333333333333,
+      "no_speech_prob": 0.02600337564945221
+    },
+    {
+      "id": 164,
+      "seek": 31100,
+      "start": 314.0,
+      "end": 317.0,
+      "text": " taking a subway is fast",
+      "tokens": [
+        50514,
+        1940,
+        257,
+        24953,
+        307,
+        2370,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2098966189793178,
+      "compression_ratio": 1.6458333333333333,
+      "no_speech_prob": 0.02600337564945221
+    },
+    {
+      "id": 165,
+      "seek": 31100,
+      "start": 317.0,
+      "end": 320.0,
+      "text": " taking a subway is fast",
+      "tokens": [
+        50664,
+        1940,
+        257,
+        24953,
+        307,
+        2370,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2098966189793178,
+      "compression_ratio": 1.6458333333333333,
+      "no_speech_prob": 0.02600337564945221
+    },
+    {
+      "id": 166,
+      "seek": 31100,
+      "start": 320.0,
+      "end": 322.0,
+      "text": " 무슨 말이에요?",
+      "tokens": [
+        50814,
+        22712,
+        7058,
+        15099,
+        30,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2098966189793178,
+      "compression_ratio": 1.6458333333333333,
+      "no_speech_prob": 0.02600337564945221
+    },
+    {
+      "id": 167,
+      "seek": 31100,
+      "start": 322.0,
+      "end": 324.0,
+      "text": " 종로에서 지하철 가는 건",
+      "tokens": [
+        50914,
+        25260,
+        12888,
+        4885,
+        4704,
+        2240,
+        39432,
+        37407,
+        13507,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2098966189793178,
+      "compression_ratio": 1.6458333333333333,
+      "no_speech_prob": 0.02600337564945221
+    },
+    {
+      "id": 168,
+      "seek": 31100,
+      "start": 324.0,
+      "end": 326.0,
+      "text": " 빠르지 않다",
+      "tokens": [
+        51014,
+        36351,
+        98,
+        24289,
+        6718,
+        1235,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2098966189793178,
+      "compression_ratio": 1.6458333333333333,
+      "no_speech_prob": 0.02600337564945221
+    },
+    {
+      "id": 169,
+      "seek": 31100,
+      "start": 326.0,
+      "end": 327.0,
+      "text": " 그렇죠",
+      "tokens": [
+        51114,
+        34410,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2098966189793178,
+      "compression_ratio": 1.6458333333333333,
+      "no_speech_prob": 0.02600337564945221
+    },
+    {
+      "id": 170,
+      "seek": 31100,
+      "start": 327.0,
+      "end": 331.0,
+      "text": " getting a back is expensive",
+      "tokens": [
+        51164,
+        1242,
+        257,
+        646,
+        307,
+        5124,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2098966189793178,
+      "compression_ratio": 1.6458333333333333,
+      "no_speech_prob": 0.02600337564945221
+    },
+    {
+      "id": 171,
+      "seek": 31100,
+      "start": 331.0,
+      "end": 336.0,
+      "text": " getting a back is expensive",
+      "tokens": [
+        51364,
+        1242,
+        257,
+        646,
+        307,
+        5124,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2098966189793178,
+      "compression_ratio": 1.6458333333333333,
+      "no_speech_prob": 0.02600337564945221
+    },
+    {
+      "id": 172,
+      "seek": 31100,
+      "start": 336.0,
+      "end": 339.0,
+      "text": " getting a back is expensive",
+      "tokens": [
+        51614,
+        1242,
+        257,
+        646,
+        307,
+        5124,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2098966189793178,
+      "compression_ratio": 1.6458333333333333,
+      "no_speech_prob": 0.02600337564945221
+    },
+    {
+      "id": 173,
+      "seek": 33900,
+      "start": 339.0,
+      "end": 345.0,
+      "text": " getting a back in Hong Kong is expensive",
+      "tokens": [
+        50364,
+        1242,
+        257,
+        646,
+        294,
+        8868,
+        9832,
+        307,
+        5124,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2415803727649507,
+      "compression_ratio": 1.7338129496402879,
+      "no_speech_prob": 0.009447058662772179
+    },
+    {
+      "id": 174,
+      "seek": 33900,
+      "start": 345.0,
+      "end": 351.0,
+      "text": " getting a back in Hong Kong is expensive",
+      "tokens": [
+        50664,
+        1242,
+        257,
+        646,
+        294,
+        8868,
+        9832,
+        307,
+        5124,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2415803727649507,
+      "compression_ratio": 1.7338129496402879,
+      "no_speech_prob": 0.009447058662772179
+    },
+    {
+      "id": 175,
+      "seek": 33900,
+      "start": 351.0,
+      "end": 353.0,
+      "text": " 무슨 말 안 거예요?",
+      "tokens": [
+        50964,
+        22712,
+        7058,
+        4811,
+        14050,
+        30,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2415803727649507,
+      "compression_ratio": 1.7338129496402879,
+      "no_speech_prob": 0.009447058662772179
+    },
+    {
+      "id": 176,
+      "seek": 33900,
+      "start": 353.0,
+      "end": 357.0,
+      "text": " Hong Kong에서 가방 사는 거는 사자",
+      "tokens": [
+        51064,
+        8868,
+        9832,
+        4885,
+        10583,
+        17027,
+        4744,
+        1098,
+        46821,
+        4744,
+        4264,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2415803727649507,
+      "compression_ratio": 1.7338129496402879,
+      "no_speech_prob": 0.009447058662772179
+    },
+    {
+      "id": 177,
+      "seek": 33900,
+      "start": 357.0,
+      "end": 360.0,
+      "text": " getting a visa is possible",
+      "tokens": [
+        51264,
+        1242,
+        257,
+        18589,
+        307,
+        1944,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2415803727649507,
+      "compression_ratio": 1.7338129496402879,
+      "no_speech_prob": 0.009447058662772179
+    },
+    {
+      "id": 178,
+      "seek": 33900,
+      "start": 360.0,
+      "end": 363.0,
+      "text": " getting a visa is impossible",
+      "tokens": [
+        51414,
+        1242,
+        257,
+        18589,
+        307,
+        6243,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2415803727649507,
+      "compression_ratio": 1.7338129496402879,
+      "no_speech_prob": 0.009447058662772179
+    },
+    {
+      "id": 179,
+      "seek": 33900,
+      "start": 363.0,
+      "end": 367.0,
+      "text": " 다시 getting a visa is possible",
+      "tokens": [
+        51564,
+        15463,
+        1242,
+        257,
+        18589,
+        307,
+        1944,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2415803727649507,
+      "compression_ratio": 1.7338129496402879,
+      "no_speech_prob": 0.009447058662772179
+    },
+    {
+      "id": 180,
+      "seek": 36700,
+      "start": 367.0,
+      "end": 371.0,
+      "text": " getting a visa is possible",
+      "tokens": [
+        50364,
+        1242,
+        257,
+        18589,
+        307,
+        1944,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4342395199669732,
+      "compression_ratio": 1.4519230769230769,
+      "no_speech_prob": 0.08481648564338684
+    },
+    {
+      "id": 181,
+      "seek": 36700,
+      "start": 371.0,
+      "end": 376.0,
+      "text": " getting an American visa is possible",
+      "tokens": [
+        50564,
+        1242,
+        364,
+        2665,
+        18589,
+        307,
+        1944,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4342395199669732,
+      "compression_ratio": 1.4519230769230769,
+      "no_speech_prob": 0.08481648564338684
+    },
+    {
+      "id": 182,
+      "seek": 36700,
+      "start": 376.0,
+      "end": 382.0,
+      "text": " getting an American visa is possible",
+      "tokens": [
+        50814,
+        1242,
+        364,
+        2665,
+        18589,
+        307,
+        1944,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4342395199669732,
+      "compression_ratio": 1.4519230769230769,
+      "no_speech_prob": 0.08481648564338684
+    },
+    {
+      "id": 183,
+      "seek": 36700,
+      "start": 382.0,
+      "end": 385.0,
+      "text": " 자, 오늘의 소위 여기서 마치겠습니다",
+      "tokens": [
+        51114,
+        5650,
+        11,
+        8880,
+        2785,
+        10614,
+        14098,
+        25404,
+        6437,
+        8464,
+        9420,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4342395199669732,
+      "compression_ratio": 1.4519230769230769,
+      "no_speech_prob": 0.08481648564338684
+    }
+  ],
+  "language": "ko"
+}
