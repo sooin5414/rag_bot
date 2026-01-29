@@ -4,6 +4,7 @@ __pycache__/
 *.pyo
 *.pyd
 *.db
+.venv/
 
 # Node.js 캐시
 node_modules/
@@ -20,4 +21,26 @@ node_modules/
 *.gz
 youtube/
 
+# 환경변수
 .env
+
+# ChromaDB 데이터
+chroma_db/
+chroma_db_with_role/
+lecture_db_5/
+lecture_overlap/
+lecture_overlap_30/
+lecture_overlap_30_whisperx/
+
+# OCR 결과물
+ocr_results/
+ocr_results.json
+ocr_output.log
+merged_data/
+
+# 평가 결과
+evaluation_output.txt
+evaluation_results.json
+
+# uv
+uv.lock
