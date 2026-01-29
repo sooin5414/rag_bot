@@ -44,3 +44,6 @@ evaluation_results.json
 
 # uv
 uv.lock
+
+# External repos
+agent-chat-ui/

@@ -1,15 +1,15 @@
-# knowledge_extractor.py
+
 import json
 import glob
-from langchain_openai import ChatOpenAI
 from pathlib import Path
 from dotenv import load_dotenv
 import unicodedata
 import re
 import difflib
+from openai import OpenAI
 
 load_dotenv()
-llm = ChatOpenAI(model="gpt-4o", temperature=0)
+client = OpenAI()
 
 video_url_map = {
     "01_NEW 이시원 강의 | 한 달 만에 영어로 말문 트기 #29 | 과거에 있었던 일 설명할 때  | 기초 영어 회화.json": "https://www.youtube.com/watch?v=R_-pgaQYaYQ",
@@ -56,178 +56,300 @@ def normalize_filename(name):
 def get_video_url(video_filename):
     """파일명으로 비디오 URL 찾기 (유사도 매칭)"""
     normalized_filename = normalize_filename(video_filename)
-    
+
     # 정규화된 키 목록
     normalized_keys = {normalize_filename(k): k for k in video_url_map.keys()}
-    
+
     # 완전 일치 확인
     if normalized_filename in normalized_keys:
         original_key = normalized_keys[normalized_filename]
         return video_url_map[original_key]
-    
+
     # 유사도 매칭
     keys = list(normalized_keys.keys())
     match = difflib.get_close_matches(normalized_filename, keys, n=1, cutoff=0.6)
-    
+
     if match:
         original_key = normalized_keys[match[0]]
         return video_url_map[original_key]
-    
+
     return "URL_없음"
 
 
-def extract_knowledge_structure(video_data, video_metadata):
+# ============================================================
+# Step 1: 오인식 패턴 추출 (LLM 사용)
+# ============================================================
+def extract_corrections_from_transcript(transcript_text: str) -> dict:
+    """Whisper 오인식 패턴 추출"""
+    all_corrections = {}
+
+    chunk_size = 1500
+    for i in range(0, len(transcript_text), chunk_size):
+        chunk = transcript_text[i:i + chunk_size]
+        prompt = f"""당신은 영어 강의 음성인식 오류를 분석하는 전문가입니다.
+
+아래는 한국인 영어 선생님의 강의를 Whisper로 음성인식한 결과입니다.
+선생님이 영어 단어를 발음했는데 한글로 잘못 인식된 부분을 찾아주세요.
+
+예시:
+ - "be동사" → "비동사"
+ - "have" → "해브", "해부"
+ - "was" → "워즈"
+ - "been" → "빈"
+
+잘못된 예시 (이건 하지 마세요):
+- "사람들이" → "people"  (이건 번역임)
+- "오늘" → "today" (이건 번역임)
+
+트랜스크립트:
+{chunk}
+
+위 텍스트에서 한글로 잘못 인식된 영어 단어들을 찾아서 JSON으로 출력하세요.
+{{"한글오인식": "올바른영어", ...}}
+"""
+
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4o",
+                messages=[{"role": "user", "content": prompt}],
+                response_format={"type": "json_object"},
+                temperature=0,
+                max_tokens=800
+            )
+            corrections = json.loads(response.choices[0].message.content)
+            all_corrections.update(corrections)
+        except:
+            continue
+
+    return all_corrections
+
+
+def apply_corrections(text: str, corrections: dict) -> str:
+    """오인식 패턴을 올바른 영어로 교체"""
+    sorted_corrections = sorted(corrections.items(), key=lambda x: len(x[0]), reverse=True)
+    for wrong, right in sorted_corrections:
+        text = text.replace(wrong, right)
+    return text
+
+
+def apply_corrections_to_segments(segments: list, corrections: dict) -> list:
+    """각 segment의 text에 보정 적용"""
+    corrected_segments = []
+    for seg in segments:
+        corrected_seg = seg.copy()
+        corrected_seg["text"] = apply_corrections(seg["text"], corrections)
+        corrected_segments.append(corrected_seg)
+    return corrected_segments
+
+
+def extract_knowledge_structure(video_data, video_metadata, corrections: dict = None):
     """영상 하나에서 지식 구조 추출"""
-    
-    # 전체 transcript 합치기
+
+    segments = video_data.get('segments', [])
+
+    # 보정 적용
+    if corrections:
+        segments = apply_corrections_to_segments(segments, corrections)
+
+    # 전체 transcript 합치기 (시간 정보 포함)
     full_transcript = "\n".join([
-        f"[{seg['start']:.1f}s] {seg['text']}" 
-        for seg in video_data.get('segments', [])
+        f"[{seg['start']:.1f}s ~ {seg['end']:.1f}s] {seg['text']}"
+        for seg in segments
     ])
-    
+
+    # 8000자까지 사용 (기존 3000 → 8000)
+    if len(full_transcript) > 8000:
+        full_transcript = full_transcript[:8000]
+
     video_title = video_metadata.get('title', 'Unknown')
-    
-    prompt = f"""
-            다음은 "{video_title}" 영어 강의의 전체 스크립트입니다.
 
-            {full_transcript[:3000]}  # 너무 길면 truncate
+    prompt = f"""당신은 영어 강의를 분석하는 전문가입니다.
+다음은 "{video_title}" 영어 강의의 전체 스크립트입니다.
 
-            이 강의의 지식 구조를 JSON으로 추출하세요:
+{full_transcript}
 
-            {{
-            "main_topic": "핵심 주제 (예: be동사, 현재완료, 동명사)",
-            "sub_topics": [
-                {{
-                "id": "고유ID (snake_case, 예: be_adjective)",
-                "title": "서브토픽 제목 (예: be동사 + 형용사)",
-                "concept": "핵심 개념을 1-2문장으로",
-                "examples": ["예문1", "예문2"],
-                "video_segments": [
-                    {{
-                    "start_time": 28.5,
-                    "end_time": 46.0,
-                    "description": "이 구간에서 다루는 내용"
-                    }}
-                ]
-                }}
-            ],
-            "related_topics": ["이 주제와 연관된 다른 문법 주제"]
-            }}
+이 강의에서 다루는 모든 문법 주제와 세부 내용을 분석하세요.
+하나의 영상에서 여러 sub_topic이 나올 수 있습니다 (예: 기본 설명, 의문문, 부정문, 예문 연습 등).
 
-            CRITICAL: 반드시 유효한 JSON만 출력하세요. 다른 텍스트는 포함하지 마세요.
-            """
-    
-    response = llm.invoke(prompt)
-    
-    # JSON 파싱
+JSON 형식으로 출력하세요:
+{{
+  "main_topic": "이 영상의 핵심 문법 주제 (예: 현재진행형, be동사, that절)",
+  "definition": "이 문법이 무엇인지 명확하게 요약 (예: '수동태는 주어가 동작을 당하는 것을 표현하는 문법이다. be + 과거분사 형태로 만든다.')",
+  "teacher_tip": "선생님이 이 문법을 쉽게 이해시키기 위해 사용한 비유나 핵심 설명. 반드시 문법 개념과 연결된 내용이어야 함. (예: 수동태 - '주어 입장에서 당하는 거예요. I wear a watch면 시계 입장에서는 The watch is worn이 되는 거죠')",
+  "sub_topics": [
+    {{
+      "id": "고유ID (snake_case, 예: present_continuous_question)",
+      "title": "서브토픽 제목 (예: 현재진행형 의문문)",
+      "concept": "이 서브토픽의 핵심 개념 요약 (1-2문장)",
+      "teacher_explanation": "선생님이 이 부분을 설명할 때 핵심 한마디 (짧고 이해하기 쉬운 표현)",
+      "examples": ["I have studied for two years. (나는 2년 동안 공부해왔어)", "We have met before. (우리 전에 만난 적 있어)"],
+      "video_segments": [
+        {{
+          "start_time": 28.5,
+          "end_time": 46.0,
+          "description": "이 구간에서 다루는 내용 요약"
+        }}
+      ]
+    }}
+  ],
+  "related_topics": ["연관 문법 주제1", "연관 문법 주제2"]
+}}
+
+중요:
+- definition은 문법 개념을 명확하게 정의하세요 (스크립트 복사 X, 요약 O)
+- teacher_tip은 반드시 문법 개념을 설명하는 비유/팁이어야 함 (단순 문장 예시 X)
+  - 좋은 예: "수동태는 주어가 동작을 당하는 입장이에요"
+  - 나쁜 예: "내가 시계를 차면, 시계 입장에서는 차지는 거예요" (이건 그냥 예시문)
+- teacher_explanation도 문법 개념 설명이어야 함 (1-2문장)
+- sub_topics는 최소 2개 이상 추출하세요
+- video_segments의 시간은 스크립트의 [시간] 정보를 참고하세요
+- examples는 실제 강의에서 나온 완전한 영어 문장을 사용하세요
+- 각 예문은 반드시 "영어 문장. (한국어 번역)" 형식으로 작성하세요
+"""
+
     try:
-        # 마크다운 코드블록 제거
-        content = response.content.strip()
-        if content.startswith("```json"):
-            content = content[7:]
-        if content.startswith("```"):
-            content = content[3:]
-        if content.endswith("```"):
-            content = content[:-3]
-        
-        return json.loads(content.strip())
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[{"role": "user", "content": prompt}],
+            response_format={"type": "json_object"},
+            temperature=0,
+            max_tokens=4000
+        )
+        return json.loads(response.choices[0].message.content)
     except json.JSONDecodeError as e:
         print(f"❌ JSON 파싱 실패: {e}")
-        print(f"응답: {response.content[:200]}")
+        return None
+    except Exception as e:
+        print(f"❌ API 에러: {e}")
         return None
 
 def build_knowledge_graph():
     """모든 영상에서 지식 그래프 생성"""
-    
-    json_files = glob.glob("/data/edutem/sooine/rag_bot/youtube_playlist/*.json")
-    
+
+    json_files = glob.glob("/data/edutem/sooine/rag_bot/merged_data/*.json")
+
     all_knowledge = {}
-    
+
     print(f"📚 총 {len(json_files)}개 영상 처리 중...")
-    
+
     for i, json_file in enumerate(json_files, 1):
         filename = Path(json_file).name
-        print(f"\n[{i}/{len(json_files)}] {filename}")
-        
+        print(f"\n[{i}/{len(json_files)}] {filename[:50]}...")
+
         try:
             with open(json_file, 'r', encoding='utf-8') as f:
                 video_data = json.load(f)
-            
+
             # 비디오 URL 찾기 (유사도 매칭)
             video_url = get_video_url(filename)
-            
+
             if video_url == "URL_없음":
-                print(f"  ⚠️  URL을 찾을 수 없음: {filename}")
-            
+                print(f"  ⚠️  URL을 찾을 수 없음")
+
+            # Step 1: 오인식 보정
+            segments = video_data.get('segments', [])
+            # STT + OCR 텍스트 합치기
+            transcript_text = " ".join([
+                seg.get("text", "") + (" [화면: " + " ".join(seg.get("screen_text", [])) + "]" if seg.get("screen_text") else "")
+                for seg in segments
+            ])
+            print(f"  🔧 오인식 보정 중...")
+            corrections = extract_corrections_from_transcript(transcript_text)
+            if corrections:
+                print(f"     {len(corrections)}개 패턴 발견")
+
             # 메타데이터 생성
             video_metadata = {
                 'title': filename.replace('.json', ''),
                 'filename': filename,
                 'video_url': video_url
             }
-            
-            # 지식 구조 추출
-            knowledge = extract_knowledge_structure(video_data, video_metadata)
-            
+
+            # Step 2: 지식 구조 추출 (보정된 텍스트로)
+            print(f"  📖 지식 구조 추출 중...")
+            knowledge = extract_knowledge_structure(video_data, video_metadata, corrections)
+
             if not knowledge:
                 print(f"  ⚠️  지식 추출 실패")
                 continue
-            
-            main_topic = knowledge['main_topic']
+
+            main_topic = knowledge.get('main_topic', 'Unknown')
+            definition = knowledge.get('definition', '')
+            teacher_tip = knowledge.get('teacher_tip', '')
+            sub_topics = knowledge.get('sub_topics', [])
+
             print(f"  ✅ 주제: {main_topic}")
-            print(f"     서브토픽 {len(knowledge['sub_topics'])}개 발견")
-            print(f"     URL: {video_url}")
-            
+            print(f"     서브토픽 {len(sub_topics)}개 발견")
+
+            related_topics = knowledge.get('related_topics', [])
+
             # 지식 베이스에 추가
             if main_topic not in all_knowledge:
                 all_knowledge[main_topic] = {
-                    "definition": "",
+                    "definition": definition,
+                    "teacher_tip": teacher_tip,
                     "sub_topics": {},
-                    "videos": []
+                    "videos": [],
+                    "related_topics": set()
                 }
-            
+            else:
+                # 비어있으면 업데이트
+                if not all_knowledge[main_topic]["definition"] and definition:
+                    all_knowledge[main_topic]["definition"] = definition
+                if not all_knowledge[main_topic]["teacher_tip"] and teacher_tip:
+                    all_knowledge[main_topic]["teacher_tip"] = teacher_tip
+
+            # related_topics 병합
+            all_knowledge[main_topic]["related_topics"].update(related_topics)
+
             # 서브토픽 병합
-            for sub in knowledge['sub_topics']:
-                sub_id = sub['id']
+            for sub in sub_topics:
+                sub_id = sub.get('id', 'unknown')
                 if sub_id not in all_knowledge[main_topic]['sub_topics']:
                     all_knowledge[main_topic]['sub_topics'][sub_id] = {
-                        "title": sub['title'],
-                        "concept": sub['concept'],
-                        "examples": sub['examples'],
+                        "title": sub.get('title', ''),
+                        "concept": sub.get('concept', ''),
+                        "teacher_explanation": sub.get('teacher_explanation', ''),
+                        "examples": sub.get('examples', []),
                         "video_segments": []
                     }
-                
+
                 # 영상 세그먼트 추가
-                for seg in sub['video_segments']:
+                for seg in sub.get('video_segments', []):
                     all_knowledge[main_topic]['sub_topics'][sub_id]['video_segments'].append({
                         "video_url": video_url,
                         "video_title": video_metadata['title'],
                         "filename": filename,
-                        "start_time": seg['start_time'],
-                        "end_time": seg['end_time'],
-                        "description": seg['description']
+                        "start_time": seg.get('start_time', 0),
+                        "end_time": seg.get('end_time', 0),
+                        "description": seg.get('description', '')
                     })
-            
+
             # 비디오 메타데이터 추가
             all_knowledge[main_topic]['videos'].append({
                 "url": video_url,
                 "title": video_metadata['title'],
                 "filename": filename
             })
-            
+
         except Exception as e:
             print(f"  ❌ 에러: {e}")
             import traceback
             traceback.print_exc()
             continue
-    
+
     return all_knowledge
 
 if __name__ == "__main__":
     print("🚀 지식 그래프 생성 시작...\n")
-    
+
     knowledge_graph = build_knowledge_graph()
-    
+
+    # set을 list로 변환 (JSON 저장용)
+    for topic in knowledge_graph:
+        if isinstance(knowledge_graph[topic].get("related_topics"), set):
+            knowledge_graph[topic]["related_topics"] = list(knowledge_graph[topic]["related_topics"])
+
     # 저장
     output_path = "/data/edutem/sooine/rag_bot/knowledge_graph.json"
     with open(output_path, 'w', encoding='utf-8') as f:

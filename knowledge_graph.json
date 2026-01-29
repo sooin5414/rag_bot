@@ -1,30 +1,43 @@
 {
   "현재완료 진행형": {
-    "definition": "",
+    "definition": "현재완료 진행형은 과거부터 현재까지 계속해서 진행 중인 동작이나 상태를 표현하는 문법이다. 'have/has been + 동사원형-ing' 형태로 사용된다.",
+    "teacher_tip": "현재완료 진행형은 '과거부터 지금까지 쭉 해온 것'을 강조하는 거예요. 단순히 한 번 했던 게 아니라 계속 이어져 온 거죠.",
     "sub_topics": {
-      "present_perfect_continuous": {
-        "title": "현재완료 진행형",
-        "concept": "현재완료 진행형은 과거부터 현재까지 계속해서 진행 중인 동작을 나타낸다.",
+      "present_perfect_vs_present_perfect_continuous": {
+        "title": "현재완료와 현재완료 진행형 비교",
+        "concept": "현재완료는 과거의 경험이나 완료된 일을 나타내고, 현재완료 진행형은 과거부터 현재까지 계속 진행 중인 일을 나타낸다.",
+        "teacher_explanation": "현재완료는 '한 적 있다'고 말할 수 있지만, 현재완료 진행형은 '계속 해왔다'고 말하는 거예요.",
         "examples": [
-          "I have been studying.",
-          "I have been waiting."
+          "I have studied. (나는 공부했었다)",
+          "I have been studying. (나는 계속 공부해왔다)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=jOb8mznvX48",
             "video_title": "05_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #25 ｜ have를 깊이, 자연스럽게 ｜ 기초 영어 회화",
             "filename": "05_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #25 ｜ have를 깊이, 자연스럽게 ｜ 기초 영어 회화.json",
-            "start_time": 26.1,
-            "end_time": 64.0,
-            "description": "현재완료 진행형의 3가지 의미와 사용법 설명"
-          },
+            "start_time": 26.3,
+            "end_time": 59.5,
+            "description": "현재완료와 현재완료 진행형의 차이점 설명"
+          }
+        ]
+      },
+      "present_perfect_continuous_examples": {
+        "title": "현재완료 진행형 예문 연습",
+        "concept": "현재완료 진행형을 사용하여 다양한 동작을 표현하는 연습을 한다.",
+        "teacher_explanation": "계속 해온 것을 말할 때는 'have been ~ing'를 사용하세요.",
+        "examples": [
+          "I've been studying. (난 계속 공부했어)",
+          "We've been waiting for a long time. (우리는 오랫동안 기다려왔어요)"
+        ],
+        "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=jOb8mznvX48",
             "video_title": "05_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #25 ｜ have를 깊이, 자연스럽게 ｜ 기초 영어 회화",
             "filename": "05_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #25 ｜ have를 깊이, 자연스럽게 ｜ 기초 영어 회화.json",
             "start_time": 64.0,
-            "end_time": 210.4,
-            "description": "현재완료 진행형의 다양한 예문과 반복 연습"
+            "end_time": 210.0,
+            "description": "현재완료 진행형을 사용한 다양한 예문 연습"
           }
         ]
       }
@@ -35,167 +48,145 @@
         "title": "05_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #25 ｜ have를 깊이, 자연스럽게 ｜ 기초 영어 회화",
         "filename": "05_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #25 ｜ have를 깊이, 자연스럽게 ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "과거진행형",
+      "현재완료"
     ]
   },
   "be동사": {
-    "definition": "",
+    "definition": "be동사는 주어의 상태나 위치를 나타내는 동사로, 주어에 따라 am, is, are로 형태가 변한다.",
+    "teacher_tip": "be동사는 주어의 상태나 위치를 설명할 때 사용해요. 예를 들어, '나는 한국에 있어요'는 'I am in Korea'가 됩니다.",
     "sub_topics": {
-      "be_location": {
-        "title": "be동사 + 장소",
-        "concept": "be동사를 사용하여 주어가 특정 장소에 있음을 나타낸다.",
+      "be_verb_location": {
+        "title": "be동사를 사용한 위치 표현",
+        "concept": "be동사를 사용하여 주어의 위치를 표현하는 방법을 배운다.",
+        "teacher_explanation": "주어가 어디에 있는지를 말할 때 be동사를 사용해요. 예를 들어, '나는 한국에 있어요'는 'I am in Korea'입니다.",
         "examples": [
-          "I am in Korea.",
-          "My husband is in the military."
+          "I am in Korea. (나는 한국에 있어요)",
+          "My husband is in America. (내 남편은 미국에 있어요)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=h_Yv5bX8p8k",
             "video_title": "18_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #12 ｜ '~에 있다'를 뜻하는 be 동사 연습 ｜ 기초 영어 회화",
             "filename": "18_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #12 ｜ '~에 있다'를 뜻하는 be 동사 연습 ｜ 기초 영어 회화.json",
-            "start_time": 28.5,
-            "end_time": 46.0,
-            "description": "한국에 있다는 표현 연습"
-          },
-          {
-            "video_url": "https://www.youtube.com/watch?v=h_Yv5bX8p8k",
-            "video_title": "18_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #12 ｜ '~에 있다'를 뜻하는 be 동사 연습 ｜ 기초 영어 회화",
-            "filename": "18_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #12 ｜ '~에 있다'를 뜻하는 be 동사 연습 ｜ 기초 영어 회화.json",
-            "start_time": 56.1,
-            "end_time": 65.1,
-            "description": "역삼동에 있다는 표현 연습"
-          },
-          {
-            "video_url": "https://www.youtube.com/watch?v=h_Yv5bX8p8k",
-            "video_title": "18_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #12 ｜ '~에 있다'를 뜻하는 be 동사 연습 ｜ 기초 영어 회화",
-            "filename": "18_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #12 ｜ '~에 있다'를 뜻하는 be 동사 연습 ｜ 기초 영어 회화.json",
-            "start_time": 107.1,
-            "end_time": 121.0,
-            "description": "미국에 있다는 표현 연습"
-          },
-          {
-            "video_url": "https://www.youtube.com/watch?v=h_Yv5bX8p8k",
-            "video_title": "18_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #12 ｜ '~에 있다'를 뜻하는 be 동사 연습 ｜ 기초 영어 회화",
-            "filename": "18_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #12 ｜ '~에 있다'를 뜻하는 be 동사 연습 ｜ 기초 영어 회화.json",
-            "start_time": 136.1,
-            "end_time": 140.0,
-            "description": "군대에 있다는 표현 연습"
+            "start_time": 19.8,
+            "end_time": 50.7,
+            "description": "be동사를 사용하여 위치를 표현하는 방법을 설명"
           }
         ]
       },
-      "be_plural_subjects": {
-        "title": "be동사 + 복수 주어",
-        "concept": "복수 주어와 함께 be동사를 사용할 때 'are'를 사용한다.",
+      "be_verb_third_person_plural": {
+        "title": "3인칭 복수 주어와 be동사",
+        "concept": "3인칭 복수 주어와 함께 사용할 때 be동사는 are로 변한다.",
+        "teacher_explanation": "3인칭 복수 주어일 때는 be동사가 are로 변해요. 예를 들어, '사람들은 스타벅스에 있습니다'는 'People are in Starbucks'입니다.",
         "examples": [
-          "People are in Starbucks.",
-          "They are in Seoul."
+          "People are in Starbucks. (사람들은 스타벅스에 있습니다)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=h_Yv5bX8p8k",
             "video_title": "18_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #12 ｜ '~에 있다'를 뜻하는 be 동사 연습 ｜ 기초 영어 회화",
             "filename": "18_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #12 ｜ '~에 있다'를 뜻하는 be 동사 연습 ｜ 기초 영어 회화.json",
-            "start_time": 178.1,
-            "end_time": 184.5,
-            "description": "복수 주어와 함께 'are' 사용하기"
+            "start_time": 167.9,
+            "end_time": 182.0,
+            "description": "3인칭 복수 주어와 함께 be동사를 사용하는 방법 설명"
           }
         ]
       },
-      "be_adjective": {
-        "title": "be동사 + 형용사",
-        "concept": "be동사를 사용하여 형용사를 연결하여 상태나 성질을 표현한다.",
+      "be_verb_forms": {
+        "title": "be동사의 형태",
+        "concept": "be동사는 주어에 따라 am, is, are로 변형된다.",
+        "teacher_explanation": "주어에 따라 be동사의 형태가 달라져요. 예를 들어, I일 때는 am, he/she/it일 때는 is, you/we/they일 때는 are를 사용합니다.",
         "examples": [
-          "I am pretty.",
-          "It is red."
+          "I am a student. (나는 학생이다)",
+          "She is pretty. (그녀는 예쁘다)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=WS5hLZV7Lb4",
             "video_title": "19_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#11 ｜ 다양한 be 동사 형태 연습 ｜ 기초 영어 회화",
             "filename": "19_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#11 ｜ 다양한 be 동사 형태 연습 ｜ 기초 영어 회화.json",
-            "start_time": 0.0,
-            "end_time": 21.7,
-            "description": "be동사와 형용사를 연결하여 상태를 표현하는 방법 소개"
-          },
-          {
-            "video_url": "https://www.youtube.com/watch?v=V8e_cwY7VTs",
-            "video_title": "20_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#10 ｜ 바쁘다는 busy가 아니다! ｜ 기초 영어 회화",
-            "filename": "20_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#10 ｜ 바쁘다는 busy가 아니다! ｜ 기초 영어 회화.json",
-            "start_time": 28.5,
-            "end_time": 46.0,
-            "description": "be동사와 형용사의 결합에 대한 설명"
+            "start_time": 4.2,
+            "end_time": 29.2,
+            "description": "be동사의 기본 형태와 사용법에 대한 설명"
           }
         ]
       },
-      "be_noun": {
-        "title": "be동사 + 명사",
-        "concept": "be동사를 사용하여 명사를 연결하여 존재나 정체성을 표현한다.",
+      "be_verb_with_modals": {
+        "title": "조동사와 함께 쓰이는 be동사",
+        "concept": "조동사 뒤에 오는 be동사는 형태가 변하지 않고 원형 그대로 사용된다.",
+        "teacher_explanation": "조동사 뒤에서는 be동사가 변하지 않아요. 예를 들어, 'can be', 'will be'처럼 사용합니다.",
         "examples": [
-          "It is a camera.",
-          "This is my car."
+          "I will be a singer. (나는 가수가 될 거예요)",
+          "You can be late. (너는 늦을 수 있어)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=WS5hLZV7Lb4",
             "video_title": "19_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#11 ｜ 다양한 be 동사 형태 연습 ｜ 기초 영어 회화",
             "filename": "19_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#11 ｜ 다양한 be 동사 형태 연습 ｜ 기초 영어 회화.json",
-            "start_time": 109.5,
-            "end_time": 139.5,
-            "description": "be동사와 명사를 연결하여 존재를 표현하는 방법 설명"
+            "start_time": 182.6,
+            "end_time": 192.2,
+            "description": "조동사와 함께 사용되는 be동사의 원형 사용 설명"
           }
         ]
       },
-      "be_future": {
-        "title": "be동사 + 미래형",
-        "concept": "be동사를 사용하여 미래의 상태나 행동을 표현한다.",
+      "be_verb_usage": {
+        "title": "be동사의 사용법",
+        "concept": "be동사는 주어의 상태를 나타내며, 주어에 따라 am, is, are로 변한다.",
+        "teacher_explanation": "주어에 따라 be동사가 am, is, are로 바뀌어요.",
         "examples": [
-          "I will be late.",
-          "You can be late."
-        ],
-        "video_segments": [
-          {
-            "video_url": "https://www.youtube.com/watch?v=WS5hLZV7Lb4",
-            "video_title": "19_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#11 ｜ 다양한 be 동사 형태 연습 ｜ 기초 영어 회화",
-            "filename": "19_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#11 ｜ 다양한 be 동사 형태 연습 ｜ 기초 영어 회화.json",
-            "start_time": 243.8,
-            "end_time": 268.7,
-            "description": "be동사를 사용하여 미래의 상태를 표현하는 방법 설명"
-          }
-        ]
-      },
-      "be_conjugation": {
-        "title": "be동사의 활용",
-        "concept": "be동사는 주어에 따라 am, is, are로 변화한다.",
-        "examples": [
-          "I am",
-          "You are",
-          "He is"
+          "I am busy. (나는 바빠)",
+          "He is busy. (그는 바빠)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=V8e_cwY7VTs",
             "video_title": "20_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#10 ｜ 바쁘다는 busy가 아니다! ｜ 기초 영어 회화",
             "filename": "20_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#10 ｜ 바쁘다는 busy가 아니다! ｜ 기초 영어 회화.json",
-            "start_time": 60.0,
-            "end_time": 81.4,
-            "description": "be동사의 다양한 형태에 대한 설명"
+            "start_time": 10.6,
+            "end_time": 70.2,
+            "description": "be동사의 기본 개념과 주어에 따른 형태 변화 설명"
           }
         ]
       },
-      "be_negation": {
-        "title": "be동사의 부정형",
-        "concept": "be동사의 부정형은 'not'을 사용하여 표현한다.",
+      "be_verb_negation": {
+        "title": "be동사의 부정문",
+        "concept": "be동사의 부정문은 be동사 뒤에 not을 붙여 만든다.",
+        "teacher_explanation": "be동사 뒤에 not을 붙이면 부정문이 돼요.",
         "examples": [
-          "I am not busy.",
-          "He is not cold."
+          "He is not busy. (그는 바쁘지 않아)",
+          "This is not good. (이건 맛있지 않아)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=V8e_cwY7VTs",
             "video_title": "20_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#10 ｜ 바쁘다는 busy가 아니다! ｜ 기초 영어 회화",
             "filename": "20_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#10 ｜ 바쁘다는 busy가 아니다! ｜ 기초 영어 회화.json",
-            "start_time": 158.8,
-            "end_time": 185.4,
-            "description": "be동사의 부정형에 대한 설명"
+            "start_time": 160.3,
+            "end_time": 323.7,
+            "description": "be동사의 부정문 형성과 줄임말 설명"
+          }
+        ]
+      },
+      "be_verb_questions": {
+        "title": "be동사의 의문문",
+        "concept": "be동사의 의문문은 be동사를 주어 앞에 위치시켜 만든다.",
+        "teacher_explanation": "be동사를 앞으로 빼면 의문문이 돼요.",
+        "examples": [
+          "Are you busy? (넌 바빠?)",
+          "Is this fast? (이건 빠르니?)"
+        ],
+        "video_segments": [
+          {
+            "video_url": "https://www.youtube.com/watch?v=V8e_cwY7VTs",
+            "video_title": "20_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#10 ｜ 바쁘다는 busy가 아니다! ｜ 기초 영어 회화",
+            "filename": "20_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#10 ｜ 바쁘다는 busy가 아니다! ｜ 기초 영어 회화.json",
+            "start_time": 233.8,
+            "end_time": 281.4,
+            "description": "be동사의 의문문 형성 방법 설명"
           }
         ]
       }
@@ -216,62 +207,74 @@
         "title": "20_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#10 ｜ 바쁘다는 busy가 아니다! ｜ 기초 영어 회화",
         "filename": "20_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#10 ｜ 바쁘다는 busy가 아니다! ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "조동사",
+      "수동태",
+      "현재 시제",
+      "주어와 동사의 일치",
+      "현재진행형",
+      "현재형과 과거형의 be동사"
     ]
   },
-  "기초 영어 회화": {
-    "definition": "",
+  "전치사 사용법": {
+    "definition": "전치사는 명사나 대명사 앞에 위치하여 장소, 시간, 방법 등을 나타내는 단어이다. 문장에서 명사와 다른 요소를 연결하는 역할을 한다.",
+    "teacher_tip": "전치사는 명사 앞에 붙어서 그 명사가 어디에 있는지, 언제 일어나는지, 어떻게 하는지를 설명해주는 단어예요.",
     "sub_topics": {
-      "answering_questions": {
-        "title": "질문에 답하기",
-        "concept": "의문문에 대한 답변을 연습하고 다양한 장소와 시간 표현을 사용하여 문장을 구성하는 방법을 배운다.",
+      "prepositions_of_place": {
+        "title": "장소 전치사",
+        "concept": "장소를 나타내는 전치사 'in', 'at'의 사용법을 설명한다.",
+        "teacher_explanation": "'in'은 넓은 장소나 공간 안을, 'at'은 특정 지점을 나타낼 때 사용해요.",
         "examples": [
-          "I study in Gangnam.",
-          "I drink coffee at Starbucks."
+          "I study in 영등포. (나는 영등포에서 공부해요)",
+          "We will meet at 호버민터체인지. (우리는 호버민터체인지에서 만날 거예요)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=a_eNZ4ZVwxc",
             "video_title": "29_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#6 ｜ 의문문 질문에 답하기 ｜ 기초 영어 회화",
             "filename": "29_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#6 ｜ 의문문 질문에 답하기 ｜ 기초 영어 회화.json",
-            "start_time": 0.0,
-            "end_time": 49.5,
-            "description": "질문에 답하는 방법과 장소 표현 연습"
+            "start_time": 34.1,
+            "end_time": 83.4,
+            "description": "장소 전치사 'in'과 'at'의 사용법을 설명하고 예문을 제공한다."
           }
         ]
       },
-      "using_prepositions": {
-        "title": "전치사 사용하기",
-        "concept": "장소와 수단을 나타내는 전치사 'in', 'at', 'by', 'through'의 사용법을 배운다.",
+      "prepositions_of_time": {
+        "title": "시간 전치사",
+        "concept": "시간을 나타내는 전치사 'at', 'on', 'in'의 사용법을 설명한다.",
+        "teacher_explanation": "'at'은 특정 시간을, 'on'은 특정 요일을, 'in'은 특정 달을 나타낼 때 사용해요.",
         "examples": [
-          "I study English through this book.",
-          "I go home by bus."
+          "I will get up at 11. (나는 11시에 일어날 거다)",
+          "I will go to Starbucks at 2. (나는 스타벅스에 2시에 갈 거야)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=a_eNZ4ZVwxc",
             "video_title": "29_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#6 ｜ 의문문 질문에 답하기 ｜ 기초 영어 회화",
             "filename": "29_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#6 ｜ 의문문 질문에 답하기 ｜ 기초 영어 회화.json",
-            "start_time": 49.5,
-            "end_time": 161.5,
-            "description": "전치사 'in', 'at', 'by', 'through'의 사용법 설명"
+            "start_time": 166.6,
+            "end_time": 327.3,
+            "description": "시간 전치사 'at', 'on', 'in'의 사용법을 설명하고 다양한 예문을 제공한다."
           }
         ]
       },
-      "time_expressions": {
-        "title": "시간 표현하기",
-        "concept": "언제와 몇 시에 대한 질문에 답하는 방법을 배우고, 시간 표현을 연습한다.",
+      "prepositions_of_method": {
+        "title": "방법 전치사",
+        "concept": "방법을 나타내는 전치사 'by', 'through'의 사용법을 설명한다.",
+        "teacher_explanation": "'by'는 수단을, 'through'는 경로를 나타낼 때 사용해요.",
         "examples": [
-          "I will leave at 2.",
-          "I will get up at 10."
+          "I study English through this book. (나는 이 책을 통해 영어를 공부해요)",
+          "I go home by bus. (나는 버스로 집에 가)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=a_eNZ4ZVwxc",
             "video_title": "29_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#6 ｜ 의문문 질문에 답하기 ｜ 기초 영어 회화",
             "filename": "29_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#6 ｜ 의문문 질문에 답하기 ｜ 기초 영어 회화.json",
-            "start_time": 161.5,
-            "end_time": 249.9,
-            "description": "시간 표현을 사용하여 문장을 구성하는 방법"
+            "start_time": 106.0,
+            "end_time": 164.7,
+            "description": "방법 전치사 'by'와 'through'의 사용법을 설명하고 예문을 제공한다."
           }
         ]
       }
@@ -282,148 +285,126 @@
         "title": "29_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#6 ｜ 의문문 질문에 답하기 ｜ 기초 영어 회화",
         "filename": "29_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#6 ｜ 의문문 질문에 답하기 ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "전치사의 종류",
+      "전치사와 명사의 결합"
     ]
   },
-  "that을 사용한 문장 확장": {
-    "definition": "",
+  "that절": {
+    "definition": "that절은 주절에 추가적인 정보를 제공하는 종속절로, 주로 명사절, 형용사절, 부사절로 사용된다. 주로 관계대명사로 사용되어 앞의 명사를 수식하거나, 명사절로 사용되어 주어, 목적어, 보어 역할을 한다.",
+    "teacher_tip": "that절은 문장을 길게 만들어주는 도구로, '이것이 바로 내가 원하는 것이다'처럼 구체적인 설명을 덧붙일 때 사용합니다.",
     "sub_topics": {
-      "want_to_have": {
-        "title": "that을 사용한 소유 표현",
-        "concept": "that을 사용하여 '내가 가지고 싶은'과 같은 소유의 의미를 확장하여 표현할 수 있다.",
+      "noun_clause_with_that": {
+        "title": "that을 사용한 명사절",
+        "concept": "that절이 주어, 목적어, 보어로 사용되어 문장의 주요 성분을 형성한다.",
+        "teacher_explanation": "that절은 문장의 주어, 목적어, 보어로 사용되어 문장을 완성시킵니다.",
         "examples": [
-          "The bag that I want to have",
-          "The coffee that I want to drink"
+          "The coffee that I want to drink is this. (내가 마시고 싶은 커피는 이거야)",
+          "The bag that I want to buy is this. (내가 사고 싶은 가방은 이거야)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=gHrI6qhbziI",
             "video_title": "11_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #19 ｜ that 으로 문장 길게 만들기(2) ｜ 기초 영어 회화",
             "filename": "11_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #19 ｜ that 으로 문장 길게 만들기(2) ｜ 기초 영어 회화.json",
-            "start_time": 18.0,
-            "end_time": 40.0,
-            "description": "that을 사용하여 '내가 가지고 싶은'을 표현하는 방법"
+            "start_time": 38.0,
+            "end_time": 68.5,
+            "description": "that절을 사용하여 명사절을 만드는 연습"
           }
         ]
       },
-      "want_to_get": {
-        "title": "that을 사용한 구매 표현",
-        "concept": "that을 사용하여 '내가 사고 싶은'과 같은 구매의 의미를 확장하여 표현할 수 있다.",
+      "adjective_clause_with_that": {
+        "title": "that을 사용한 형용사절",
+        "concept": "that절이 명사를 수식하여 추가적인 정보를 제공하는 형용사절로 사용된다.",
+        "teacher_explanation": "that절은 명사를 꾸며주는 형용사절로 사용되어, 명사에 대한 추가 정보를 제공합니다.",
         "examples": [
-          "The bag that I want to get"
+          "The jacket that I designed is here. (내가 디자인했던 재킷이 여기 있어요)",
+          "The academy that I went to was good. (내가 다녔던 학원은 좋았어요)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=gHrI6qhbziI",
             "video_title": "11_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #19 ｜ that 으로 문장 길게 만들기(2) ｜ 기초 영어 회화",
             "filename": "11_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #19 ｜ that 으로 문장 길게 만들기(2) ｜ 기초 영어 회화.json",
-            "start_time": 44.0,
-            "end_time": 67.0,
-            "description": "that을 사용하여 '내가 사고 싶은'을 표현하는 방법"
+            "start_time": 120.2,
+            "end_time": 204.7,
+            "description": "that절을 사용하여 형용사절을 만드는 연습"
           }
         ]
       },
-      "have_or_not_have": {
-        "title": "that을 사용한 소유 여부 표현",
-        "concept": "that을 사용하여 '내가 가지고 있는' 또는 '내가 가지고 있지 않은'과 같은 소유 여부를 표현할 수 있다.",
+      "that_clause_noun": {
+        "title": "that절 명사절",
+        "concept": "that절이 명사절로 사용되어 주어, 목적어, 보어의 역할을 한다.",
+        "teacher_explanation": "that절을 사용하면 문장의 주어나 목적어에 대한 추가 정보를 줄 수 있어요.",
         "examples": [
-          "The talent that I have",
-          "The talent that I don't have"
-        ],
-        "video_segments": [
-          {
-            "video_url": "https://www.youtube.com/watch?v=gHrI6qhbziI",
-            "video_title": "11_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #19 ｜ that 으로 문장 길게 만들기(2) ｜ 기초 영어 회화",
-            "filename": "11_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #19 ｜ that 으로 문장 길게 만들기(2) ｜ 기초 영어 회화.json",
-            "start_time": 69.0,
-            "end_time": 89.0,
-            "description": "that을 사용하여 소유 여부를 표현하는 방법"
-          }
-        ]
-      },
-      "designed_jacket": {
-        "title": "that을 사용한 과거 디자인 표현",
-        "concept": "that을 사용하여 '내가 디자인했던'과 같은 과거의 행위를 표현할 수 있다.",
-        "examples": [
-          "The jacket that I designed"
-        ],
-        "video_segments": [
-          {
-            "video_url": "https://www.youtube.com/watch?v=gHrI6qhbziI",
-            "video_title": "11_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #19 ｜ that 으로 문장 길게 만들기(2) ｜ 기초 영어 회화",
-            "filename": "11_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #19 ｜ that 으로 문장 길게 만들기(2) ｜ 기초 영어 회화.json",
-            "start_time": 115.0,
-            "end_time": 150.0,
-            "description": "that을 사용하여 과거의 행위를 표현하는 방법"
-          }
-        ]
-      },
-      "that_clause_usage": {
-        "title": "that 절 사용법",
-        "concept": "that 절을 사용하여 문장을 길게 만들고, 주어와 동사를 연결하여 설명을 추가하는 방법을 배운다.",
-        "examples": [
-          "I design things that are useful.",
-          "I drink water that is cold."
+          "I know that you are a student. (나는 네가 학생이라는 것을 알아)",
+          "She said that she would come. (그녀는 올 것이라고 말했다)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=nHbEN7KEmmE",
             "video_title": "12_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#18 ｜ that 으로 문장 길게 만들기(1) ｜ 기초 영어 회화",
             "filename": "12_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#18 ｜ that 으로 문장 길게 만들기(1) ｜ 기초 영어 회화.json",
-            "start_time": 0.0,
-            "end_time": 20.6,
-            "description": "that 절을 사용하여 문장을 확장하는 기본 개념 소개"
-          },
-          {
-            "video_url": "https://www.youtube.com/watch?v=JMfB_2pfqCA",
-            "video_title": "10_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #20 ｜ that으로 문장을 길게! (3) ｜ 기초 영어 회화",
-            "filename": "10_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #20 ｜ that으로 문장을 길게! (3) ｜ 기초 영어 회화.json",
-            "start_time": 68.4,
-            "end_time": 74.8,
-            "description": "필리핀에서 머무를 것이라는 문장을 that 절로 확장"
-          },
-          {
-            "video_url": "https://www.youtube.com/watch?v=JMfB_2pfqCA",
-            "video_title": "10_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #20 ｜ that으로 문장을 길게! (3) ｜ 기초 영어 회화",
-            "filename": "10_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #20 ｜ that으로 문장을 길게! (3) ｜ 기초 영어 회화.json",
-            "start_time": 107.2,
-            "end_time": 109.8,
-            "description": "네가 와도 된다는 문장을 that 절로 확장"
+            "start_time": 7.0,
+            "end_time": 13.1,
+            "description": "that절을 사용하여 문장을 길게 만드는 방법 소개"
           }
         ]
       },
-      "that_clause_examples": {
-        "title": "that 절 예문",
-        "concept": "다양한 동사와 명사를 사용하여 that 절을 포함한 문장을 만드는 연습을 한다.",
+      "that_clause_adjective": {
+        "title": "that절 형용사절",
+        "concept": "that절이 형용사절로 사용되어 명사를 수식한다.",
+        "teacher_explanation": "명사를 꾸며주는 역할을 하는 that절을 통해 더 구체적인 설명을 할 수 있어요.",
         "examples": [
-          "The bus that I take is here.",
-          "People that we meet are interesting."
+          "The book that I read was interesting. (내가 읽은 책은 재미있었어)",
+          "The car that he drives is fast. (그가 운전하는 차는 빠르다)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=nHbEN7KEmmE",
             "video_title": "12_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#18 ｜ that 으로 문장 길게 만들기(1) ｜ 기초 영어 회화",
             "filename": "12_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#18 ｜ that 으로 문장 길게 만들기(1) ｜ 기초 영어 회화.json",
-            "start_time": 50.0,
-            "end_time": 256.0,
-            "description": "다양한 예문을 통해 that 절 사용법을 연습"
+            "start_time": 185.3,
+            "end_time": 190.1,
+            "description": "that절을 사용하여 명사를 수식하는 방법 설명"
           }
         ]
       },
-      "that_clause_in_questions": {
-        "title": "질문에서의 that 절 사용",
-        "concept": "질문을 만들 때 that 절을 사용하여 문장을 확장하는 방법을 학습합니다.",
+      "that_clause_as_object": {
+        "title": "목적어로서의 that절",
+        "concept": "that절이 동사의 목적어로 사용되어 주절의 내용을 보충 설명한다.",
+        "teacher_explanation": "that절을 사용하면 동사의 목적어로 문장을 길게 만들 수 있어요.",
         "examples": [
-          "that you can't",
-          "that you can"
+          "That we will stay in Philippines. (우리가 필리핀에 머물 거라는 것)",
+          "Shangri-La is a hotel that we will stay in Philippines. (샹그릴라는 우리가 필리핀에 머물 호텔이다)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=JMfB_2pfqCA",
             "video_title": "10_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #20 ｜ that으로 문장을 길게! (3) ｜ 기초 영어 회화",
             "filename": "10_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #20 ｜ that으로 문장을 길게! (3) ｜ 기초 영어 회화.json",
-            "start_time": 110.4,
-            "end_time": 123.3,
-            "description": "질문에서 that 절을 사용하여 문장을 확장하는 연습"
+            "start_time": 68.5,
+            "end_time": 95.4,
+            "description": "that절을 사용하여 필리핀에 머무를 것이라는 내용을 설명"
+          }
+        ]
+      },
+      "that_clause_as_adjective": {
+        "title": "형용사절로서의 that절",
+        "concept": "that절이 명사를 수식하여 추가적인 정보를 제공하는 형용사절로 사용된다.",
+        "teacher_explanation": "명사를 꾸며주는 역할을 하는 that절은 문장을 더 구체적으로 만들어 줍니다.",
+        "examples": [
+          "Shangri-La is a hotel that we will stay in Philippines. (샹그릴라는 우리가 필리핀에 머물 호텔이다)"
+        ],
+        "video_segments": [
+          {
+            "video_url": "https://www.youtube.com/watch?v=JMfB_2pfqCA",
+            "video_title": "10_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #20 ｜ that으로 문장을 길게! (3) ｜ 기초 영어 회화",
+            "filename": "10_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #20 ｜ that으로 문장을 길게! (3) ｜ 기초 영어 회화.json",
+            "start_time": 88.4,
+            "end_time": 95.4,
+            "description": "Shangri-La 호텔에 대한 추가 설명을 위해 that절 사용"
           }
         ]
       }
@@ -444,44 +425,50 @@
         "title": "10_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #20 ｜ that으로 문장을 길게! (3) ｜ 기초 영어 회화",
         "filename": "10_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #20 ｜ that으로 문장을 길게! (3) ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "형용사절",
+      "명사절",
+      "관계대명사"
     ]
   },
   "관계대명사 that": {
-    "definition": "",
+    "definition": "관계대명사 'that'은 선행사를 수식하여 추가적인 정보를 제공하는 절을 이끄는 데 사용된다. 주로 사람, 사물, 동물 등 다양한 선행사에 사용되며, 주격과 목적격 모두에 사용 가능하다.",
+    "teacher_tip": "'that'은 앞에 있는 명사를 꾸며주는 역할을 해요. 예를 들어, 'I like'는 '나는 좋아한다'인데, 'That I like'는 '내가 좋아하는'으로 명사를 꾸며주는 거죠.",
     "sub_topics": {
-      "that_as_subject": {
-        "title": "주어로서의 that",
-        "concept": "관계대명사 that이 주어로 사용될 때, 주절의 주어와 관계절의 주어가 동일한 경우를 설명합니다.",
+      "relative_pronoun_subject": {
+        "title": "관계대명사 주격",
+        "concept": "관계대명사 'that'이 주어 역할을 할 때, 주어와 동사를 연결하여 선행사를 설명한다.",
+        "teacher_explanation": "'That'은 주어 역할을 하면서 뒤에 오는 동사와 연결돼요.",
         "examples": [
-          "The person that likes 이시원.",
-          "People that don't like English."
+          "The people that make coffee. (커피를 만드는 사람들)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=k3-666q27Ps",
             "video_title": "09_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #21 ｜ 또 다른 that ｜ 기초 영어 회화",
             "filename": "09_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #21 ｜ 또 다른 that ｜ 기초 영어 회화.json",
-            "start_time": 44.7,
-            "end_time": 55.1,
-            "description": "관계대명사 that이 주어로 사용되는 예시 설명"
+            "start_time": 25.5,
+            "end_time": 28.8,
+            "description": "'That'이 주어로 사용되는 예시 설명"
           }
         ]
       },
-      "that_as_object": {
-        "title": "목적어로서의 that",
-        "concept": "관계대명사 that이 목적어로 사용될 때, 주절의 주어와 관계절의 목적어가 동일한 경우를 설명합니다.",
+      "relative_pronoun_object": {
+        "title": "관계대명사 목적격",
+        "concept": "관계대명사 'that'이 목적어 역할을 할 때, 동사 뒤에 위치하여 선행사를 설명한다.",
+        "teacher_explanation": "'That'은 목적어로 사용될 때, 동사 뒤에 와서 선행사를 꾸며줘요.",
         "examples": [
-          "The person that 이시원이 좋아하는.",
-          "Students that don't study."
+          "The book that I read. (내가 읽은 책)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=k3-666q27Ps",
             "video_title": "09_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #21 ｜ 또 다른 that ｜ 기초 영어 회화",
             "filename": "09_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #21 ｜ 또 다른 that ｜ 기초 영어 회화.json",
-            "start_time": 57.1,
-            "end_time": 70.9,
-            "description": "관계대명사 that이 목적어로 사용되는 예시 설명"
+            "start_time": 30.9,
+            "end_time": 32.2,
+            "description": "'That'이 목적어로 사용되는 예시 설명"
           }
         ]
       }
@@ -492,44 +479,89 @@
         "title": "09_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #21 ｜ 또 다른 that ｜ 기초 영어 회화",
         "filename": "09_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #21 ｜ 또 다른 that ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "관계대명사 which",
+      "관계대명사 who"
     ]
   },
   "과거 시제": {
-    "definition": "",
+    "definition": "과거 시제는 과거에 일어난 동작이나 상태를 표현하는 문법이다. 일반적으로 동사에 -ed를 붙여 만들지만 불규칙 동사도 존재한다.",
+    "teacher_tip": "과거 시제는 이미 지나간 일을 이야기할 때 사용해요. '갔다'는 'went'처럼 불규칙 동사도 있으니 주의하세요.",
     "sub_topics": {
-      "regular_irregular_verbs": {
-        "title": "규칙 및 불규칙 동사",
-        "concept": "과거 시제에서 규칙 동사는 '-ed'를 붙이고, 불규칙 동사는 형태가 변한다.",
+      "regular_past_tense": {
+        "title": "규칙 과거 시제",
+        "concept": "대부분의 동사는 과거형을 만들 때 동사 뒤에 -ed를 붙인다.",
+        "teacher_explanation": "대부분의 동사는 -ed를 붙여서 과거형을 만들어요.",
         "examples": [
-          "make - made",
-          "drink - drank"
+          "I studied English. (나는 영어를 공부했어)",
+          "He walked to school. (그는 학교에 걸어갔어)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=G_SNroMhJTQ",
             "video_title": "24_NEW 이시원의 기초 영어 회화 강의한 달 만에 영어로 말문 트기 #4 ｜ 과거 시제 마스터 ｜ 기초 영어 회화",
             "filename": "24_NEW 이시원의 기초 영어 회화 강의한 달 만에 영어로 말문 트기 #4 ｜ 과거 시제 마스터 ｜ 기초 영어 회화.json",
-            "start_time": 28.5,
-            "end_time": 46.0,
-            "description": "규칙 및 불규칙 동사의 과거형 설명"
+            "start_time": 8.8,
+            "end_time": 12.7,
+            "description": "규칙 과거 시제의 기본 설명"
           }
         ]
       },
-      "simple_past_sentences": {
-        "title": "단순 과거 시제 문장",
-        "concept": "단순 과거 시제는 과거에 일어난 일을 표현하는 데 사용된다.",
+      "irregular_past_tense": {
+        "title": "불규칙 과거 시제",
+        "concept": "일부 동사는 과거형이 불규칙하게 변하며, 외워야 한다.",
+        "teacher_explanation": "불규칙 동사는 형태가 변하니 외워야 해요. 예를 들어 'go'는 'went'가 돼요.",
         "examples": [
-          "I went to 동대문.",
-          "I bought a T-shirt."
+          "I went to 동대문. (나는 동대문에 갔어)",
+          "He drank coffee. (그는 커피를 마셨어)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=G_SNroMhJTQ",
             "video_title": "24_NEW 이시원의 기초 영어 회화 강의한 달 만에 영어로 말문 트기 #4 ｜ 과거 시제 마스터 ｜ 기초 영어 회화",
             "filename": "24_NEW 이시원의 기초 영어 회화 강의한 달 만에 영어로 말문 트기 #4 ｜ 과거 시제 마스터 ｜ 기초 영어 회화.json",
-            "start_time": 55.2,
-            "end_time": 112.0,
-            "description": "단순 과거 시제 문장 구성 및 연습"
+            "start_time": 14.1,
+            "end_time": 28.9,
+            "description": "불규칙 과거 시제 동사 예시 설명"
+          }
+        ]
+      },
+      "negative_past_tense": {
+        "title": "과거 시제 부정문",
+        "concept": "과거 시제의 부정문은 'didn't'를 사용하여 만든다.",
+        "teacher_explanation": "'didn't'를 사용하면 과거의 부정문을 만들 수 있어요.",
+        "examples": [
+          "I didn't study. (나는 공부하지 않았어)",
+          "He didn't go. (그는 가지 않았어)"
+        ],
+        "video_segments": [
+          {
+            "video_url": "https://www.youtube.com/watch?v=G_SNroMhJTQ",
+            "video_title": "24_NEW 이시원의 기초 영어 회화 강의한 달 만에 영어로 말문 트기 #4 ｜ 과거 시제 마스터 ｜ 기초 영어 회화",
+            "filename": "24_NEW 이시원의 기초 영어 회화 강의한 달 만에 영어로 말문 트기 #4 ｜ 과거 시제 마스터 ｜ 기초 영어 회화.json",
+            "start_time": 272.7,
+            "end_time": 344.2,
+            "description": "과거 시제 부정문 설명 및 예시"
+          }
+        ]
+      },
+      "interrogative_past_tense": {
+        "title": "과거 시제 의문문",
+        "concept": "과거 시제의 의문문은 'Did'를 문장 앞에 두어 만든다.",
+        "teacher_explanation": "'Did'를 문장 앞에 두면 과거의 의문문을 만들 수 있어요.",
+        "examples": [
+          "Did you go to the market? (너 시장에 갔니?)",
+          "Did he eat? (그는 먹었니?)"
+        ],
+        "video_segments": [
+          {
+            "video_url": "https://www.youtube.com/watch?v=G_SNroMhJTQ",
+            "video_title": "24_NEW 이시원의 기초 영어 회화 강의한 달 만에 영어로 말문 트기 #4 ｜ 과거 시제 마스터 ｜ 기초 영어 회화",
+            "filename": "24_NEW 이시원의 기초 영어 회화 강의한 달 만에 영어로 말문 트기 #4 ｜ 과거 시제 마스터 ｜ 기초 영어 회화.json",
+            "start_time": 382.9,
+            "end_time": 388.6,
+            "description": "과거 시제 의문문 설명 및 예시"
           }
         ]
       }
@@ -540,67 +572,50 @@
         "title": "24_NEW 이시원의 기초 영어 회화 강의한 달 만에 영어로 말문 트기 #4 ｜ 과거 시제 마스터 ｜ 기초 영어 회화",
         "filename": "24_NEW 이시원의 기초 영어 회화 강의한 달 만에 영어로 말문 트기 #4 ｜ 과거 시제 마스터 ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "현재 시제",
+      "미래 시제"
     ]
   },
   "의문문 만들기": {
-    "definition": "",
+    "definition": "의문문은 질문을 하기 위해 사용하는 문장 구조로, 주어와 동사의 위치가 바뀌거나 조동사가 앞에 오는 형태로 만든다.",
+    "teacher_tip": "의문문을 만들 때는 '누가, 언제, 어디서, 무엇을, 어떻게, 왜'와 같은 질문 단어를 사용하여 문장을 확장하세요.",
     "sub_topics": {
       "basic_question_words": {
         "title": "기본 의문사",
-        "concept": "영어에서 기본적인 의문사를 사용하여 질문을 만드는 방법을 학습합니다.",
-        "examples": [
-          "Who?",
-          "What?",
-          "Where?",
-          "When?",
-          "Why?",
-          "How?"
-        ],
+        "concept": "의문문을 만들기 위해 사용하는 기본적인 의문사들에 대해 학습한다.",
+        "teacher_explanation": "who는 '누가', when은 '언제', where는 '어디서', what은 '무엇을', how는 '어떻게', why는 '왜'를 의미합니다.",
+        "examples": [],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=EXKS6rZHbbA",
             "video_title": "23_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #5  ｜ 의문문 길게 만들기 ｜ 기초 영어 회화",
             "filename": "23_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #5  ｜ 의문문 길게 만들기 ｜ 기초 영어 회화.json",
-            "start_time": 0.0,
-            "end_time": 32.7,
-            "description": "기본 의문사에 대한 소개와 연습"
+            "start_time": 4.5,
+            "end_time": 34.3,
+            "description": "기본 의문사에 대한 설명과 연습"
           }
         ]
       },
       "forming_questions": {
         "title": "의문문 형성",
-        "concept": "의문사를 사용하여 다양한 질문을 형성하는 방법을 학습합니다.",
+        "concept": "의문문을 만들기 위해 주어와 동사의 위치를 바꾸거나 조동사를 사용하여 문장을 구성한다.",
+        "teacher_explanation": "의문문을 만들 때는 주어와 동사의 위치를 바꾸거나 조동사를 앞에 두세요.",
         "examples": [
-          "What do you study?",
-          "How do you study?",
-          "Where did you study yesterday?"
+          "What did you study? (뭘 공부했니?)",
+          "How did you study? (어떻게 공부했니?)",
+          "When did you study? (언제 공부했어?)",
+          "Where did you study? (어디서 공부했어?)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=EXKS6rZHbbA",
             "video_title": "23_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #5  ｜ 의문문 길게 만들기 ｜ 기초 영어 회화",
             "filename": "23_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #5  ｜ 의문문 길게 만들기 ｜ 기초 영어 회화.json",
-            "start_time": 50.3,
-            "end_time": 116.3,
-            "description": "의문사를 사용하여 다양한 질문을 만드는 연습"
-          }
-        ]
-      },
-      "answering_questions": {
-        "title": "질문에 답하기",
-        "concept": "의문문에 대한 적절한 답변을 연습합니다.",
-        "examples": [
-          "I study English.",
-          "I study at home."
-        ],
-        "video_segments": [
-          {
-            "video_url": "https://www.youtube.com/watch?v=EXKS6rZHbbA",
-            "video_title": "23_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #5  ｜ 의문문 길게 만들기 ｜ 기초 영어 회화",
-            "filename": "23_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #5  ｜ 의문문 길게 만들기 ｜ 기초 영어 회화.json",
-            "start_time": 116.3,
-            "end_time": 140.3,
-            "description": "질문에 대한 답변 연습"
+            "start_time": 95.0,
+            "end_time": 114.5,
+            "description": "의문문 형성 연습"
           }
         ]
       }
@@ -611,61 +626,51 @@
         "title": "23_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #5  ｜ 의문문 길게 만들기 ｜ 기초 영어 회화",
         "filename": "23_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #5  ｜ 의문문 길게 만들기 ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "조동사 사용",
+      "현재 시제와 과거 시제"
     ]
   },
-  "관계대명사": {
-    "definition": "",
+  "관계대명사와 that절": {
+    "definition": "관계대명사는 문장에서 명사나 대명사를 수식하거나 설명하는 절을 연결하는 역할을 한다. that절은 주로 명사절을 형성하여 주어나 목적어 역할을 한다.",
+    "teacher_tip": "that은 마법과 같아서 상황에 따라 who, where, which로 바뀔 수 있어요. 사물일 경우 which, 장소일 경우 where, 사람일 경우 who가 사용됩니다.",
     "sub_topics": {
-      "relative_pronouns_that": {
-        "title": "관계대명사 that",
-        "concept": "관계대명사 'that'은 사람, 사물, 장소를 설명할 때 사용되며, 상황에 따라 'who', 'which', 'where'로 대체될 수 있다.",
+      "that_clause_usage": {
+        "title": "that절 사용법",
+        "concept": "that절은 주어나 목적어로 사용되며, 주로 명사절을 형성하여 문장의 일부로 작용한다.",
+        "teacher_explanation": "that은 문장에서 명사절을 만들어 주어 또는 목적어 역할을 합니다.",
         "examples": [
-          "the place where I am drinking coffee",
-          "the number which I have"
+          "that I am drinking. (내가 마시고 있는 것)",
+          "that I want to drink. (내가 마시고 싶은 것)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=008886a-lQI",
             "video_title": "02_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #28 ｜ 마법과 같은 that ｜ 기초 영어 회화",
             "filename": "02_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #28 ｜ 마법과 같은 that ｜ 기초 영어 회화.json",
-            "start_time": 44.4,
-            "end_time": 75.3,
-            "description": "관계대명사 'that'의 사용과 'who', 'which', 'where'로의 대체 가능성 설명"
+            "start_time": 9.8,
+            "end_time": 25.1,
+            "description": "that절의 기본 사용법과 예시 설명"
           }
         ]
       },
-      "relative_pronouns_where": {
-        "title": "관계대명사 where",
-        "concept": "'where'은 장소를 설명할 때 사용되는 관계대명사이다.",
+      "relative_pronouns_usage": {
+        "title": "관계대명사 사용법",
+        "concept": "관계대명사는 명사나 대명사를 수식하거나 설명하는 절을 연결하며, 주로 who, which, where 등이 사용된다.",
+        "teacher_explanation": "관계대명사는 명사 뒤에 붙어 그 명사를 설명하는 절을 연결합니다.",
         "examples": [
-          "the place where I am going",
-          "the school where I am studying"
+          "The city where I am living. (내가 살고 있는 도시)",
+          "The number which I have. (내가 가지고 있는 번호)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=008886a-lQI",
             "video_title": "02_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #28 ｜ 마법과 같은 that ｜ 기초 영어 회화",
             "filename": "02_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #28 ｜ 마법과 같은 that ｜ 기초 영어 회화.json",
-            "start_time": 75.3,
-            "end_time": 136.1,
-            "description": "장소를 설명할 때 'where'의 사용 예시"
-          }
-        ]
-      },
-      "relative_pronouns_which": {
-        "title": "관계대명사 which",
-        "concept": "'which'는 사물을 설명할 때 사용되는 관계대명사이다.",
-        "examples": [
-          "the number which I have"
-        ],
-        "video_segments": [
-          {
-            "video_url": "https://www.youtube.com/watch?v=008886a-lQI",
-            "video_title": "02_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #28 ｜ 마법과 같은 that ｜ 기초 영어 회화",
-            "filename": "02_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #28 ｜ 마법과 같은 that ｜ 기초 영어 회화.json",
-            "start_time": 179.6,
-            "end_time": 228.5,
-            "description": "사물을 설명할 때 'which'의 사용 예시"
+            "start_time": 65.3,
+            "end_time": 124.2,
+            "description": "관계대명사 who, which, where의 사용법 설명"
           }
         ]
       }
@@ -676,52 +681,71 @@
         "title": "02_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #28 ｜ 마법과 같은 that ｜ 기초 영어 회화",
         "filename": "02_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #28 ｜ 마법과 같은 that ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "형용사절",
+      "부사절",
+      "명사절"
     ]
   },
-  "미래를 나타내는 will": {
-    "definition": "",
+  "미래형 시제": {
+    "definition": "미래형 시제는 미래에 일어날 일을 표현하는 문법으로, 주로 'will'을 사용하여 문장을 구성한다.",
+    "teacher_tip": "'will'을 사용하면 미래에 대한 계획이나 의도를 표현할 수 있어요. 현재의 'do'를 'will'로 바꾸면 미래형이 됩니다.",
     "sub_topics": {
-      "future_tense_will": {
-        "title": "미래 시제에서 will 사용",
-        "concept": "미래에 일어날 일을 표현할 때 'will'을 사용하여 문장을 구성한다.",
+      "future_simple_statements": {
+        "title": "미래형 평서문",
+        "concept": "'will'을 사용하여 미래에 일어날 일을 단순히 서술하는 문장.",
+        "teacher_explanation": "'I will go to'처럼 'will' 뒤에 동사 원형을 사용하면 미래에 대한 계획을 말할 수 있어요.",
         "examples": [
-          "Will you go to?",
-          "Will you make?"
+          "I will go to. (나는 갈 거야)",
+          "I will drink this. (나 이거 마실 거야)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=KQbWy6j_TFA",
             "video_title": "27_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#2 ｜ 미래를 나타내는 will ｜ 기초 영어 회화",
             "filename": "27_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#2 ｜ 미래를 나타내는 will ｜ 기초 영어 회화.json",
-            "start_time": 13.6,
-            "end_time": 30.7,
-            "description": "'will'을 사용하여 미래 시제를 만드는 방법 설명"
-          },
-          {
-            "video_url": "https://www.youtube.com/watch?v=KQbWy6j_TFA",
-            "video_title": "27_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#2 ｜ 미래를 나타내는 will ｜ 기초 영어 회화",
-            "filename": "27_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#2 ｜ 미래를 나타내는 will ｜ 기초 영어 회화.json",
-            "start_time": 36.6,
-            "end_time": 42.5,
-            "description": "'Will you go to?'를 사용한 예문 연습"
+            "start_time": 140.3,
+            "end_time": 147.9,
+            "description": "미래형 평서문을 만드는 방법을 설명하고 예시를 제공하는 구간"
           }
         ]
       },
-      "questions_with_will": {
-        "title": "will을 사용한 질문 만들기",
-        "concept": "'will'을 사용하여 미래에 대한 질문을 구성한다.",
+      "future_simple_questions": {
+        "title": "미래형 의문문",
+        "concept": "'will'을 문장 앞에 두어 미래에 대한 질문을 만드는 방법.",
+        "teacher_explanation": "'Will you go to?'처럼 'will'을 문장 앞에 두면 질문이 됩니다.",
         "examples": [
-          "Will you go to?",
-          "Will you come to?"
+          "Will you go to? (너는 갈 거니?)",
+          "Will you eat this? (이거 먹을 거니?)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=KQbWy6j_TFA",
             "video_title": "27_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#2 ｜ 미래를 나타내는 will ｜ 기초 영어 회화",
             "filename": "27_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#2 ｜ 미래를 나타내는 will ｜ 기초 영어 회화.json",
-            "start_time": 45.3,
-            "end_time": 57.9,
-            "description": "'Will you make?'와 같은 질문 형식 연습"
+            "start_time": 18.9,
+            "end_time": 45.2,
+            "description": "미래형 의문문을 만드는 방법과 예시를 설명하는 구간"
+          }
+        ]
+      },
+      "future_simple_negations": {
+        "title": "미래형 부정문",
+        "concept": "'will not' 또는 'won't'를 사용하여 미래에 일어나지 않을 일을 표현하는 문장.",
+        "teacher_explanation": "'will not'을 줄여서 'won't'로 발음하면 부정문이 됩니다.",
+        "examples": [
+          "I will not drink this. (나 이거 안 마실 거야)",
+          "I will not eat this. (나 이거 안 먹을 거예요)"
+        ],
+        "video_segments": [
+          {
+            "video_url": "https://www.youtube.com/watch?v=KQbWy6j_TFA",
+            "video_title": "27_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#2 ｜ 미래를 나타내는 will ｜ 기초 영어 회화",
+            "filename": "27_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#2 ｜ 미래를 나타내는 will ｜ 기초 영어 회화.json",
+            "start_time": 191.7,
+            "end_time": 199.1,
+            "description": "미래형 부정문을 만드는 방법과 'won't'의 사용법을 설명하는 구간"
           }
         ]
       }
@@ -732,62 +756,51 @@
         "title": "27_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#2 ｜ 미래를 나타내는 will ｜ 기초 영어 회화",
         "filename": "27_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#2 ｜ 미래를 나타내는 will ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "현재형 시제",
+      "과거형 시제"
     ]
   },
   "현재완료": {
-    "definition": "",
+    "definition": "현재완료는 과거에 시작된 동작이나 상태가 현재까지 영향을 미치고 있음을 나타내는 문법이다. 주로 have/has + 과거분사 형태로 사용된다.",
+    "teacher_tip": "현재완료는 과거부터 지금까지의 연속성을 나타내는 거예요. 예를 들어, 'I have met'는 과거에 만났고 그 경험이 지금까지 이어진다는 의미입니다.",
     "sub_topics": {
-      "present_perfect_usage": {
-        "title": "현재완료의 용법",
-        "concept": "현재완료는 '해왔다', '한 적 있다', '계속 했다'의 의미로 사용된다.",
+      "present_perfect_basic_usage": {
+        "title": "현재완료 기본 사용법",
+        "concept": "현재완료는 과거의 경험, 완료된 동작, 그리고 현재까지의 지속성을 표현한다.",
+        "teacher_explanation": "현재완료는 과거부터 지금까지의 경험이나 상태를 나타내는 거예요.",
         "examples": [
-          "I have met.",
-          "I have studied for two years."
+          "I have met. (나는 만난 적이 있어)",
+          "I have studied for two years. (나는 2년 동안 공부해왔어)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=RgNbTRRt78Y",
             "video_title": "06_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #24 ｜ 현재완료 ｜ 기초 영어 회화",
             "filename": "06_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #24 ｜ 현재완료 ｜ 기초 영어 회화.json",
-            "start_time": 7.8,
-            "end_time": 22.8,
-            "description": "현재완료의 세 가지 용법 설명"
+            "start_time": 4.5,
+            "end_time": 23.1,
+            "description": "현재완료의 기본 개념과 세 가지 의미 설명"
           }
         ]
       },
-      "present_perfect_examples": {
-        "title": "현재완료 예문",
-        "concept": "현재완료 시제를 사용한 다양한 예문을 통해 이해를 돕는다.",
+      "present_perfect_negative": {
+        "title": "현재완료 부정문",
+        "concept": "현재완료의 부정문은 have/has 뒤에 not을 붙여서 만든다.",
+        "teacher_explanation": "부정문은 have not을 사용해서 '한 적 없다'를 표현해요.",
         "examples": [
-          "I have met.",
-          "We have used this book."
+          "I have not met him. (나는 그를 만난 적이 없어요)",
+          "I have not studied Japanese. (나는 일본어를 공부한 적 없어)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=RgNbTRRt78Y",
             "video_title": "06_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #24 ｜ 현재완료 ｜ 기초 영어 회화",
             "filename": "06_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #24 ｜ 현재완료 ｜ 기초 영어 회화.json",
-            "start_time": 44.4,
-            "end_time": 108.4,
-            "description": "현재완료 시제를 사용한 다양한 예문"
-          }
-        ]
-      },
-      "present_perfect_with_adjectives": {
-        "title": "현재완료와 형용사",
-        "concept": "현재완료 시제는 형용사와 함께 사용되어 상태의 지속성을 나타낼 수 있다.",
-        "examples": [
-          "He has been busy.",
-          "It has been easy."
-        ],
-        "video_segments": [
-          {
-            "video_url": "https://www.youtube.com/watch?v=RgNbTRRt78Y",
-            "video_title": "06_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #24 ｜ 현재완료 ｜ 기초 영어 회화",
-            "filename": "06_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #24 ｜ 현재완료 ｜ 기초 영어 회화.json",
-            "start_time": 147.1,
-            "end_time": 245.7,
-            "description": "현재완료 시제와 형용사의 결합 사용 예시"
+            "start_time": 242.8,
+            "end_time": 318.3,
+            "description": "현재완료 부정문의 형성과 발음 팁 설명"
           }
         ]
       }
@@ -798,80 +811,51 @@
         "title": "06_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #24 ｜ 현재완료 ｜ 기초 영어 회화",
         "filename": "06_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #24 ｜ 현재완료 ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "과거완료",
+      "현재진행형"
     ]
   },
-  "진행형 시제": {
-    "definition": "",
+  "that절과 진행형": {
+    "definition": "that절은 명사절, 형용사절, 부사절을 만들 수 있으며, 이 강의에서는 형용사절로 사용되어 명사를 수식하는 역할을 한다. 진행형은 동작이 현재 진행 중임을 나타내며, be동사와 현재분사(-ing) 형태로 구성된다.",
+    "teacher_tip": "that절은 명사를 꾸며주는 형용사 역할을 해요. 진행형은 '지금 하고 있는 중'이라는 느낌을 주는 거예요.",
     "sub_topics": {
-      "that_progressive": {
-        "title": "that 뒤에 진행형 사용",
-        "concept": "that 절 뒤에 be동사와 현재분사를 사용하여 진행형 문장을 만든다.",
+      "that_clause_with_present_continuous": {
+        "title": "that절과 현재진행형",
+        "concept": "that절을 사용하여 명사를 수식하고, 그 명사가 현재 어떤 동작을 하고 있는지를 나타낸다.",
+        "teacher_explanation": "that절은 명사를 꾸며주고, 진행형은 그 동작이 지금 진행 중임을 나타내요.",
         "examples": [
-          "The person that is reading a book.",
-          "The students that are going to Busan."
+          "The bus that is going to Gangnam Station is number 69. (강남역으로 가는 버스는 69번입니다.)",
+          "The student that is going to Busan. (부산에 가는 학생.)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=NXbGg9nxpdk",
             "video_title": "08_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #22 ｜ that 뒤에 진행형을 가지고 만들어 보자  ｜ 기초 영어 회화",
             "filename": "08_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #22 ｜ that 뒤에 진행형을 가지고 만들어 보자  ｜ 기초 영어 회화.json",
-            "start_time": 113.8,
-            "end_time": 153.9,
-            "description": "that 뒤에 진행형을 사용하여 사람이나 사물을 설명하는 방법"
+            "start_time": 91.1,
+            "end_time": 114.5,
+            "description": "that절을 사용하여 명사를 수식하고, 진행형으로 현재 동작을 설명하는 방법을 연습"
           }
         ]
       },
-      "future_continuous": {
-        "title": "미래 진행형",
-        "concept": "미래에 어떤 일이 진행 중일 것임을 나타내는 시제.",
+      "present_continuous_practice": {
+        "title": "현재진행형 연습",
+        "concept": "현재진행형을 사용하여 다양한 동작을 설명하는 연습을 한다.",
+        "teacher_explanation": "현재진행형은 '지금 하고 있는 중'이라는 느낌을 주는 거예요.",
         "examples": [
-          "I will be studying",
-          "He will be driving"
+          "The people that are drinking coffee here. (여기서 커피를 마시는 사람들.)",
+          "The people that are studying hard will speak English well. (열심히 공부하는 사람들은 영어를 잘하게 될 거다.)"
         ],
         "video_segments": [
           {
-            "video_url": "https://www.youtube.com/watch?v=7ot7hY8wm4Q",
-            "video_title": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화",
-            "filename": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화.json",
-            "start_time": 57.0,
-            "end_time": 74.7,
-            "description": "미래 진행형의 구조와 예문"
-          }
-        ]
-      },
-      "modal_verbs_with_continuous": {
-        "title": "조동사와 진행형",
-        "concept": "조동사 뒤에는 항상 동사 원형이 오며, 진행형을 만들 때는 be + 동사ing 형태를 사용.",
-        "examples": [
-          "can be walking",
-          "must be working"
-        ],
-        "video_segments": [
-          {
-            "video_url": "https://www.youtube.com/watch?v=7ot7hY8wm4Q",
-            "video_title": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화",
-            "filename": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화.json",
-            "start_time": 33.0,
-            "end_time": 46.7,
-            "description": "조동사 뒤에 오는 동사 형태 설명"
-          }
-        ]
-      },
-      "past_continuous": {
-        "title": "과거 진행형",
-        "concept": "과거에 어떤 일이 진행 중이었음을 나타내는 시제.",
-        "examples": [
-          "I was taking",
-          "He was sleeping"
-        ],
-        "video_segments": [
-          {
-            "video_url": "https://www.youtube.com/watch?v=7ot7hY8wm4Q",
-            "video_title": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화",
-            "filename": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화.json",
-            "start_time": 240.5,
-            "end_time": 279.4,
-            "description": "과거 진행형의 구조와 예문"
+            "video_url": "https://www.youtube.com/watch?v=NXbGg9nxpdk",
+            "video_title": "08_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #22 ｜ that 뒤에 진행형을 가지고 만들어 보자  ｜ 기초 영어 회화",
+            "filename": "08_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #22 ｜ that 뒤에 진행형을 가지고 만들어 보자  ｜ 기초 영어 회화.json",
+            "start_time": 210.0,
+            "end_time": 222.0,
+            "description": "현재진행형을 사용하여 다양한 상황을 설명하는 연습"
           }
         ]
       }
@@ -881,50 +865,50 @@
         "url": "https://www.youtube.com/watch?v=NXbGg9nxpdk",
         "title": "08_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #22 ｜ that 뒤에 진행형을 가지고 만들어 보자  ｜ 기초 영어 회화",
         "filename": "08_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #22 ｜ that 뒤에 진행형을 가지고 만들어 보자  ｜ 기초 영어 회화.json"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=7ot7hY8wm4Q",
-        "title": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화",
-        "filename": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "형용사절",
+      "현재진행형"
     ]
   },
-  "수동태와 관계대명사 that 연결": {
-    "definition": "",
+  "수동태와 that절의 결합": {
+    "definition": "수동태는 주어가 동작을 당하는 것을 표현하는 문법이다. be + 과거분사 형태로 만든다. that절과 결합하여 특정한 상태나 동작을 설명할 수 있다.",
+    "teacher_tip": "수동태는 주어가 동작을 당하는 입장이에요. 예를 들어, 'The book was written'은 책이 쓰여진 상태를 나타내죠.",
     "sub_topics": {
-      "passive_voice_with_that": {
-        "title": "수동태와 that 연결",
-        "concept": "수동태 문장을 관계대명사 that을 사용하여 명사와 연결하는 방법을 학습합니다.",
+      "passive_voice_conjugation": {
+        "title": "수동태 활용",
+        "concept": "수동태는 현재, 과거, 미래 시제로 활용될 수 있으며, 각각 is/are/am made, was/were made, will be made 형태로 변형된다.",
+        "teacher_explanation": "수동태는 주어가 동작을 당하는 상황을 설명할 때 사용해요.",
         "examples": [
-          "The bag that was made in China.",
-          "The car that was made in China."
+          "The car was made in China. (그 자동차는 중국에서 만들어졌다.)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=r3qBF9dMz10",
             "video_title": "03_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 ##27 ｜ 수동태를 that과 연결하기! ｜ 기초 영어 회화",
             "filename": "03_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 ##27 ｜ 수동태를 that과 연결하기! ｜ 기초 영어 회화.json",
-            "start_time": 89.0,
-            "end_time": 116.0,
-            "description": "수동태 문장을 that과 연결하여 문장을 만드는 연습"
+            "start_time": 27.9,
+            "end_time": 51.3,
+            "description": "수동태의 현재, 과거, 미래 시제 활용 설명"
           }
         ]
       },
-      "various_passive_constructions": {
-        "title": "다양한 수동태 문장",
-        "concept": "다양한 동사를 사용하여 수동태 문장을 만드는 방법을 학습합니다.",
+      "that_clause_with_passive_voice": {
+        "title": "수동태와 that절의 결합",
+        "concept": "수동태와 that절을 결합하여 특정한 상태나 동작을 설명할 수 있다. 예를 들어, 'The book that was written'은 쓰여진 책을 의미한다.",
+        "teacher_explanation": "that절을 사용하면 수동태로 설명된 상태나 동작을 더 구체적으로 설명할 수 있어요.",
         "examples": [
-          "That was used.",
-          "That was finished."
+          "The show that was finished. (종영된 쇼)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=r3qBF9dMz10",
             "video_title": "03_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 ##27 ｜ 수동태를 that과 연결하기! ｜ 기초 영어 회화",
             "filename": "03_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 ##27 ｜ 수동태를 that과 연결하기! ｜ 기초 영어 회화.json",
-            "start_time": 133.0,
-            "end_time": 154.0,
-            "description": "다양한 동사를 사용한 수동태 문장 연습"
+            "start_time": 61.9,
+            "end_time": 161.5,
+            "description": "that절과 수동태의 결합을 통한 다양한 예문 설명"
           }
         ]
       }
@@ -935,65 +919,70 @@
         "title": "03_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 ##27 ｜ 수동태를 that과 연결하기! ｜ 기초 영어 회화",
         "filename": "03_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 ##27 ｜ 수동태를 that과 연결하기! ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "전치사와의 결합",
+      "현재완료"
     ]
   },
-  "단어 연결을 통한 기초 영어 회화": {
-    "definition": "",
+  "기초 영어 문장 구성": {
+    "definition": "기초 영어 문장 구성은 주어와 동사를 연결하여 기본적인 문장을 만드는 방법을 배우는 것이다. 주어와 동사를 올바르게 조합하여 긍정문, 부정문, 의문문을 형성한다.",
+    "teacher_tip": "영어는 단어의 연결입니다. 단어를 빠르게 연결할 수 있으면 영어를 잘할 수 있습니다.",
     "sub_topics": {
-      "basic_pronouns": {
-        "title": "기본 대명사",
-        "concept": "기본적인 대명사 '나는', '너는', '그는' 등을 영어로 표현하는 방법을 학습합니다.",
+      "basic_sentence_construction": {
+        "title": "기본 문장 구성",
+        "concept": "주어와 동사를 연결하여 기본적인 긍정문을 만드는 방법을 배운다.",
+        "teacher_explanation": "단어를 연결하는 거를 빨리빨리 연결할 수 있으면 영어는 잘할 수 있는 거예요.",
         "examples": [
-          "I",
-          "You",
-          "He"
+          "I like apple. (나는 사과를 좋아해)",
+          "You work. (너는 일해)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=oLIpoVoDgTo",
             "video_title": "26_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#1 ｜ 영어는 단어의 연결 ｜ 기초 영어 회화",
             "filename": "26_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#1 ｜ 영어는 단어의 연결 ｜ 기초 영어 회화.json",
-            "start_time": 27.7,
-            "end_time": 36.9,
-            "description": "기본 대명사 '나는', '너는', '그는'의 영어 표현 학습"
+            "start_time": 28.5,
+            "end_time": 46.0,
+            "description": "기본적인 주어와 동사를 연결하여 긍정문을 만드는 방법을 설명"
           }
         ]
       },
-      "basic_verbs": {
-        "title": "기본 동사",
-        "concept": "기본적인 동사 '좋아하다', '원하다', '가다' 등을 영어로 표현하는 방법을 학습합니다.",
+      "negative_sentence_construction": {
+        "title": "부정문 구성",
+        "concept": "주어와 동사 사이에 'don't'를 사용하여 부정문을 만드는 방법을 배운다.",
+        "teacher_explanation": "안 go는 그냥 don't go라고 외워버리시면 더 편해요.",
         "examples": [
-          "like",
-          "want",
-          "go"
+          "I don't study. (나는 공부하지 않아요)",
+          "You don't take a rest. (너는 쉬지 않아요)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=oLIpoVoDgTo",
             "video_title": "26_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#1 ｜ 영어는 단어의 연결 ｜ 기초 영어 회화",
             "filename": "26_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#1 ｜ 영어는 단어의 연결 ｜ 기초 영어 회화.json",
-            "start_time": 36.9,
-            "end_time": 57.3,
-            "description": "기본 동사 '좋아하다', '원하다', '가다' 등의 영어 표현 학습"
+            "start_time": 218.5,
+            "end_time": 259.4,
+            "description": "부정문을 만들기 위해 'don't'를 사용하는 방법을 설명"
           }
         ]
       },
-      "simple_sentences": {
-        "title": "기본 문장 만들기",
-        "concept": "기본 대명사와 동사를 연결하여 간단한 문장을 만드는 방법을 학습합니다.",
+      "question_sentence_construction": {
+        "title": "의문문 구성",
+        "concept": "'Do'를 문장 앞에 사용하여 의문문을 만드는 방법을 배운다.",
+        "teacher_explanation": "you 좋아하니? 그러면 Do you like?",
         "examples": [
-          "I like",
-          "You want",
-          "He goes"
+          "Do you like? (너는 좋아하니?)",
+          "Do you work? (너는 일하니?)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=oLIpoVoDgTo",
             "video_title": "26_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#1 ｜ 영어는 단어의 연결 ｜ 기초 영어 회화",
             "filename": "26_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#1 ｜ 영어는 단어의 연결 ｜ 기초 영어 회화.json",
-            "start_time": 63.2,
-            "end_time": 110.2,
-            "description": "기본 대명사와 동사를 연결하여 문장 만들기"
+            "start_time": 270.6,
+            "end_time": 300.5,
+            "description": "'Do'를 사용하여 의문문을 만드는 방법을 설명"
           }
         ]
       }
@@ -1004,44 +993,51 @@
         "title": "26_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#1 ｜ 영어는 단어의 연결 ｜ 기초 영어 회화",
         "filename": "26_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#1 ｜ 영어는 단어의 연결 ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "현재 시제",
+      "명령문"
     ]
   },
-  "문장을 길게 만드는 방법": {
-    "definition": "",
+  "문장 연결과 확장": {
+    "definition": "문장 연결과 확장은 여러 개의 짧은 문장을 접속사 등을 사용하여 하나의 긴 문장으로 만드는 방법이다. 이는 문장을 더 복잡하고 풍부하게 만들어준다.",
+    "teacher_tip": "문장을 길게 만들 때는 'and' 같은 접속사를 사용하여 여러 행동이나 상태를 연결할 수 있어요. 예를 들어, 'I drink coffee and read a book'처럼요.",
     "sub_topics": {
-      "using_and": {
-        "title": "and를 사용하여 문장 길게 만들기",
-        "concept": "and를 사용하여 두 개 이상의 행동이나 상태를 연결하여 문장을 길게 만든다.",
+      "basic_sentence_construction": {
+        "title": "기본 문장 구성",
+        "concept": "주어와 동사를 사용하여 기본적인 문장을 구성하는 방법을 배운다.",
+        "teacher_explanation": "주어와 동사만 있으면 기본 문장을 만들 수 있어요. 예를 들어, 'I drink'처럼요.",
         "examples": [
-          "I drink coffee and water.",
-          "I will go to 강남역 and take e-오선."
+          "I drink juice. (나는 주스를 마신다)",
+          "I see movie. (나는 영화를 본다)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=VJeidy58uJQ",
             "video_title": "25_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#3 ｜ And 로 문장을 길게!  ｜ 기초 영어 회화",
             "filename": "25_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#3 ｜ And 로 문장을 길게!  ｜ 기초 영어 회화.json",
-            "start_time": 160.8,
-            "end_time": 179.3,
-            "description": "and를 사용하여 강남역에 가서 이호선을 타는 문장 만들기"
+            "start_time": 35.1,
+            "end_time": 79.7,
+            "description": "기본적인 주어-동사 문장 구성 연습"
           }
         ]
       },
-      "using_will": {
-        "title": "will을 사용하여 미래 시제 표현하기",
-        "concept": "will을 사용하여 미래에 할 행동을 표현한다.",
+      "sentence_extension_with_and": {
+        "title": "And를 사용한 문장 확장",
+        "concept": "접속사 'and'를 사용하여 두 개 이상의 행동이나 상태를 연결하여 문장을 확장하는 방법을 배운다.",
+        "teacher_explanation": "'and'를 사용하면 두 가지 이상의 행동을 연결할 수 있어요. 예를 들어, 'I go home and sleep'처럼요.",
         "examples": [
-          "I will go to 강남역.",
-          "I will meet my friend."
+          "We'll go to Gangnam Station and take Line 2. (우리는 강남역에 가서 2호선을 탈 거예요)",
+          "I will go home and sleep. (나는 집에 가서 잘 거야)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=VJeidy58uJQ",
             "video_title": "25_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#3 ｜ And 로 문장을 길게!  ｜ 기초 영어 회화",
             "filename": "25_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#3 ｜ And 로 문장을 길게!  ｜ 기초 영어 회화.json",
-            "start_time": 170.9,
-            "end_time": 179.3,
-            "description": "will을 사용하여 강남역에 가서 이호선을 탈 것이라는 미래 계획 표현하기"
+            "start_time": 154.5,
+            "end_time": 182.4,
+            "description": "접속사 'and'를 사용하여 문장을 확장하는 연습"
           }
         ]
       }
@@ -1052,64 +1048,51 @@
         "title": "25_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#3 ｜ And 로 문장을 길게!  ｜ 기초 영어 회화",
         "filename": "25_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#3 ｜ And 로 문장을 길게!  ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "접속사 사용",
+      "문장 구조"
     ]
   },
   "수동태": {
-    "definition": "",
+    "definition": "수동태는 주어가 동작을 당하는 것을 표현하는 문법이다. 주로 be 동사와 과거분사를 결합하여 사용한다.",
+    "teacher_tip": "수동태는 주어가 동작을 당하는 입장이에요. 예를 들어, 'I wear a watch'면 시계 입장에서는 'The watch is worn'이 되는 거죠.",
     "sub_topics": {
-      "basic_principle_of_passive_voice": {
-        "title": "수동태의 기본 원리",
-        "concept": "수동태는 주어와 목적어가 바뀌는 구조로, 주어가 동작을 받는 형태를 나타낸다.",
+      "basic_passive_voice": {
+        "title": "기본 수동태",
+        "concept": "수동태는 주어가 동작을 당하는 상황을 설명하며, be 동사와 과거분사를 사용한다.",
+        "teacher_explanation": "주어와 목적어가 바뀌는 거라고 생각하면 돼요.",
         "examples": [
-          "The letter is sent.",
-          "The project is finished."
+          "The letter is sent. (편지는 보내어 지는 거고)",
+          "The project is finished. (프로젝트는 끝이 나요)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=bGl_7acUnNk",
             "video_title": "04_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #26 ｜ 수동태 핵심 파악! ｜ 기초 영어 회화",
             "filename": "04_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #26 ｜ 수동태 핵심 파악! ｜ 기초 영어 회화.json",
-            "start_time": 0.0,
-            "end_time": 26.0,
+            "start_time": 26.8,
+            "end_time": 48.3,
             "description": "수동태의 기본 원리와 예시 설명"
           }
         ]
       },
-      "passive_voice_examples": {
-        "title": "수동태 예문",
-        "concept": "다양한 동사에 대한 수동태 예문을 통해 수동태의 사용법을 익힌다.",
+      "passive_voice_with_modals": {
+        "title": "조동사와 함께하는 수동태",
+        "concept": "수동태는 조동사와 함께 사용되어 다양한 가능성과 의무를 표현할 수 있다.",
+        "teacher_explanation": "조동사와 함께 수동태를 사용하면 다양한 가능성을 표현할 수 있어요.",
         "examples": [
-          "I am made.",
-          "Coffee is made.",
-          "The book is sold."
+          "The letter will be sent. (가정통신문이 보내어 줄 겁니다)",
+          "It should be sent. (보내어 줘야 합니다)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=bGl_7acUnNk",
             "video_title": "04_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #26 ｜ 수동태 핵심 파악! ｜ 기초 영어 회화",
             "filename": "04_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #26 ｜ 수동태 핵심 파악! ｜ 기초 영어 회화.json",
-            "start_time": 41.0,
-            "end_time": 145.0,
-            "description": "다양한 동사의 수동태 예문 설명"
-          }
-        ]
-      },
-      "passive_voice_tenses": {
-        "title": "수동태 시제",
-        "concept": "수동태의 시제 변화에 따라 현재, 과거, 미래 시제에서의 사용법을 익힌다.",
-        "examples": [
-          "is made",
-          "was made",
-          "will be made"
-        ],
-        "video_segments": [
-          {
-            "video_url": "https://www.youtube.com/watch?v=bGl_7acUnNk",
-            "video_title": "04_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #26 ｜ 수동태 핵심 파악! ｜ 기초 영어 회화",
-            "filename": "04_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #26 ｜ 수동태 핵심 파악! ｜ 기초 영어 회화.json",
-            "start_time": 145.0,
-            "end_time": 169.0,
-            "description": "수동태의 시제 변화 설명"
+            "start_time": 209.9,
+            "end_time": 231.9,
+            "description": "조동사와 함께 수동태를 사용하는 방법 설명"
           }
         ]
       }
@@ -1120,44 +1103,51 @@
         "title": "04_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #26 ｜ 수동태 핵심 파악! ｜ 기초 영어 회화",
         "filename": "04_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #26 ｜ 수동태 핵심 파악! ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "능동태",
+      "조동사"
     ]
   },
-  "can을 be able to로 변형하기": {
-    "definition": "",
+  "can과 be able to의 변환": {
+    "definition": "'can'은 능력을 나타내는 조동사로, 'be able to'는 같은 의미를 가지지만 더 포멀하고 다양한 시제에 사용될 수 있다.",
+    "teacher_tip": "'can'은 간단하게 현재의 능력을 표현하지만, 'be able to'는 다양한 시제에 맞춰 능력을 표현할 수 있어요. 예를 들어, 미래의 능력을 표현할 때는 'will be able to'를 사용합니다.",
     "sub_topics": {
-      "can_to_be_able_to": {
-        "title": "can을 be able to로 변형",
-        "concept": "can을 be able to로 변형하여 능력을 표현하는 방법을 학습합니다.",
+      "can_to_be_able_to_conversion": {
+        "title": "can을 be able to로 변환하기",
+        "concept": "'can'을 'be able to'로 변환하여 다양한 시제에서 능력을 표현할 수 있다.",
+        "teacher_explanation": "'can' 대신 'be able to'를 사용하면 시제에 맞춰 능력을 표현할 수 있어요.",
         "examples": [
-          "I can teach. -> I am able to teach.",
-          "He can come. -> He is able to come."
+          "I can go. (나는 갈 수 있다)",
+          "I am able to go to school now. (나는 지금 학교에 갈 수 있다)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=CGN1TdvhkvY",
             "video_title": "13_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #17 ｜ can을 be able to로 바꾸기! ｜ 기초 영어 회화",
             "filename": "13_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #17 ｜ can을 be able to로 바꾸기! ｜ 기초 영어 회화.json",
-            "start_time": 28.5,
-            "end_time": 46.0,
-            "description": "can을 be able to로 변형하는 기본 개념 소개"
+            "start_time": 19.1,
+            "end_time": 28.3,
+            "description": "can을 be able to로 변환하는 방법을 설명"
           }
         ]
       },
-      "future_ability": {
-        "title": "미래의 능력 표현",
-        "concept": "미래의 능력을 표현하기 위해 will be able to를 사용합니다.",
+      "future_ability_expression": {
+        "title": "미래의 능력 표현하기",
+        "concept": "'will be able to'를 사용하여 미래의 능력을 표현할 수 있다.",
+        "teacher_explanation": "미래에 할 수 있는 능력을 표현할 때는 'will be able to'를 사용하세요.",
         "examples": [
-          "I will be able to study.",
-          "He will be able to go."
+          "I will be able to study English. (나는 영어를 공부할 수 있을 거다)",
+          "He will be able to go alone. (그는 혼자 갈 수 있을 거다)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=CGN1TdvhkvY",
             "video_title": "13_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #17 ｜ can을 be able to로 바꾸기! ｜ 기초 영어 회화",
             "filename": "13_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #17 ｜ can을 be able to로 바꾸기! ｜ 기초 영어 회화.json",
-            "start_time": 177.5,
-            "end_time": 281.7,
-            "description": "미래의 능력을 표현하는 방법과 예문"
+            "start_time": 168.5,
+            "end_time": 178.4,
+            "description": "미래의 능력을 표현하는 방법을 설명"
           }
         ]
       }
@@ -1168,44 +1158,51 @@
         "title": "13_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #17 ｜ can을 be able to로 바꾸기! ｜ 기초 영어 회화",
         "filename": "13_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #17 ｜ can을 be able to로 바꾸기! ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "시제 표현",
+      "조동사"
     ]
   },
   "동명사": {
-    "definition": "",
+    "definition": "동명사는 동사에 -ing를 붙여 명사처럼 사용하는 형태로, 주어, 목적어, 보어로 쓰일 수 있다.",
+    "teacher_tip": "동명사는 동작을 명사처럼 만들어서 문장의 주어, 목적어, 보어로 사용할 수 있어요. 예를 들어, '일하는 것'을 영어로 표현할 때 'working'이라고 하죠.",
     "sub_topics": {
       "gerund_as_subject": {
-        "title": "동명사로 주어 만들기",
-        "concept": "동명사를 사용하여 문장의 주어를 만드는 방법을 학습합니다.",
+        "title": "동명사 주어로 사용하기",
+        "concept": "동명사는 문장의 주어로 사용되어 동작을 명사처럼 표현할 수 있다.",
+        "teacher_explanation": "동명사를 주어로 사용하면, 그 동작 자체가 주어가 되는 거예요.",
         "examples": [
-          "Eating is easy.",
-          "Studying is important."
+          "Studying English is the best. (영어를 공부하는 게 최고다.)",
+          "Eating 비빔밥 in 전주 is better. (전주에서 비빔밥 먹는 게 더 나아.)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=jzJzdoBdeAc",
             "video_title": "14_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #16 ｜ 동명사로 주어 길게 만들기 ｜ 기초 영어 회화",
             "filename": "14_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #16 ｜ 동명사로 주어 길게 만들기 ｜ 기초 영어 회화.json",
-            "start_time": 11.0,
-            "end_time": 29.0,
-            "description": "동명사를 사용하여 '일하는 건', '공부하는 건' 등의 주어를 만드는 방법을 설명합니다."
+            "start_time": 11.3,
+            "end_time": 22.4,
+            "description": "동명사를 주어로 사용하는 예시를 통해 설명"
           }
         ]
       },
       "gerund_with_adjectives": {
-        "title": "동명사와 형용사",
-        "concept": "동명사를 사용하여 형용사와 함께 문장을 구성하는 방법을 학습합니다.",
+        "title": "동명사와 형용사 사용",
+        "concept": "동명사는 형용사와 함께 사용되어 그 동작의 성격을 설명할 수 있다.",
+        "teacher_explanation": "동명사 앞에 형용사를 붙여서 그 동작이 어떤지 설명할 수 있어요.",
         "examples": [
-          "Eating a lot is good.",
-          "Studying English is the best."
+          "Getting a bag is expensive. (가방을 사는 게 비싸다.)",
+          "Taking a subway is fast. (지하철 타는 건 빠르다.)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=jzJzdoBdeAc",
             "video_title": "14_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #16 ｜ 동명사로 주어 길게 만들기 ｜ 기초 영어 회화",
             "filename": "14_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #16 ｜ 동명사로 주어 길게 만들기 ｜ 기초 영어 회화.json",
-            "start_time": 263.0,
-            "end_time": 285.0,
-            "description": "동명사와 형용사를 결합하여 문장을 만드는 방법을 설명합니다."
+            "start_time": 243.1,
+            "end_time": 273.4,
+            "description": "동명사와 형용사를 사용하여 문장을 만드는 연습"
           }
         ]
       }
@@ -1216,44 +1213,51 @@
         "title": "14_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #16 ｜ 동명사로 주어 길게 만들기 ｜ 기초 영어 회화",
         "filename": "14_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #16 ｜ 동명사로 주어 길게 만들기 ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "현재분사",
+      "명사절"
     ]
   },
-  "조건문 사용하기": {
-    "definition": "",
+  "조건문 (if 문장)": {
+    "definition": "조건문은 특정 조건이 충족될 때 발생하는 결과를 설명하는 문법이다. 주로 'if'를 사용하여 조건을 제시하고, 그에 따른 결과를 서술한다.",
+    "teacher_tip": "조건문은 '만약 ~라면'이라는 가정 하에 결과를 예측하는 문장 구조입니다. 'if'를 사용하여 조건을 제시하고, 그에 따른 결과를 설명합니다.",
     "sub_topics": {
-      "if_clause": {
-        "title": "if절을 사용한 문장 만들기",
-        "concept": "if절을 사용하여 조건에 따라 문장을 길게 만드는 방법을 학습한다.",
+      "basic_if_statements": {
+        "title": "기본 if 문장",
+        "concept": "기본적인 if 문장을 사용하여 조건과 결과를 연결하는 방법을 배운다.",
+        "teacher_explanation": "'if'를 문장 앞에 두고 조건을 제시한 후, 결과를 설명합니다.",
         "examples": [
-          "If you want to speak English, you can go to Siwon School and study English.",
-          "If you want to drink coffee, we can go to Starbucks."
+          "If you like, you can go. (네가 좋아하면, 갈 수 있어)",
+          "If you study, you can succeed. (네가 공부하면, 성공할 수 있어)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=hh9pAAS-gho",
             "video_title": "21_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#9 ｜ if로 문장 길게 만들기 ｜ 기초 영어 회화",
             "filename": "21_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#9 ｜ if로 문장 길게 만들기 ｜ 기초 영어 회화.json",
-            "start_time": 203.7,
-            "end_time": 229.7,
-            "description": "if절을 사용하여 다양한 상황에 맞는 문장을 만드는 방법을 설명한다."
+            "start_time": 24.0,
+            "end_time": 56.5,
+            "description": "기본적인 if 문장을 만드는 방법을 설명하고 예시를 제공하는 구간"
           }
         ]
       },
-      "permission_with_if": {
-        "title": "if절을 사용한 허락 표현",
-        "concept": "if절을 사용하여 허락을 표현하는 방법을 학습한다.",
+      "conditional_possibilities": {
+        "title": "조건에 따른 가능성",
+        "concept": "조건문을 사용하여 특정 조건이 충족될 때 가능한 결과를 설명한다.",
+        "teacher_explanation": "조건이 충족되면 어떤 일이 가능해지는지를 설명합니다.",
         "examples": [
-          "If you want to go to 코엑스 and see a movie, you can call me.",
-          "If you want to take a bus, you need a 교통카드."
+          "If you want to eat pizza, we can order it. (네가 피자를 먹고 싶으면, 주문할 수 있어)",
+          "If you begin to study, you can't work. (네가 공부하기 시작하면, 일할 수 없어)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=hh9pAAS-gho",
             "video_title": "21_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#9 ｜ if로 문장 길게 만들기 ｜ 기초 영어 회화",
             "filename": "21_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#9 ｜ if로 문장 길게 만들기 ｜ 기초 영어 회화.json",
-            "start_time": 233.7,
-            "end_time": 253.7,
-            "description": "if절을 사용하여 허락을 표현하는 예문을 설명한다."
+            "start_time": 146.9,
+            "end_time": 196.9,
+            "description": "조건에 따라 가능한 결과를 설명하는 구간"
           }
         ]
       }
@@ -1264,44 +1268,89 @@
         "title": "21_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#9 ｜ if로 문장 길게 만들기 ｜ 기초 영어 회화",
         "filename": "21_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#9 ｜ if로 문장 길게 만들기 ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "가정법",
+      "미래시제"
     ]
   },
   "가능과 허락의 can": {
-    "definition": "",
+    "definition": "can은 주어가 어떤 행동을 할 수 있거나 허락받았음을 나타내는 조동사이다. 긍정문, 부정문, 의문문 형태로 사용되며, 주어의 능력이나 허락을 표현한다.",
+    "teacher_tip": "can은 단순히 '할 수 있다'는 의미뿐만 아니라 '해도 된다'는 허락의 의미도 포함하고 있어요. 예를 들어, 'You can go'는 '너는 갈 수 있다'와 '너는 가도 된다' 두 가지 의미를 가질 수 있습니다.",
     "sub_topics": {
       "can_statements": {
         "title": "can을 사용한 긍정문",
-        "concept": "can을 사용하여 '할 수 있다'는 능력이나 가능성을 표현한다.",
+        "concept": "can을 사용하여 주어가 어떤 행동을 할 수 있음을 나타낸다.",
+        "teacher_explanation": "can은 주어의 능력이나 허락을 나타내는 데 사용됩니다.",
         "examples": [
-          "I can go to America.",
-          "I can make!"
+          "I can go to America. (나는 미국에 갈 수 있어)",
+          "I can eat ice cream today. (나는 오늘 아이스크림을 먹어도 돼)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=kYx8f4U4-jo",
             "video_title": "30_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #7 ｜ 가능과 허락의 can ｜ 기초 영어 회화",
             "filename": "30_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #7 ｜ 가능과 허락의 can ｜ 기초 영어 회화.json",
-            "start_time": 56.4,
-            "end_time": 98.2,
-            "description": "can을 사용하여 다양한 긍정문을 만드는 방법을 설명"
+            "start_time": 93.6,
+            "end_time": 103.7,
+            "description": "can을 사용한 긍정문 예시와 연습"
           }
         ]
       },
       "can_questions": {
         "title": "can을 사용한 의문문",
-        "concept": "can을 문장 앞으로 이동시켜 질문을 형성한다.",
+        "concept": "can을 문장 앞에 위치시켜 주어가 어떤 행동을 할 수 있는지 묻는다.",
+        "teacher_explanation": "의문문에서는 can을 앞으로 빼서 질문을 만듭니다.",
         "examples": [
-          "Can you come to?",
-          "Can you make it?"
+          "Can you come to? (너는 올 수 있니?)",
+          "Can you make coffee? (너는 커피를 만들 수 있니?)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=kYx8f4U4-jo",
             "video_title": "30_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #7 ｜ 가능과 허락의 can ｜ 기초 영어 회화",
             "filename": "30_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #7 ｜ 가능과 허락의 can ｜ 기초 영어 회화.json",
-            "start_time": 160.1,
-            "end_time": 213.0,
-            "description": "can을 사용하여 의문문을 만드는 방법을 설명"
+            "start_time": 163.7,
+            "end_time": 185.5,
+            "description": "can을 사용한 의문문 형성 및 예시"
+          }
+        ]
+      },
+      "can_negatives": {
+        "title": "can을 사용한 부정문",
+        "concept": "can't 또는 cannot을 사용하여 주어가 어떤 행동을 할 수 없음을 나타낸다.",
+        "teacher_explanation": "부정문에서는 can에 not을 붙여서 '할 수 없다'를 표현합니다.",
+        "examples": [
+          "I can't go to school. (나는 학교에 갈 수 없어)",
+          "I can't speak English. (나는 영어를 말할 수 없어)"
+        ],
+        "video_segments": [
+          {
+            "video_url": "https://www.youtube.com/watch?v=kYx8f4U4-jo",
+            "video_title": "30_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #7 ｜ 가능과 허락의 can ｜ 기초 영어 회화",
+            "filename": "30_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #7 ｜ 가능과 허락의 can ｜ 기초 영어 회화.json",
+            "start_time": 267.5,
+            "end_time": 299.0,
+            "description": "can't를 사용한 부정문 예시와 연습"
+          }
+        ]
+      },
+      "could_past_ability": {
+        "title": "과거 능력의 could",
+        "concept": "could는 과거에 주어가 어떤 행동을 할 수 있었음을 나타낸다.",
+        "teacher_explanation": "과거의 능력을 표현할 때는 can 대신 could를 사용합니다.",
+        "examples": [
+          "I could make. (나는 만들 수 있었어)",
+          "I could finish. (나는 끝낼 수 있었어)"
+        ],
+        "video_segments": [
+          {
+            "video_url": "https://www.youtube.com/watch?v=kYx8f4U4-jo",
+            "video_title": "30_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #7 ｜ 가능과 허락의 can ｜ 기초 영어 회화",
+            "filename": "30_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #7 ｜ 가능과 허락의 can ｜ 기초 영어 회화.json",
+            "start_time": 316.3,
+            "end_time": 357.8,
+            "description": "과거 능력을 나타내는 could의 사용과 예시"
           }
         ]
       }
@@ -1312,17 +1361,23 @@
         "title": "30_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #7 ｜ 가능과 허락의 can ｜ 기초 영어 회화",
         "filename": "30_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #7 ｜ 가능과 허락의 can ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "허락과 능력 표현",
+      "조동사"
     ]
   },
-  "많이 쓰는 동사 put / get / take": {
-    "definition": "",
+  "기초 동사 활용 (put, get, take)": {
+    "definition": "기초 동사인 put, get, take의 다양한 의미와 활용법을 배우고, 일상 회화에서 자주 사용되는 표현을 연습하는 것이다.",
+    "teacher_tip": "동사는 문장의 핵심 동작을 나타내며, 다양한 상황에 맞게 변형하여 사용할 수 있다. 예를 들어, 'put'은 '놓다'라는 기본 의미 외에도 다양한 맥락에서 사용된다.",
     "sub_topics": {
       "put_usage": {
-        "title": "동사 'put'의 다양한 사용법",
-        "concept": "'put'은 '놓다', '설치하다', '붙이다' 등 다양한 의미로 사용될 수 있다.",
+        "title": "put 동사의 활용",
+        "concept": "put 동사는 '놓다', '두다' 등의 의미로 다양한 상황에서 사용된다.",
+        "teacher_explanation": "put은 단순히 '놓다'가 아니라, 상황에 따라 '설치하다', '붙이다' 등으로도 해석될 수 있어요.",
         "examples": [
-          "Put the book on the table.",
-          "I put the navigation in my car."
+          "I put it here. (나는 그것을 여기에 두었어)",
+          "I have put it here. (나는 그것을 여기에 두었어)"
         ],
         "video_segments": [
           {
@@ -1331,7 +1386,45 @@
             "filename": "28_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #30 ｜ 많이 쓰는 동사 put ⧸ get ⧸ take ｜ 기초 영어 회화.json",
             "start_time": 28.5,
             "end_time": 46.0,
-            "description": "'put'의 다양한 의미와 사용법에 대한 설명"
+            "description": "put 동사의 기본 의미와 다양한 활용법을 설명"
+          }
+        ]
+      },
+      "get_usage": {
+        "title": "get 동사의 활용",
+        "concept": "get 동사는 '얻다', '받다', '도착하다' 등의 의미로 사용된다.",
+        "teacher_explanation": "get은 단순히 '얻다'가 아니라, 문맥에 따라 '도착하다'로도 해석될 수 있어요.",
+        "examples": [
+          "I have got here 10 minutes ago. (나는 10분 전에 여기에 도착했어)",
+          "I've got this in 현대백화점. (나는 이걸 현대백화점에서 샀어)"
+        ],
+        "video_segments": [
+          {
+            "video_url": "https://www.youtube.com/watch?v=1dIALFMvJlA",
+            "video_title": "28_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #30 ｜ 많이 쓰는 동사 put ⧸ get ⧸ take ｜ 기초 영어 회화",
+            "filename": "28_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #30 ｜ 많이 쓰는 동사 put ⧸ get ⧸ take ｜ 기초 영어 회화.json",
+            "start_time": 294.3,
+            "end_time": 327.4,
+            "description": "get 동사의 다양한 의미와 활용법을 설명"
+          }
+        ]
+      },
+      "take_usage": {
+        "title": "take 동사의 활용",
+        "concept": "take 동사는 '취하다', '가져가다' 등의 의미로 사용되며, 다양한 일상 표현에 활용된다.",
+        "teacher_explanation": "take는 '가져가다' 뿐만 아니라, '쉬다', '산책하다' 등 다양한 표현에 사용돼요.",
+        "examples": [
+          "Take a break. (쉬다)",
+          "Take a nap. (낮잠을 자다)"
+        ],
+        "video_segments": [
+          {
+            "video_url": "https://www.youtube.com/watch?v=1dIALFMvJlA",
+            "video_title": "28_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #30 ｜ 많이 쓰는 동사 put ⧸ get ⧸ take ｜ 기초 영어 회화",
+            "filename": "28_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #30 ｜ 많이 쓰는 동사 put ⧸ get ⧸ take ｜ 기초 영어 회화.json",
+            "start_time": 447.6,
+            "end_time": 478.7,
+            "description": "take 동사의 다양한 활용법과 일상 표현을 설명"
           }
         ]
       }
@@ -1342,43 +1435,51 @@
         "title": "28_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #30 ｜ 많이 쓰는 동사 put ⧸ get ⧸ take ｜ 기초 영어 회화",
         "filename": "28_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #30 ｜ 많이 쓰는 동사 put ⧸ get ⧸ take ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "기초 동사 변형",
+      "일상 회화 표현"
     ]
   },
   "조동사 사용법": {
-    "definition": "",
+    "definition": "조동사는 주어의 능력, 가능성, 의무 등을 나타내기 위해 동사 앞에 사용되는 단어들이다. 주로 can, should, must 등이 있으며, 문장의 의미를 보조한다.",
+    "teacher_tip": "조동사는 문장의 주어가 어떤 행동을 할 수 있는지, 해야 하는지, 또는 할 가능성이 있는지를 나타내는 도구입니다. 예를 들어, 'can'은 능력을, 'should'는 의무를, 'must'는 강한 필요성을 나타냅니다.",
     "sub_topics": {
-      "modal_verbs_with_that": {
-        "title": "that 뒤에 조동사 사용",
-        "concept": "that 뒤에 조동사를 사용하여 문장의 의미를 확장하고 다양한 상황을 표현할 수 있다.",
+      "modal_verbs_with_that_clause": {
+        "title": "that절과 조동사",
+        "concept": "that절 뒤에 조동사를 사용하여 주어의 가능성이나 의무를 표현할 수 있다.",
+        "teacher_explanation": "that절 뒤에 조동사를 붙여서 주어가 무엇을 할 수 있는지, 해야 하는지를 나타내세요.",
         "examples": [
-          "that should be here",
-          "that cannot be here",
-          "that will drive"
+          "You are the person that should come. (너는 와야 하는 사람이야)",
+          "The people that went home at 7. (7시에 집에 간 사람들)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=OaTujaboBf8",
             "video_title": "07_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #23 ｜ that 뒤에 조동사 쓰기  ｜ 기초 영어 회화",
             "filename": "07_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #23 ｜ that 뒤에 조동사 쓰기  ｜ 기초 영어 회화.json",
-            "start_time": 35.5,
-            "end_time": 46.0,
-            "description": "that should be here 문장을 연습"
-          },
+            "start_time": 225.1,
+            "end_time": 240.3,
+            "description": "that절과 조동사를 사용하여 주어의 의무를 설명하는 부분"
+          }
+        ]
+      },
+      "modal_verbs_practice": {
+        "title": "조동사 연습",
+        "concept": "조동사를 사용하여 다양한 문장을 연습함으로써 그 의미와 사용법을 익힌다.",
+        "teacher_explanation": "조동사를 다양한 문장에 적용해 보세요. 예를 들어, 'can'은 능력을 나타내고, 'must'는 강한 필요성을 나타냅니다.",
+        "examples": [
+          "can then. (그때 할 수 있다)",
+          "studied 사람들. (공부한 사람들)"
+        ],
+        "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=OaTujaboBf8",
             "video_title": "07_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #23 ｜ that 뒤에 조동사 쓰기  ｜ 기초 영어 회화",
             "filename": "07_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #23 ｜ that 뒤에 조동사 쓰기  ｜ 기초 영어 회화.json",
-            "start_time": 84.0,
-            "end_time": 93.5,
-            "description": "that cannot be here 문장을 연습"
-          },
-          {
-            "video_url": "https://www.youtube.com/watch?v=OaTujaboBf8",
-            "video_title": "07_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #23 ｜ that 뒤에 조동사 쓰기  ｜ 기초 영어 회화",
-            "filename": "07_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #23 ｜ that 뒤에 조동사 쓰기  ｜ 기초 영어 회화.json",
-            "start_time": 128.1,
-            "end_time": 131.1,
-            "description": "that will drive 문장을 연습"
+            "start_time": 126.5,
+            "end_time": 154.9,
+            "description": "조동사를 사용하여 다양한 문장을 연습하는 부분"
           }
         ]
       }
@@ -1389,34 +1490,51 @@
         "title": "07_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #23 ｜ that 뒤에 조동사 쓰기  ｜ 기초 영어 회화",
         "filename": "07_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #23 ｜ that 뒤에 조동사 쓰기  ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "과거형",
+      "현재진행형"
     ]
   },
   "목적을 나타내는 to 동사원형": {
-    "definition": "",
+    "definition": "목적을 나타내는 to 부정사는 동작의 목적을 설명하기 위해 사용되며, 주로 동사 뒤에 위치하여 '무엇을 하기 위해'라는 의미를 전달한다.",
+    "teacher_tip": "'뭐뭐하러'라는 표현은 영어에서 to 부정사를 사용하여 나타내며, 항상 문장의 뒤에 위치합니다.",
     "sub_topics": {
-      "to_infinitive_purpose": {
-        "title": "to 동사원형을 사용한 목적 표현",
-        "concept": "to 동사원형을 사용하여 어떤 행동의 목적을 나타낼 수 있다.",
+      "purpose_to_infinitive": {
+        "title": "목적을 나타내는 to 부정사",
+        "concept": "to 부정사는 동작의 목적을 설명하며, 주로 동사 뒤에 위치하여 '무엇을 하기 위해'라는 의미를 전달한다.",
+        "teacher_explanation": "'뭐뭐하러'라는 표현은 영어에서 to 부정사를 사용하여 나타내며, 항상 문장의 뒤에 위치합니다.",
         "examples": [
-          "I am going to Starbucks to drink coffee.",
-          "I went to 강남역 to have some pizza."
+          "I go to 강남역 to meet my friend. (나는 강남역에 내 친구 만나러 가요.)",
+          "I went to Starbucks in the morning to have some coffee. (나는 아침에 커피를 마시러 스타벅스에 갔어요.)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=7CvXgPmdD9s",
             "video_title": "15_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #15 ｜ 목적을 나타내는 to 동사원형 ｜ 기초 영어 회화",
             "filename": "15_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #15 ｜ 목적을 나타내는 to 동사원형 ｜ 기초 영어 회화.json",
-            "start_time": 43.0,
-            "end_time": 62.0,
-            "description": "to 동사원형을 사용하여 목적을 나타내는 방법 소개"
-          },
+            "start_time": 19.6,
+            "end_time": 66.3,
+            "description": "목적을 나타내는 to 부정사의 기본 개념과 예시 설명"
+          }
+        ]
+      },
+      "negative_purpose_to_infinitive": {
+        "title": "부정 목적을 나타내는 to 부정사",
+        "concept": "부정 목적을 나타내기 위해 'not to'를 사용하여 '무엇을 하지 않기 위해'라는 의미를 전달한다.",
+        "teacher_explanation": "'뭐뭐하지 않으러'는 'not to'를 사용하여 표현합니다.",
+        "examples": [
+          "not to take a phone call (전화 안 받으러)",
+          "not to smoke (담배 안 피기 위해서)"
+        ],
+        "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=7CvXgPmdD9s",
             "video_title": "15_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #15 ｜ 목적을 나타내는 to 동사원형 ｜ 기초 영어 회화",
             "filename": "15_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #15 ｜ 목적을 나타내는 to 동사원형 ｜ 기초 영어 회화.json",
-            "start_time": 150.0,
-            "end_time": 164.0,
-            "description": "목적을 나타내는 to 동사원형의 예문 연습"
+            "start_time": 353.0,
+            "end_time": 376.5,
+            "description": "부정 목적을 나타내는 to 부정사의 사용법 설명"
           }
         ]
       }
@@ -1427,44 +1545,70 @@
         "title": "15_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #15 ｜ 목적을 나타내는 to 동사원형 ｜ 기초 영어 회화",
         "filename": "15_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #15 ｜ 목적을 나타내는 to 동사원형 ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "to 부정사의 다른 용법",
+      "동사원형 사용법"
     ]
   },
-  "현재 진행형": {
-    "definition": "",
+  "현재진행형": {
+    "definition": "현재진행형은 현재 시점에서 진행 중인 동작이나 상태를 나타내는 문법이다. 주로 'be + 동사ing' 형태로 사용된다.",
+    "teacher_tip": "현재진행형은 '지금 이 순간에 하고 있는 것'을 표현하는 거예요. 예를 들어, '나는 지금 공부하는 중이야'라고 말할 때 사용합니다.",
     "sub_topics": {
-      "present_continuous_basic_usage": {
-        "title": "현재 진행형의 기본 사용법",
-        "concept": "현재 진행형은 현재 하고 있는 동작을 나타내며, 'be 동사 + 동사ing' 형태로 사용된다.",
+      "present_continuous_basic": {
+        "title": "현재진행형 기본 설명",
+        "concept": "현재진행형은 현재 시점에서 진행 중인 동작을 나타내며, 'be + 동사ing' 형태로 구성된다.",
+        "teacher_explanation": "일한다는 work인데, 일하는 중이다는 be working입니다.",
         "examples": [
-          "I am working.",
-          "You are studying."
+          "I am studying later. (나 이따가 공부할 거야)",
+          "I am working today. (나는 오늘 일할거야)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=j87QB9EZZrY",
             "video_title": "17_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #13 ｜ 현재 진행형의 다양한 쓰임",
             "filename": "17_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #13 ｜ 현재 진행형의 다양한 쓰임.json",
-            "start_time": 0.0,
-            "end_time": 22.9,
-            "description": "현재 진행형의 기본 개념과 예시"
+            "start_time": 28.5,
+            "end_time": 46.0,
+            "description": "현재진행형의 기본 개념과 예시 설명"
+          }
+        ]
+      },
+      "present_continuous_questions": {
+        "title": "현재진행형 의문문",
+        "concept": "현재진행형 의문문은 비동사를 주어 앞으로 이동시켜 질문을 형성한다.",
+        "teacher_explanation": "의문문일 경우에 비동사가 있을 경우는 앞으로 뺀다 그랬어요.",
+        "examples": [
+          "Are you studying? (너 공부하는 중이니?)",
+          "Are you working today? (너 오늘 일하니?)"
+        ],
+        "video_segments": [
+          {
+            "video_url": "https://www.youtube.com/watch?v=j87QB9EZZrY",
+            "video_title": "17_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #13 ｜ 현재 진행형의 다양한 쓰임",
+            "filename": "17_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #13 ｜ 현재 진행형의 다양한 쓰임.json",
+            "start_time": 97.4,
+            "end_time": 118.8,
+            "description": "현재진행형 의문문 형성 방법과 예시"
           }
         ]
       },
       "present_continuous_future_usage": {
-        "title": "현재 진행형의 미래 시제 사용",
-        "concept": "현재 진행형은 미래에 예정된 일을 표현할 때도 사용된다.",
+        "title": "현재진행형의 미래 용법",
+        "concept": "현재진행형은 미래에 예정된 일을 표현할 때도 사용된다.",
+        "teacher_explanation": "미래랑 현재랑 똑같다는 거예요.",
         "examples": [
-          "I am studying later.",
-          "Are you meeting your friend later?"
+          "I am meeting my friend later. (나 이따 내 친구 만날 거야)",
+          "Are you meeting your friend later? (너 이따가 친구 만날거야?)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=j87QB9EZZrY",
             "video_title": "17_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #13 ｜ 현재 진행형의 다양한 쓰임",
             "filename": "17_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #13 ｜ 현재 진행형의 다양한 쓰임.json",
-            "start_time": 121.5,
-            "end_time": 254.2,
-            "description": "현재 진행형을 미래 시제로 사용하는 방법과 예시"
+            "start_time": 126.3,
+            "end_time": 149.9,
+            "description": "현재진행형을 미래 시점에 사용하는 방법 설명"
           }
         ]
       }
@@ -1475,44 +1619,51 @@
         "title": "17_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #13 ｜ 현재 진행형의 다양한 쓰임",
         "filename": "17_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #13 ｜ 현재 진행형의 다양한 쓰임.json"
       }
+    ],
+    "related_topics": [
+      "be동사",
+      "미래시제"
     ]
   },
-  "to 부정사 사용법": {
-    "definition": "",
+  "to 부정사": {
+    "definition": "to 부정사는 동사 앞에 'to'를 붙여서 동사의 목적이나 의도를 나타내는 형태이다. 주로 '무엇을 하기 위해서'라는 의미로 사용된다.",
+    "teacher_tip": "to 부정사는 '무엇을 하기를 원한다'는 의미로, 동작의 목적을 명확히 하는 데 사용됩니다. 예를 들어, 'I want to study'는 '공부하기를 원한다'는 뜻입니다.",
     "sub_topics": {
-      "like_to_verb": {
-        "title": "동사 + to 부정사",
-        "concept": "동사 뒤에 to 부정사를 사용하여 '~하기를 좋아한다'와 같은 표현을 만든다.",
+      "to_infinitive_usage": {
+        "title": "to 부정사의 사용",
+        "concept": "to 부정사는 주로 동사의 목적이나 의도를 나타내며, '무엇을 하기 위해서'라는 의미로 사용된다.",
+        "teacher_explanation": "to 부정사는 동작의 목적을 명확히 하기 위해 사용됩니다.",
         "examples": [
-          "like to study",
-          "like to drink"
+          "I want to study. (나는 공부하기를 원해)",
+          "I want to meet you and drink coffee. (나는 너를 만나서 커피를 마시기를 원해)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=TK1HL_27g6U",
             "video_title": "22_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#8 ｜ '~하기를' to 동사원형 연습 ｜ 기초 영어 회화",
             "filename": "22_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#8 ｜ '~하기를' to 동사원형 연습 ｜ 기초 영어 회화.json",
-            "start_time": 29.9,
-            "end_time": 45.8,
-            "description": "동사 'like'와 to 부정사를 사용하여 '~하기를 좋아한다' 표현 연습"
+            "start_time": 33.0,
+            "end_time": 63.0,
+            "description": "to 부정사의 기본 사용법과 예시 설명"
           }
         ]
       },
-      "want_to_verb": {
-        "title": "동사 + to 부정사",
-        "concept": "동사 'want' 뒤에 to 부정사를 사용하여 '~하기를 원한다'와 같은 표현을 만든다.",
+      "to_infinitive_with_verbs": {
+        "title": "동사와 함께 쓰이는 to 부정사",
+        "concept": "to 부정사는 'want', 'like', 'begin' 등의 동사와 함께 사용되어 그 동사의 목적을 나타낸다.",
+        "teacher_explanation": "'want', 'like', 'begin' 같은 동사 뒤에 to 부정사를 붙여서 그 동사의 목적을 나타냅니다.",
         "examples": [
-          "want to study",
-          "want to meet"
+          "I begin to study. (나는 공부하기를 시작해요)",
+          "My baby began to walk. (내 아이는 걷기를 시작했어)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=TK1HL_27g6U",
             "video_title": "22_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#8 ｜ '~하기를' to 동사원형 연습 ｜ 기초 영어 회화",
             "filename": "22_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#8 ｜ '~하기를' to 동사원형 연습 ｜ 기초 영어 회화.json",
-            "start_time": 113.0,
-            "end_time": 164.7,
-            "description": "동사 'want'와 to 부정사를 사용하여 '~하기를 원한다' 표현 연습"
+            "start_time": 490.4,
+            "end_time": 496.4,
+            "description": "to 부정사가 'begin'과 함께 사용되는 예시 설명"
           }
         ]
       }
@@ -1523,44 +1674,102 @@
         "title": "22_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#8 ｜ '~하기를' to 동사원형 연습 ｜ 기초 영어 회화",
         "filename": "22_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기#8 ｜ '~하기를' to 동사원형 연습 ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "동명사",
+      "현재진행형"
     ]
   },
-  "과거완료 시제": {
-    "definition": "",
+  "진행형 시제": {
+    "definition": "진행형 시제는 동작이 현재, 과거, 또는 미래에 진행 중임을 나타내는 문법이다. 현재진행형은 'be + ~ing' 형태로, 과거진행형은 'was/were + ~ing', 미래진행형은 'will be + ~ing' 형태로 만든다.",
+    "teacher_tip": "진행형 시제는 동작이 특정 시점에 진행 중임을 강조하는 거예요. 예를 들어, '나는 공부 중이다'는 그 순간에 공부하고 있다는 걸 나타내죠.",
     "sub_topics": {
-      "past_perfect_usage": {
-        "title": "과거완료 시제 사용법",
-        "concept": "과거에 이미 완료된 동작이나 상태를 설명할 때 과거완료 시제를 사용합니다.",
+      "future_continuous": {
+        "title": "미래진행형",
+        "concept": "미래진행형은 미래의 특정 시점에 동작이 진행 중임을 나타낸다.",
+        "teacher_explanation": "미래에 어떤 일이 진행 중일 거라는 걸 표현할 때 'will be ~ing'를 사용해요.",
         "examples": [
-          "I met my friend who had worked in 시원스쿨.",
-          "I met my friend who had studied well in High School."
+          "I will be studying. (나는 공부 중일 거야)"
         ],
         "video_segments": [
           {
-            "video_url": "https://www.youtube.com/watch?v=R_-pgaQYaYQ",
-            "video_title": "01_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #29 ｜ 과거에 있었던 일 설명할 때  ｜ 기초 영어 회화",
-            "filename": "01_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #29 ｜ 과거에 있었던 일 설명할 때  ｜ 기초 영어 회화.json",
-            "start_time": 75.0,
-            "end_time": 90.0,
-            "description": "과거완료 시제를 사용하여 친구의 과거 경력을 설명하는 방법"
+            "video_url": "https://www.youtube.com/watch?v=7ot7hY8wm4Q",
+            "video_title": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화",
+            "filename": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화.json",
+            "start_time": 61.0,
+            "end_time": 92.6,
+            "description": "미래진행형의 개념과 예문 연습"
           }
         ]
       },
-      "past_perfect_examples": {
-        "title": "과거완료 시제 예문",
-        "concept": "과거완료 시제를 사용한 다양한 예문을 통해 이해를 돕습니다.",
+      "past_continuous": {
+        "title": "과거진행형",
+        "concept": "과거진행형은 과거의 특정 시점에 동작이 진행 중이었음을 나타낸다.",
+        "teacher_explanation": "과거에 어떤 일이 진행 중이었다는 걸 표현할 때 'was/were ~ing'를 사용해요.",
         "examples": [
-          "Who had studied in America.",
-          "Who had run the website."
+          "I was waiting for the bus. (난 버스를 기다리던 중이었다)"
+        ],
+        "video_segments": [
+          {
+            "video_url": "https://www.youtube.com/watch?v=7ot7hY8wm4Q",
+            "video_title": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화",
+            "filename": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화.json",
+            "start_time": 239.3,
+            "end_time": 287.8,
+            "description": "과거진행형의 개념과 예문 연습"
+          }
+        ]
+      }
+    },
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=7ot7hY8wm4Q",
+        "title": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화",
+        "filename": "16_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #14 ｜ 미래와 과거에도 진행형을 쓴다! ｜ 기초 영어 회화.json"
+      }
+    ],
+    "related_topics": [
+      "조동사",
+      "현재진행형"
+    ]
+  },
+  "과거완료": {
+    "definition": "과거완료는 과거의 특정 시점보다 이전에 완료된 동작이나 상태를 표현하는 문법이다. 주로 'had + 과거분사' 형태로 사용된다.",
+    "teacher_tip": "과거완료는 과거의 과거를 설명할 때 사용해요. 예를 들어, '나는 친구를 만났는데, 그 친구는 전에 시원스쿨에서 일했었어'처럼요.",
+    "sub_topics": {
+      "past_perfect_explanation": {
+        "title": "과거완료 설명",
+        "concept": "과거완료는 과거의 특정 시점보다 이전에 완료된 일을 설명할 때 사용된다.",
+        "teacher_explanation": "과거의 과거를 설명할 때는 had + 과거분사를 사용해요.",
+        "examples": [
+          "I went to 종로 yesterday and met my friend who had worked in 시원스쿨. (나는 어제 종로에 가서 시원스쿨에서 일했던 친구를 만났어)"
         ],
         "video_segments": [
           {
             "video_url": "https://www.youtube.com/watch?v=R_-pgaQYaYQ",
             "video_title": "01_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #29 ｜ 과거에 있었던 일 설명할 때  ｜ 기초 영어 회화",
             "filename": "01_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #29 ｜ 과거에 있었던 일 설명할 때  ｜ 기초 영어 회화.json",
-            "start_time": 165.0,
-            "end_time": 205.0,
-            "description": "다양한 과거완료 시제 예문을 통한 연습"
+            "start_time": 70.5,
+            "end_time": 85.0,
+            "description": "과거완료 시제의 사용법과 예시 설명"
+          }
+        ]
+      },
+      "past_perfect_usage": {
+        "title": "과거완료 사용법",
+        "concept": "과거완료는 주로 대시나 후와 함께 사용되며, 단독으로는 잘 쓰이지 않는다.",
+        "teacher_explanation": "과거완료는 대시나 후와 함께 쓰여서 과거의 과거를 설명해요.",
+        "examples": [
+          "The people who had bought apartment lost money. (아파트를 샀었던 사람들이 돈을 잃었어요)"
+        ],
+        "video_segments": [
+          {
+            "video_url": "https://www.youtube.com/watch?v=R_-pgaQYaYQ",
+            "video_title": "01_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #29 ｜ 과거에 있었던 일 설명할 때  ｜ 기초 영어 회화",
+            "filename": "01_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #29 ｜ 과거에 있었던 일 설명할 때  ｜ 기초 영어 회화.json",
+            "start_time": 124.8,
+            "end_time": 128.8,
+            "description": "과거완료가 주로 대시나 후와 함께 사용되는 이유 설명"
           }
         ]
       }
@@ -1571,6 +1780,10 @@
         "title": "01_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #29 ｜ 과거에 있었던 일 설명할 때  ｜ 기초 영어 회화",
         "filename": "01_NEW 이시원 강의 ｜ 한 달 만에 영어로 말문 트기 #29 ｜ 과거에 있었던 일 설명할 때  ｜ 기초 영어 회화.json"
       }
+    ],
+    "related_topics": [
+      "현재완료",
+      "과거시제"
     ]
   }
 }

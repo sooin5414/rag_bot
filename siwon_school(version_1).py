@@ -7,9 +7,8 @@ from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_community.chat_message_histories import ChatMessageHistory
 from dotenv import load_dotenv
-import openai
 import json
-import os
+
 
 load_dotenv()
 
@@ -38,7 +37,7 @@ def load_vectorstore():
             vectorstore = Chroma(
             persist_directory="./chroma_db",
             embedding_function=embeddings,
-            collection_name="lectures"
+            collection_name="english_grammar"
             )
     
     return vectorstore

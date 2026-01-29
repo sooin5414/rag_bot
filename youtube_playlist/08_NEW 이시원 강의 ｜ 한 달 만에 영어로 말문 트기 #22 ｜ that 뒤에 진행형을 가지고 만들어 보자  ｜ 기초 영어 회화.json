@@ -1,2643 +1,5160 @@
 {
-  "text": " 안녕하세요. 안녕하세요. 잘 지내셨죠? 네. 오늘 이 시간에는 여러분들께서요. 됐 다음에 바로 동사가 오는 게 아니고 비동사가 와서 이렇게 지내얼을 만드는 걸 한번 해보도록 하겠습니다. 고의 지내얼은 이스풱. 제가 Go 하면 여러분 is going 해주세요. Go. is going. make. is a work. work. bye. bye. think. think. see. watch. speak. speak. come. come. that goes. that goes. that goes. that goes to 정로. that goes to 정로. that roots. tree is reading. is reading. it's reading. read is reading. that reads. that reads. that reads. that reads a book. that books. that reading a book. that is reading a book. that is reading a book. that is reading a book. 엄청 재미있음's 다시 시작 will speaking 그렇죠. The person that is 와. The people that are. 이 시간이 끝나기 전에 완전하게 익히고 가도록 하겠습니다. 타는 사람. The person that is standing. 자, 일하는 사람. The person that is roughly. 책을 읽는 사람. The person that is reading a book. 그렇게 하면 되겠죠. 버스를 타는 사람. The person that is standing your boss. 커피를 마시는 사람. 다시요. The person that is drinking coffee. 자, 일하는 사람. The person that is roughly. The person that is roughly. 여기서 일하는 사람. The person that is roughly. 여기서 먹는 사람. The person that is eating here. The person that is eating here. 시작. The person that is eating here. 청과지를 있는 사람들. The people that are. 그렇죠. Wearing jeans. 자켓을 입는 사람들. 그렇죠. 스쿼트를 입는 사람들. 그렇죠. 공부하는 사람들. 공부하는 사람들. 여기서 공부하는 사람들. 커피를 마시는 사람들. 여기서 커피를 마시는 사람들. 다시요. The people that are drinking coffee here. 다시요. The people that are drinking coffee here. 그렇죠. 물을 마시는 사람들. 커피를 마시는 사람들. 다시요. 커피를 마시는 사람들. 부산에 가는 학생들. 그럼 학생, 단수로 그러면 어떻게 하면 되죠. The student that is going to Busan. 한 번 더. The student that is going to Busan. 부산에 가는 학생들. Students that are going to Busan. 다시요. The students that are going to Busan. 그렇게 하면 되겠죠. The people that are studying hard will speak English well. 열심히 공부하는 사람들은 will speak English. 영어를 잘하게 될 거다. The people that are working hard can make money. 그렇죠. 자체는 사람들은 �幸福 ay. 넷은다. 여기서 이런다는 이런다는ились. 이제 완전히 딸아혁抱여 boxes. 공부하는? 공부하는? 공부하지 않는? 공부하지 않는? 시원스쿨에 가는? 시원스쿨에 가는? 시원스쿨에 가는? 데라가고잉트 시원스쿨 시작? 데라고잉트 시원스쿨? 시원스쿨에 가지 않는? 그르처! 오늘 썩 여기서 마치겠습니다.",
   "segments": [
     {
-      "id": 0,
-      "seek": 0,
-      "start": 0.0,
-      "end": 4.18,
+      "start": 4.45,
+      "end": 7.554,
       "text": " 안녕하세요.",
-      "tokens": [
-        50364,
-        19289,
-        13,
-        50573
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.6167266433303421,
-      "compression_ratio": 1.3884615384615384,
-      "no_speech_prob": 0.036936379969120026
+      "words": [
+        {
+          "word": "안녕하세요.",
+          "start": 4.45,
+          "end": 7.554,
+          "score": 0.656
+        }
+      ]
     },
     {
-      "id": 1,
-      "seek": 0,
-      "start": 4.18,
-      "end": 6.94,
-      "text": " 안녕하세요.",
-      "tokens": [
-        50573,
-        19289,
-        13,
-        50711
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.6167266433303421,
-      "compression_ratio": 1.3884615384615384,
-      "no_speech_prob": 0.036936379969120026
+      "start": 7.574,
+      "end": 7.694,
+      "text": "안녕하세요.",
+      "words": [
+        {
+          "word": "안녕하세요.",
+          "start": 7.574,
+          "end": 7.694,
+          "score": 0.005
+        }
+      ]
     },
     {
-      "id": 2,
-      "seek": 0,
-      "start": 6.94,
-      "end": 8.08,
-      "text": " 잘 지내셨죠?",
-      "tokens": [
-        50711,
-        6644,
-        12205,
-        224,
-        1041,
-        227,
-        101,
-        5837,
-        30,
-        50768
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.6167266433303421,
-      "compression_ratio": 1.3884615384615384,
-      "no_speech_prob": 0.036936379969120026
+      "start": 7.714,
+      "end": 9.417,
+      "text": "잘 지내셨죠?",
+      "words": [
+        {
+          "word": "잘",
+          "start": 7.714,
+          "end": 7.734,
+          "score": 0.0
+        },
+        {
+          "word": "지내셨죠?",
+          "start": 7.754,
+          "end": 9.417,
+          "score": 0.391
+        }
+      ]
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 8.08,
-      "end": 9.72,
-      "text": " 네.",
-      "tokens": [
-        50768,
-        8808,
-        13,
-        50850
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.6167266433303421,
-      "compression_ratio": 1.3884615384615384,
-      "no_speech_prob": 0.036936379969120026
+      "start": 9.437,
+      "end": 9.737,
+      "text": "네.",
+      "words": [
+        {
+          "word": "네.",
+          "start": 9.437,
+          "end": 9.737,
+          "score": 0.956
+        }
+      ]
     },
     {
-      "id": 4,
-      "seek": 0,
-      "start": 9.72,
-      "end": 11.98,
-      "text": " 오늘 이 시간에는 여러분들께서요.",
-      "tokens": [
-        50850,
-        8880,
-        2620,
-        16648,
-        11357,
-        25745,
-        47208,
-        1495,
-        13,
-        50963
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.6167266433303421,
-      "compression_ratio": 1.3884615384615384,
-      "no_speech_prob": 0.036936379969120026
+      "start": 9.877,
+      "end": 19.971,
+      "text": "오늘 시간에는 여러분들께서요, 됐다음에 바로 동사가 오는 게 아니고 비동사가 와서 이렇게 진행형을 만드는 거를 한번 해보도록 하겠습니다.",
+      "words": [
+        {
+          "word": "오늘",
+          "start": 9.877,
+          "end": 10.178,
+          "score": 0.958
+        },
+        {
+          "word": "시간에는",
+          "start": 10.318,
+          "end": 10.799,
+          "score": 0.982
+        },
+        {
+          "word": "여러분들께서요,",
+          "start": 11.019,
+          "end": 12.481,
+          "score": 0.936
+        },
+        {
+          "word": "됐다음에",
+          "start": 12.501,
+          "end": 12.721,
+          "score": 0.5
+        },
+        {
+          "word": "바로",
+          "start": 13.062,
+          "end": 13.102,
+          "score": 0.0
+        },
+        {
+          "word": "동사가",
+          "start": 13.122,
+          "end": 13.462,
+          "score": 0.905
+        },
+        {
+          "word": "오는",
+          "start": 13.582,
+          "end": 13.622,
+          "score": 0.0
+        },
+        {
+          "word": "게",
+          "start": 13.642,
+          "end": 13.662,
+          "score": 0.0
+        },
+        {
+          "word": "아니고",
+          "start": 13.682,
+          "end": 13.843,
+          "score": 0.647
+        },
+        {
+          "word": "비동사가",
+          "start": 14.363,
+          "end": 14.804,
+          "score": 0.91
+        },
+        {
+          "word": "와서",
+          "start": 14.884,
+          "end": 15.124,
+          "score": 0.916
+        },
+        {
+          "word": "이렇게",
+          "start": 15.986,
+          "end": 16.186,
+          "score": 0.959
+        },
+        {
+          "word": "진행형을",
+          "start": 16.466,
+          "end": 16.847,
+          "score": 0.853
+        },
+        {
+          "word": "만드는",
+          "start": 16.907,
+          "end": 17.167,
+          "score": 0.971
+        },
+        {
+          "word": "거를",
+          "start": 17.327,
+          "end": 17.367,
+          "score": 0.498
+        },
+        {
+          "word": "한번",
+          "start": 17.508,
+          "end": 17.688,
+          "score": 0.862
+        },
+        {
+          "word": "해보도록",
+          "start": 17.728,
+          "end": 18.048,
+          "score": 0.918
+        },
+        {
+          "word": "하겠습니다.",
+          "start": 18.108,
+          "end": 19.971,
+          "score": 0.643
+        }
+      ]
     },
     {
-      "id": 5,
-      "seek": 0,
-      "start": 11.98,
-      "end": 14.16,
-      "text": " 됐 다음에 바로 동사가 오는 게 아니고",
-      "tokens": [
-        50963,
-        16718,
-        28232,
-        15965,
-        11685,
-        5727,
-        1453,
-        5175,
-        1098,
-        7845,
-        32510,
-        51072
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.6167266433303421,
-      "compression_ratio": 1.3884615384615384,
-      "no_speech_prob": 0.036936379969120026
+      "start": 19.991,
+      "end": 22.054,
+      "text": "고의 진행형은 is going.",
+      "words": [
+        {
+          "word": "고의",
+          "start": 19.991,
+          "end": 20.191,
+          "score": 0.522
+        },
+        {
+          "word": "진행형은",
+          "start": 20.371,
+          "end": 20.852,
+          "score": 0.944
+        },
+        {
+          "word": "is",
+          "start": 20.872,
+          "end": 21.914,
+          "score": 0.904
+        },
+        {
+          "word": "going.",
+          "start": 21.934,
+          "end": 22.054,
+          "score": 0.108
+        }
+      ]
     },
     {
-      "id": 6,
-      "seek": 0,
-      "start": 14.16,
-      "end": 19.18,
-      "text": " 비동사가 와서 이렇게 지내얼을 만드는 걸 한번 해보도록 하겠습니다.",
-      "tokens": [
-        51072,
-        24241,
-        8309,
-        34435,
-        45783,
-        5483,
-        12205,
-        224,
-        1041,
-        244,
-        120,
-        1638,
-        8165,
-        29609,
-        14240,
-        14463,
-        11134,
-        46799,
-        23473,
-        13,
-        51323
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.6167266433303421,
-      "compression_ratio": 1.3884615384615384,
-      "no_speech_prob": 0.036936379969120026
+      "start": 22.074,
+      "end": 25.178,
+      "text": "제가 go 하면 여러분 is going 해주세요.",
+      "words": [
+        {
+          "word": "제가",
+          "start": 22.074,
+          "end": 22.114,
+          "score": 0.452
+        },
+        {
+          "word": "go",
+          "start": 22.134,
+          "end": 22.194,
+          "score": 0.179
+        },
+        {
+          "word": "하면",
+          "start": 22.214,
+          "end": 22.394,
+          "score": 0.428
+        },
+        {
+          "word": "여러분",
+          "start": 22.414,
+          "end": 22.655,
+          "score": 0.874
+        },
+        {
+          "word": "is",
+          "start": 22.675,
+          "end": 22.735,
+          "score": 0.514
+        },
+        {
+          "word": "going",
+          "start": 22.755,
+          "end": 23.155,
+          "score": 0.908
+        },
+        {
+          "word": "해주세요.",
+          "start": 23.275,
+          "end": 25.178,
+          "score": 0.752
+        }
+      ]
     },
     {
-      "id": 7,
-      "seek": 0,
-      "start": 19.18,
-      "end": 21.52,
-      "text": " 고의 지내얼은 이스풱.",
-      "tokens": [
-        51323,
-        9161,
-        2785,
-        12205,
-        224,
-        1041,
-        244,
-        120,
-        2124,
-        4329,
-        232,
-        4644,
-        240,
-        109,
-        13,
-        51440
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.6167266433303421,
-      "compression_ratio": 1.3884615384615384,
-      "no_speech_prob": 0.036936379969120026
+      "start": 25.198,
+      "end": 34.13,
+      "text": "go is going go is going make is made make is made work is working work is working buy is buying buy",
+      "words": [
+        {
+          "word": "go",
+          "start": 25.198,
+          "end": 30.645,
+          "score": 0.99
+        },
+        {
+          "word": "is",
+          "start": 30.665,
+          "end": 32.247,
+          "score": 0.49
+        },
+        {
+          "word": "going",
+          "start": 32.268,
+          "end": 32.368,
+          "score": 0.001
+        },
+        {
+          "word": "go",
+          "start": 32.388,
+          "end": 32.428,
+          "score": 0.0
+        },
+        {
+          "word": "is",
+          "start": 32.448,
+          "end": 32.488,
+          "score": 0.0
+        },
+        {
+          "word": "going",
+          "start": 32.508,
+          "end": 32.608,
+          "score": 0.0
+        },
+        {
+          "word": "make",
+          "start": 32.628,
+          "end": 32.708,
+          "score": 0.0
+        },
+        {
+          "word": "is",
+          "start": 32.728,
+          "end": 32.768,
+          "score": 0.0
+        },
+        {
+          "word": "made",
+          "start": 32.788,
+          "end": 32.868,
+          "score": 0.0
+        },
+        {
+          "word": "make",
+          "start": 32.888,
+          "end": 32.968,
+          "score": 0.0
+        },
+        {
+          "word": "is",
+          "start": 32.988,
+          "end": 33.029,
+          "score": 0.0
+        },
+        {
+          "word": "made",
+          "start": 33.049,
+          "end": 33.129,
+          "score": 0.0
+        },
+        {
+          "word": "work",
+          "start": 33.149,
+          "end": 33.229,
+          "score": 0.0
+        },
+        {
+          "word": "is",
+          "start": 33.249,
+          "end": 33.289,
+          "score": 0.0
+        },
+        {
+          "word": "working",
+          "start": 33.309,
+          "end": 33.449,
+          "score": 0.0
+        },
+        {
+          "word": "work",
+          "start": 33.469,
+          "end": 33.549,
+          "score": 0.0
+        },
+        {
+          "word": "is",
+          "start": 33.569,
+          "end": 33.609,
+          "score": 0.0
+        },
+        {
+          "word": "working",
+          "start": 33.629,
+          "end": 33.77,
+          "score": 0.0
+        },
+        {
+          "word": "buy",
+          "start": 33.79,
+          "end": 33.85,
+          "score": 0.0
+        },
+        {
+          "word": "is",
+          "start": 33.87,
+          "end": 33.91,
+          "score": 0.0
+        },
+        {
+          "word": "buying",
+          "start": 33.93,
+          "end": 34.05,
+          "score": 0.0
+        },
+        {
+          "word": "buy",
+          "start": 34.07,
+          "end": 34.13,
+          "score": 0.0
+        }
+      ]
     },
     {
-      "id": 8,
-      "seek": 0,
-      "start": 21.52,
-      "end": 24.060000000000002,
-      "text": " 제가 Go 하면 여러분 is going 해주세요. Go.",
-      "tokens": [
-        51440,
-        7439,
-        1037,
-        17422,
-        14707,
-        307,
-        516,
-        23281,
-        7046,
-        13,
-        1037,
-        13,
-        51567
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.6167266433303421,
-      "compression_ratio": 1.3884615384615384,
-      "no_speech_prob": 0.036936379969120026
+      "start": 34.274,
+      "end": 63.378,
+      "text": " think see watch speak come that goes that goes that goes to 종로 that goes to 종로 read is reading",
+      "words": [
+        {
+          "word": "think",
+          "start": 34.274,
+          "end": 41.645,
+          "score": 0.912
+        },
+        {
+          "word": "see",
+          "start": 41.665,
+          "end": 48.395,
+          "score": 0.992
+        },
+        {
+          "word": "watch",
+          "start": 51.861,
+          "end": 54.304,
+          "score": 0.777
+        },
+        {
+          "word": "speak",
+          "start": 54.324,
+          "end": 57.629,
+          "score": 0.198
+        },
+        {
+          "word": "come",
+          "start": 57.649,
+          "end": 58.411,
+          "score": 0.949
+        },
+        {
+          "word": "that",
+          "start": 58.431,
+          "end": 60.434,
+          "score": 0.248
+        },
+        {
+          "word": "goes",
+          "start": 60.454,
+          "end": 60.534,
+          "score": 0.001
+        },
+        {
+          "word": "that",
+          "start": 60.554,
+          "end": 60.634,
+          "score": 0.0
+        },
+        {
+          "word": "goes",
+          "start": 60.654,
+          "end": 60.734,
+          "score": 0.0
+        },
+        {
+          "word": "that",
+          "start": 60.754,
+          "end": 60.834,
+          "score": 0.0
+        },
+        {
+          "word": "goes",
+          "start": 60.854,
+          "end": 60.934,
+          "score": 0.0
+        },
+        {
+          "word": "to",
+          "start": 60.954,
+          "end": 60.994,
+          "score": 0.0
+        },
+        {
+          "word": "종로",
+          "start": 61.014,
+          "end": 61.055,
+          "score": 0.0
+        },
+        {
+          "word": "that",
+          "start": 61.075,
+          "end": 61.335,
+          "score": 0.974
+        },
+        {
+          "word": "goes",
+          "start": 61.355,
+          "end": 62.897,
+          "score": 0.246
+        },
+        {
+          "word": "to",
+          "start": 62.917,
+          "end": 62.957,
+          "score": 0.0
+        },
+        {
+          "word": "종로",
+          "start": 62.977,
+          "end": 63.017,
+          "score": 0.352
+        },
+        {
+          "word": "read",
+          "start": 63.038,
+          "end": 63.158,
+          "score": 0.388
+        },
+        {
+          "word": "is",
+          "start": 63.178,
+          "end": 63.218,
+          "score": 0.228
+        },
+        {
+          "word": "reading",
+          "start": 63.238,
+          "end": 63.378,
+          "score": 0.066
+        }
+      ]
     },
     {
-      "id": 9,
-      "seek": 0,
-      "start": 24.060000000000002,
-      "end": 25.76,
-      "text": " is going.",
-      "tokens": [
-        51567,
-        307,
-        516,
-        13,
-        51652
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.6167266433303421,
-      "compression_ratio": 1.3884615384615384,
-      "no_speech_prob": 0.036936379969120026
+      "start": 63.746,
+      "end": 87.501,
+      "text": " read, read, read, read, read, read, that reads, that reads, that reads, that reads, that read a book, that is reading a book.",
+      "words": [
+        {
+          "word": "read,",
+          "start": 63.746,
+          "end": 64.046,
+          "score": 0.793
+        },
+        {
+          "word": "read,",
+          "start": 65.489,
+          "end": 66.931,
+          "score": 0.814
+        },
+        {
+          "word": "read,",
+          "start": 68.052,
+          "end": 69.374,
+          "score": 0.897
+        },
+        {
+          "word": "read,",
+          "start": 69.394,
+          "end": 76.184,
+          "score": 0.788
+        },
+        {
+          "word": "read,",
+          "start": 76.204,
+          "end": 76.304,
+          "score": 0.759
+        },
+        {
+          "word": "read,",
+          "start": 76.324,
+          "end": 78.848,
+          "score": 0.539
+        },
+        {
+          "word": "that",
+          "start": 78.868,
+          "end": 79.389,
+          "score": 0.762
+        },
+        {
+          "word": "reads,",
+          "start": 79.409,
+          "end": 79.529,
+          "score": 0.354
+        },
+        {
+          "word": "that",
+          "start": 79.549,
+          "end": 81.492,
+          "score": 0.722
+        },
+        {
+          "word": "reads,",
+          "start": 81.512,
+          "end": 81.933,
+          "score": 0.867
+        },
+        {
+          "word": "that",
+          "start": 81.953,
+          "end": 82.153,
+          "score": 0.198
+        },
+        {
+          "word": "reads,",
+          "start": 82.173,
+          "end": 83.175,
+          "score": 0.839
+        },
+        {
+          "word": "that",
+          "start": 83.195,
+          "end": 83.735,
+          "score": 0.973
+        },
+        {
+          "word": "reads,",
+          "start": 83.755,
+          "end": 84.717,
+          "score": 0.79
+        },
+        {
+          "word": "that",
+          "start": 84.737,
+          "end": 85.278,
+          "score": 0.991
+        },
+        {
+          "word": "read",
+          "start": 85.638,
+          "end": 86.179,
+          "score": 0.899
+        },
+        {
+          "word": "a",
+          "start": 86.199,
+          "end": 86.219,
+          "score": 0.996
+        },
+        {
+          "word": "book,",
+          "start": 86.339,
+          "end": 86.96,
+          "score": 0.753
+        },
+        {
+          "word": "that",
+          "start": 86.98,
+          "end": 87.06,
+          "score": 0.0
+        },
+        {
+          "word": "is",
+          "start": 87.08,
+          "end": 87.12,
+          "score": 0.0
+        },
+        {
+          "word": "reading",
+          "start": 87.14,
+          "end": 87.281,
+          "score": 0.021
+        },
+        {
+          "word": "a",
+          "start": 87.301,
+          "end": 87.321,
+          "score": 0.0
+        },
+        {
+          "word": "book.",
+          "start": 87.341,
+          "end": 87.501,
+          "score": 0.15
+        }
+      ]
     },
     {
-      "id": 10,
-      "seek": 0,
-      "start": 25.76,
-      "end": 26.76,
-      "text": " make.",
-      "tokens": [
-        51652,
-        652,
-        13,
-        51702
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.6167266433303421,
-      "compression_ratio": 1.3884615384615384,
-      "no_speech_prob": 0.036936379969120026
+      "start": 87.521,
+      "end": 87.641,
+      "text": "시작!",
+      "words": [
+        {
+          "word": "시작!",
+          "start": 87.521,
+          "end": 87.641,
+          "score": 0.466
+        }
+      ]
     },
     {
-      "id": 11,
-      "seek": 0,
-      "start": 26.76,
-      "end": 29.76,
-      "text": " is a work.",
-      "tokens": [
-        51702,
-        307,
-        257,
-        589,
-        13,
-        51852
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.6167266433303421,
-      "compression_ratio": 1.3884615384615384,
-      "no_speech_prob": 0.036936379969120026
+      "start": 87.661,
+      "end": 87.962,
+      "text": "다섯 번 시작!",
+      "words": [
+        {
+          "word": "다섯",
+          "start": 87.661,
+          "end": 87.701,
+          "score": 0.5
+        },
+        {
+          "word": "번",
+          "start": 87.761,
+          "end": 87.781,
+          "score": 0.0
+        },
+        {
+          "word": "시작!",
+          "start": 87.801,
+          "end": 87.962,
+          "score": 0.597
+        }
+      ]
     },
     {
-      "id": 12,
-      "seek": 2976,
-      "start": 30.400000000000002,
-      "end": 31.900000000000002,
-      "text": " work.",
-      "tokens": [
-        50396,
-        589,
-        13,
-        50471
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 87.982,
+      "end": 91.026,
+      "text": "that is reading a book, that is reading a book, that is reading a book, that is reading a book, that is reading a book, that is going.",
+      "words": [
+        {
+          "word": "that",
+          "start": 87.982,
+          "end": 88.062,
+          "score": 0.108
+        },
+        {
+          "word": "is",
+          "start": 88.082,
+          "end": 88.122,
+          "score": 0.002
+        },
+        {
+          "word": "reading",
+          "start": 88.142,
+          "end": 88.282,
+          "score": 0.269
+        },
+        {
+          "word": "a",
+          "start": 88.302,
+          "end": 88.322,
+          "score": 0.0
+        },
+        {
+          "word": "book,",
+          "start": 88.342,
+          "end": 88.442,
+          "score": 0.0
+        },
+        {
+          "word": "that",
+          "start": 88.462,
+          "end": 88.542,
+          "score": 0.0
+        },
+        {
+          "word": "is",
+          "start": 88.562,
+          "end": 88.602,
+          "score": 0.0
+        },
+        {
+          "word": "reading",
+          "start": 88.623,
+          "end": 89.123,
+          "score": 0.274
+        },
+        {
+          "word": "a",
+          "start": 89.143,
+          "end": 89.163,
+          "score": 0.859
+        },
+        {
+          "word": "book,",
+          "start": 89.183,
+          "end": 89.283,
+          "score": 0.29
+        },
+        {
+          "word": "that",
+          "start": 89.304,
+          "end": 89.384,
+          "score": 0.0
+        },
+        {
+          "word": "is",
+          "start": 89.404,
+          "end": 89.444,
+          "score": 0.0
+        },
+        {
+          "word": "reading",
+          "start": 89.464,
+          "end": 89.604,
+          "score": 0.29
+        },
+        {
+          "word": "a",
+          "start": 89.624,
+          "end": 89.644,
+          "score": 0.0
+        },
+        {
+          "word": "book,",
+          "start": 89.664,
+          "end": 89.764,
+          "score": 0.156
+        },
+        {
+          "word": "that",
+          "start": 89.784,
+          "end": 89.864,
+          "score": 0.0
+        },
+        {
+          "word": "is",
+          "start": 89.884,
+          "end": 89.924,
+          "score": 0.0
+        },
+        {
+          "word": "reading",
+          "start": 89.944,
+          "end": 90.085,
+          "score": 0.0
+        },
+        {
+          "word": "a",
+          "start": 90.105,
+          "end": 90.125,
+          "score": 0.001
+        },
+        {
+          "word": "book,",
+          "start": 90.145,
+          "end": 90.245,
+          "score": 0.013
+        },
+        {
+          "word": "that",
+          "start": 90.265,
+          "end": 90.345,
+          "score": 0.0
+        },
+        {
+          "word": "is",
+          "start": 90.365,
+          "end": 90.405,
+          "score": 0.379
+        },
+        {
+          "word": "reading",
+          "start": 90.425,
+          "end": 90.565,
+          "score": 0.298
+        },
+        {
+          "word": "a",
+          "start": 90.585,
+          "end": 90.605,
+          "score": 0.012
+        },
+        {
+          "word": "book,",
+          "start": 90.625,
+          "end": 90.726,
+          "score": 0.547
+        },
+        {
+          "word": "that",
+          "start": 90.746,
+          "end": 90.826,
+          "score": 0.204
+        },
+        {
+          "word": "is",
+          "start": 90.846,
+          "end": 90.886,
+          "score": 0.093
+        },
+        {
+          "word": "going.",
+          "start": 90.906,
+          "end": 91.026,
+          "score": 0.189
+        }
+      ]
     },
     {
-      "id": 13,
-      "seek": 2976,
-      "start": 31.900000000000002,
-      "end": 33.56,
-      "text": " bye.",
-      "tokens": [
-        50471,
-        6543,
-        13,
-        50554
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 91.138,
+      "end": 102.889,
+      "text": " The bus that is going to Gangnam Station is number 69.",
+      "words": [
+        {
+          "word": "The",
+          "start": 91.138,
+          "end": 92.039,
+          "score": 0.862
+        },
+        {
+          "word": "bus",
+          "start": 92.059,
+          "end": 94.361,
+          "score": 0.752
+        },
+        {
+          "word": "that",
+          "start": 94.381,
+          "end": 94.501,
+          "score": 0.396
+        },
+        {
+          "word": "is",
+          "start": 94.521,
+          "end": 94.661,
+          "score": 0.933
+        },
+        {
+          "word": "going",
+          "start": 94.681,
+          "end": 96.723,
+          "score": 0.777
+        },
+        {
+          "word": "to",
+          "start": 96.743,
+          "end": 97.024,
+          "score": 0.93
+        },
+        {
+          "word": "Gangnam",
+          "start": 97.044,
+          "end": 99.226,
+          "score": 0.964
+        },
+        {
+          "word": "Station",
+          "start": 99.246,
+          "end": 99.946,
+          "score": 0.866
+        },
+        {
+          "word": "is",
+          "start": 99.966,
+          "end": 100.106,
+          "score": 0.99
+        },
+        {
+          "word": "number",
+          "start": 100.307,
+          "end": 102.529,
+          "score": 0.64
+        },
+        {
+          "word": "69.",
+          "start": 102.549,
+          "end": 102.889,
+          "score": 0.558
+        }
+      ]
     },
     {
-      "id": 14,
-      "seek": 2976,
-      "start": 33.56,
-      "end": 34.84,
-      "text": " bye.",
-      "tokens": [
-        50554,
-        6543,
-        13,
-        50618
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 102.909,
+      "end": 103.109,
+      "text": "다시 시작.",
+      "words": [
+        {
+          "word": "다시",
+          "start": 102.909,
+          "end": 102.949,
+          "score": 0.013
+        },
+        {
+          "word": "시작.",
+          "start": 102.969,
+          "end": 103.109,
+          "score": 0.466
+        }
+      ]
     },
     {
-      "id": 15,
-      "seek": 2976,
-      "start": 34.84,
-      "end": 36.36,
-      "text": " think.",
-      "tokens": [
-        50618,
-        519,
-        13,
-        50694
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 103.149,
+      "end": 114.52,
+      "text": "The bus that is going to Gangnam Station is number 69.",
+      "words": [
+        {
+          "word": "The",
+          "start": 103.149,
+          "end": 103.71,
+          "score": 0.963
+        },
+        {
+          "word": "bus",
+          "start": 103.73,
+          "end": 105.531,
+          "score": 0.468
+        },
+        {
+          "word": "that",
+          "start": 105.551,
+          "end": 106.132,
+          "score": 0.726
+        },
+        {
+          "word": "is",
+          "start": 106.152,
+          "end": 106.272,
+          "score": 0.964
+        },
+        {
+          "word": "going",
+          "start": 106.312,
+          "end": 106.773,
+          "score": 0.964
+        },
+        {
+          "word": "to",
+          "start": 106.933,
+          "end": 107.213,
+          "score": 0.976
+        },
+        {
+          "word": "Gangnam",
+          "start": 107.273,
+          "end": 107.693,
+          "score": 0.906
+        },
+        {
+          "word": "Station",
+          "start": 111.998,
+          "end": 112.618,
+          "score": 0.968
+        },
+        {
+          "word": "is",
+          "start": 112.638,
+          "end": 113.219,
+          "score": 0.906
+        },
+        {
+          "word": "number",
+          "start": 113.239,
+          "end": 114.24,
+          "score": 0.475
+        },
+        {
+          "word": "69.",
+          "start": 114.26,
+          "end": 114.52,
+          "score": 0.48
+        }
+      ]
     },
     {
-      "id": 16,
-      "seek": 2976,
-      "start": 36.36,
-      "end": 38.160000000000004,
-      "text": " think.",
-      "tokens": [
-        50694,
-        519,
-        13,
-        50784
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 114.54,
+      "end": 114.62,
+      "text": "그렇죠.",
+      "words": [
+        {
+          "word": "그렇죠.",
+          "start": 114.54,
+          "end": 114.62,
+          "score": 0.5
+        }
+      ]
     },
     {
-      "id": 17,
-      "seek": 2976,
-      "start": 38.160000000000004,
-      "end": 39.760000000000005,
-      "text": " see.",
-      "tokens": [
-        50784,
-        536,
-        13,
-        50864
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 114.74,
+      "end": 117.803,
+      "text": "The person that is 와.",
+      "words": [
+        {
+          "word": "The",
+          "start": 114.74,
+          "end": 115.2,
+          "score": 0.997
+        },
+        {
+          "word": "person",
+          "start": 115.221,
+          "end": 116.201,
+          "score": 0.895
+        },
+        {
+          "word": "that",
+          "start": 116.221,
+          "end": 116.362,
+          "score": 0.833
+        },
+        {
+          "word": "is",
+          "start": 116.382,
+          "end": 117.743,
+          "score": 0.954
+        },
+        {
+          "word": "와.",
+          "start": 117.763,
+          "end": 117.803,
+          "score": 0.921
+        }
+      ]
     },
     {
-      "id": 18,
-      "seek": 2976,
-      "start": 39.760000000000005,
-      "end": 41.6,
-      "text": " watch.",
-      "tokens": [
-        50864,
-        1159,
-        13,
-        50956
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 117.823,
+      "end": 121.106,
+      "text": "The people that 아예.",
+      "words": [
+        {
+          "word": "The",
+          "start": 117.823,
+          "end": 118.143,
+          "score": 0.85
+        },
+        {
+          "word": "people",
+          "start": 118.263,
+          "end": 120.846,
+          "score": 0.913
+        },
+        {
+          "word": "that",
+          "start": 120.866,
+          "end": 121.026,
+          "score": 0.328
+        },
+        {
+          "word": "아예.",
+          "start": 121.046,
+          "end": 121.106,
+          "score": 0.06
+        }
+      ]
     },
     {
-      "id": 19,
-      "seek": 2976,
-      "start": 41.6,
-      "end": 43.0,
-      "text": " speak.",
-      "tokens": [
-        50956,
-        1710,
-        13,
-        51026
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 121.634,
+      "end": 125.718,
+      "text": " 이 시간이 끝나기 전에 완전하게 익히고 가도록 하겠습니다.",
+      "words": [
+        {
+          "word": "이",
+          "start": 121.634,
+          "end": 121.774,
+          "score": 0.3
+        },
+        {
+          "word": "시간이",
+          "start": 121.814,
+          "end": 122.054,
+          "score": 0.95
+        },
+        {
+          "word": "끝나기",
+          "start": 122.134,
+          "end": 122.495,
+          "score": 0.958
+        },
+        {
+          "word": "전에",
+          "start": 122.555,
+          "end": 122.835,
+          "score": 0.946
+        },
+        {
+          "word": "완전하게",
+          "start": 123.216,
+          "end": 123.676,
+          "score": 0.882
+        },
+        {
+          "word": "익히고",
+          "start": 123.856,
+          "end": 124.176,
+          "score": 0.628
+        },
+        {
+          "word": "가도록",
+          "start": 124.236,
+          "end": 124.377,
+          "score": 0.649
+        },
+        {
+          "word": "하겠습니다.",
+          "start": 124.437,
+          "end": 125.718,
+          "score": 0.308
+        }
+      ]
     },
     {
-      "id": 20,
-      "seek": 2976,
-      "start": 43.0,
-      "end": 44.760000000000005,
-      "text": " speak.",
-      "tokens": [
-        51026,
-        1710,
-        13,
-        51114
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 125.738,
+      "end": 129.562,
+      "text": "타는 사람.",
+      "words": [
+        {
+          "word": "타는",
+          "start": 125.738,
+          "end": 125.838,
+          "score": 1.0
+        },
+        {
+          "word": "사람.",
+          "start": 125.998,
+          "end": 129.562,
+          "score": 0.988
+        }
+      ]
     },
     {
-      "id": 21,
-      "seek": 2976,
-      "start": 44.760000000000005,
-      "end": 46.36,
-      "text": " come.",
-      "tokens": [
-        51114,
-        808,
-        13,
-        51194
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 129.582,
+      "end": 134.046,
+      "text": "자, 일하는 사람.",
+      "words": [
+        {
+          "word": "자,",
+          "start": 129.582,
+          "end": 129.722,
+          "score": 0.966
+        },
+        {
+          "word": "일하는",
+          "start": 129.882,
+          "end": 130.182,
+          "score": 0.988
+        },
+        {
+          "word": "사람.",
+          "start": 130.282,
+          "end": 134.046,
+          "score": 0.978
+        }
+      ]
     },
     {
-      "id": 22,
-      "seek": 2976,
-      "start": 46.36,
-      "end": 47.8,
-      "text": " come.",
-      "tokens": [
-        51194,
-        808,
-        13,
-        51266
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 134.066,
+      "end": 136.308,
+      "text": "책을 읽는 사람.",
+      "words": [
+        {
+          "word": "책을",
+          "start": 134.066,
+          "end": 134.186,
+          "score": 0.462
+        },
+        {
+          "word": "읽는",
+          "start": 134.286,
+          "end": 134.346,
+          "score": 0.993
+        },
+        {
+          "word": "사람.",
+          "start": 134.446,
+          "end": 136.308,
+          "score": 0.981
+        }
+      ]
     },
     {
-      "id": 23,
-      "seek": 2976,
-      "start": 47.8,
-      "end": 49.760000000000005,
-      "text": " that goes.",
-      "tokens": [
-        51266,
-        300,
-        1709,
-        13,
-        51364
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 137.829,
+      "end": 139.551,
+      "text": "그렇게 하면 되겠죠.",
+      "words": [
+        {
+          "word": "그렇게",
+          "start": 137.829,
+          "end": 137.89,
+          "score": 0.329
+        },
+        {
+          "word": "하면",
+          "start": 139.411,
+          "end": 139.451,
+          "score": 0.0
+        },
+        {
+          "word": "되겠죠.",
+          "start": 139.471,
+          "end": 139.551,
+          "score": 0.0
+        }
+      ]
     },
     {
-      "id": 24,
-      "seek": 2976,
-      "start": 49.760000000000005,
-      "end": 51.52,
-      "text": " that goes.",
-      "tokens": [
-        51364,
-        300,
-        1709,
-        13,
-        51452
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 139.571,
+      "end": 146.318,
+      "text": "버스를 타는 사람.",
+      "words": [
+        {
+          "word": "버스를",
+          "start": 139.571,
+          "end": 139.731,
+          "score": 0.985
+        },
+        {
+          "word": "타는",
+          "start": 139.811,
+          "end": 140.012,
+          "score": 1.0
+        },
+        {
+          "word": "사람.",
+          "start": 140.112,
+          "end": 146.318,
+          "score": 0.614
+        }
+      ]
     },
     {
-      "id": 25,
-      "seek": 2976,
-      "start": 51.52,
-      "end": 53.36,
-      "text": " that goes.",
-      "tokens": [
-        51452,
-        300,
-        1709,
-        13,
-        51544
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 146.338,
+      "end": 150.862,
+      "text": "커피를 마시는 사람.",
+      "words": [
+        {
+          "word": "커피를",
+          "start": 146.338,
+          "end": 146.658,
+          "score": 0.9
+        },
+        {
+          "word": "마시는",
+          "start": 146.758,
+          "end": 147.058,
+          "score": 1.0
+        },
+        {
+          "word": "사람.",
+          "start": 147.158,
+          "end": 150.862,
+          "score": 0.966
+        }
+      ]
     },
     {
-      "id": 26,
-      "seek": 2976,
-      "start": 53.36,
-      "end": 57.56,
-      "text": " that goes to 정로.",
-      "tokens": [
-        51544,
-        300,
-        1709,
-        281,
-        4980,
-        12888,
-        13,
-        51754
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
+      "start": 150.882,
+      "end": 150.962,
+      "text": "다시요.",
+      "words": [
+        {
+          "word": "다시요.",
+          "start": 150.882,
+          "end": 150.962,
+          "score": 0.066
+        }
+      ]
     },
     {
-      "id": 27,
-      "seek": 2976,
-      "start": 57.56,
-      "end": 58.88,
-      "text": " that goes to 정로.",
-      "tokens": [
-        51754,
-        300,
-        1709,
-        281,
-        4980,
-        12888,
-        13,
-        51820
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.5764831443885704,
-      "compression_ratio": 2.0,
-      "no_speech_prob": 0.013712936080992222
-    },
-    {
-      "id": 28,
-      "seek": 5888,
-      "start": 59.080000000000005,
-      "end": 61.160000000000004,
-      "text": " that roots.",
-      "tokens": [
-        50374,
-        300,
-        10669,
-        13,
-        50478
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 29,
-      "seek": 5888,
-      "start": 61.160000000000004,
-      "end": 63.88,
-      "text": " tree is reading.",
-      "tokens": [
-        50478,
-        4230,
-        307,
-        3760,
-        13,
-        50614
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 30,
-      "seek": 5888,
-      "start": 63.88,
-      "end": 64.88,
-      "text": " is reading.",
-      "tokens": [
-        50614,
-        307,
-        3760,
-        13,
-        50664
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 31,
-      "seek": 5888,
-      "start": 64.88,
-      "end": 67.08,
-      "text": " it's reading.",
-      "tokens": [
-        50664,
-        309,
-        311,
-        3760,
-        13,
-        50774
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 32,
-      "seek": 5888,
-      "start": 67.08,
-      "end": 68.92,
-      "text": " read is reading.",
-      "tokens": [
-        50774,
-        1401,
-        307,
-        3760,
-        13,
-        50866
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 33,
-      "seek": 5888,
-      "start": 68.92,
-      "end": 72.02000000000001,
-      "text": " that reads.",
-      "tokens": [
-        50866,
-        300,
-        15700,
-        13,
-        51021
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 34,
-      "seek": 5888,
-      "start": 72.02000000000001,
-      "end": 73.44,
-      "text": " that reads.",
-      "tokens": [
-        51021,
-        300,
-        15700,
-        13,
-        51092
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 35,
-      "seek": 5888,
-      "start": 73.44,
-      "end": 75.64,
-      "text": " that reads.",
-      "tokens": [
-        51092,
-        300,
-        15700,
-        13,
-        51202
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 36,
-      "seek": 5888,
-      "start": 75.64,
-      "end": 76.64,
-      "text": " that reads a book.",
-      "tokens": [
-        51202,
-        300,
-        15700,
-        257,
-        1446,
-        13,
-        51252
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 37,
-      "seek": 5888,
-      "start": 76.64,
-      "end": 79.12,
-      "text": " that books.",
-      "tokens": [
-        51252,
-        300,
-        3642,
-        13,
-        51376
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 38,
-      "seek": 5888,
-      "start": 79.12,
-      "end": 81.32000000000001,
-      "text": " that reading a book.",
-      "tokens": [
-        51376,
-        300,
-        3760,
-        257,
-        1446,
-        13,
-        51486
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 39,
-      "seek": 5888,
-      "start": 81.32000000000001,
-      "end": 82.34,
-      "text": " that is reading a book.",
-      "tokens": [
-        51486,
-        300,
-        307,
-        3760,
-        257,
-        1446,
-        13,
-        51537
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 40,
-      "seek": 5888,
-      "start": 82.34,
-      "end": 84.54,
-      "text": " that is reading a book.",
-      "tokens": [
-        51537,
-        300,
-        307,
-        3760,
-        257,
-        1446,
-        13,
-        51647
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 41,
-      "seek": 5888,
-      "start": 84.54,
-      "end": 88.32000000000001,
-      "text": " that is reading a book.",
-      "tokens": [
-        51647,
-        300,
-        307,
-        3760,
-        257,
-        1446,
-        13,
-        51836
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -1.391698490489613,
-      "compression_ratio": 3.1216216216216215,
-      "no_speech_prob": 0.006358906626701355
-    },
-    {
-      "id": 42,
-      "seek": 8832,
-      "start": 88.32,
-      "end": 91.24,
-      "text": " 엄청 재미있음",
-      "tokens": [
-        50364,
-        18070,
-        37723,
-        8425,
-        5654,
-        50510
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -4.336856641267476,
-      "compression_ratio": 0.8448275862068966,
-      "no_speech_prob": 0.458120197057724
-    },
-    {
-      "id": 43,
-      "seek": 8832,
-      "start": 91.24,
-      "end": 110.53999999999999,
-      "text": "'s",
-      "tokens": [
-        50510,
-        311,
-        51475
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -4.336856641267476,
-      "compression_ratio": 0.8448275862068966,
-      "no_speech_prob": 0.458120197057724
-    },
-    {
-      "id": 44,
-      "seek": 8832,
-      "start": 111.83999999999999,
-      "end": 113.75999999999999,
-      "text": " 다시 시작",
-      "tokens": [
-        51540,
-        15463,
-        14525,
-        51636
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -4.336856641267476,
-      "compression_ratio": 0.8448275862068966,
-      "no_speech_prob": 0.458120197057724
-    },
-    {
-      "id": 45,
-      "seek": 8832,
-      "start": 113.75999999999999,
-      "end": 116.63999999999999,
-      "text": " will speaking",
-      "tokens": [
-        51636,
-        486,
-        4124,
-        51780
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -4.336856641267476,
-      "compression_ratio": 0.8448275862068966,
-      "no_speech_prob": 0.458120197057724
-    },
-    {
-      "id": 46,
-      "seek": 11664,
-      "start": 116.64,
-      "end": 117.64,
-      "text": " 그렇죠.",
-      "tokens": [
-        50364,
-        34410,
-        13,
-        50414
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
-    },
-    {
-      "id": 47,
-      "seek": 11664,
-      "start": 117.64,
-      "end": 119.18,
-      "text": " The person that is 와.",
-      "tokens": [
-        50414,
-        440,
-        954,
-        300,
-        307,
-        12500,
-        13,
-        50491
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
-    },
-    {
-      "id": 48,
-      "seek": 11664,
-      "start": 119.18,
-      "end": 121.52,
-      "text": " The people that are.",
-      "tokens": [
-        50491,
-        440,
-        561,
-        300,
-        366,
-        13,
-        50608
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
-    },
-    {
-      "id": 49,
-      "seek": 11664,
-      "start": 121.52,
-      "end": 123.14,
-      "text": " 이 시간이 끝나기 전에",
-      "tokens": [
-        50608,
-        2620,
-        39330,
-        48626,
-        2401,
-        27117,
-        50689
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
-    },
-    {
-      "id": 50,
-      "seek": 11664,
-      "start": 123.14,
-      "end": 125.42,
-      "text": " 완전하게 익히고 가도록 하겠습니다.",
-      "tokens": [
-        50689,
-        25587,
-        8601,
-        45664,
-        5905,
-        1313,
-        10583,
-        19305,
-        23473,
-        13,
-        50803
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
-    },
-    {
-      "id": 51,
-      "seek": 11664,
-      "start": 125.42,
-      "end": 126.92,
-      "text": " 타는 사람.",
-      "tokens": [
-        50803,
-        19840,
-        1098,
-        12211,
-        13,
-        50878
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
-    },
-    {
-      "id": 52,
-      "seek": 11664,
-      "start": 126.92,
-      "end": 129.46,
-      "text": " The person that is standing.",
-      "tokens": [
-        50878,
-        440,
-        954,
-        300,
-        307,
-        4877,
-        13,
-        51005
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
-    },
-    {
-      "id": 53,
-      "seek": 11664,
-      "start": 129.46,
-      "end": 131.02,
+      "start": 151.234,
+      "end": 159.784,
       "text": " 자, 일하는 사람.",
-      "tokens": [
-        51005,
-        5650,
-        11,
-        7682,
-        7116,
-        12211,
-        13,
-        51083
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
+      "words": [
+        {
+          "word": "자,",
+          "start": 151.234,
+          "end": 151.815,
+          "score": 0.83
+        },
+        {
+          "word": "일하는",
+          "start": 154.318,
+          "end": 154.618,
+          "score": 0.987
+        },
+        {
+          "word": "사람.",
+          "start": 154.698,
+          "end": 159.784,
+          "score": 0.665
+        }
+      ]
     },
     {
-      "id": 54,
-      "seek": 11664,
-      "start": 131.02,
-      "end": 133.82,
-      "text": " The person that is roughly.",
-      "tokens": [
-        51083,
-        440,
-        954,
-        300,
-        307,
-        9810,
-        13,
-        51223
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
+      "start": 159.804,
+      "end": 164.21,
+      "text": "여기서 일하는 사람.",
+      "words": [
+        {
+          "word": "여기서",
+          "start": 159.804,
+          "end": 160.065,
+          "score": 0.961
+        },
+        {
+          "word": "일하는",
+          "start": 160.105,
+          "end": 160.365,
+          "score": 0.998
+        },
+        {
+          "word": "사람.",
+          "start": 160.445,
+          "end": 164.21,
+          "score": 0.664
+        }
+      ]
     },
     {
-      "id": 55,
-      "seek": 11664,
-      "start": 133.82,
-      "end": 135.62,
-      "text": " 책을 읽는 사람.",
-      "tokens": [
-        51223,
-        33623,
-        1638,
-        43302,
-        1098,
-        12211,
-        13,
-        51313
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
+      "start": 164.23,
+      "end": 169.056,
+      "text": "여기서 먹는 사람.",
+      "words": [
+        {
+          "word": "여기서",
+          "start": 164.23,
+          "end": 164.71,
+          "score": 0.955
+        },
+        {
+          "word": "먹는",
+          "start": 164.851,
+          "end": 165.131,
+          "score": 0.998
+        },
+        {
+          "word": "사람.",
+          "start": 165.231,
+          "end": 169.056,
+          "score": 0.95
+        }
+      ]
     },
     {
-      "id": 56,
-      "seek": 11664,
-      "start": 135.62,
-      "end": 138.5,
-      "text": " The person that is reading a book.",
-      "tokens": [
-        51313,
-        440,
-        954,
-        300,
-        307,
-        3760,
-        257,
-        1446,
-        13,
-        51457
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
+      "start": 173.401,
+      "end": 175.804,
+      "text": "청바지를 입는 사람들.",
+      "words": [
+        {
+          "word": "청바지를",
+          "start": 173.401,
+          "end": 173.802,
+          "score": 0.943
+        },
+        {
+          "word": "입는",
+          "start": 173.842,
+          "end": 174.002,
+          "score": 0.986
+        },
+        {
+          "word": "사람들.",
+          "start": 174.022,
+          "end": 175.804,
+          "score": 0.634
+        }
+      ]
     },
     {
-      "id": 57,
-      "seek": 11664,
-      "start": 138.5,
-      "end": 139.22,
-      "text": " 그렇게 하면 되겠죠.",
-      "tokens": [
-        51457,
-        16104,
-        17422,
-        5514,
-        29935,
-        13,
-        51493
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
+      "start": 176.365,
+      "end": 180.69,
+      "text": "그쵸, wearing jeans.",
+      "words": [
+        {
+          "word": "그쵸,",
+          "start": 176.365,
+          "end": 176.665,
+          "score": 0.817
+        },
+        {
+          "word": "wearing",
+          "start": 178.868,
+          "end": 179.228,
+          "score": 0.81
+        },
+        {
+          "word": "jeans.",
+          "start": 179.248,
+          "end": 180.69,
+          "score": 0.916
+        }
+      ]
     },
     {
-      "id": 58,
-      "seek": 11664,
-      "start": 139.22,
-      "end": 140.74,
-      "text": " 버스를 타는 사람.",
-      "tokens": [
-        51493,
-        22076,
-        35967,
-        19840,
-        1098,
-        12211,
-        13,
-        51569
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
-    },
-    {
-      "id": 59,
-      "seek": 11664,
-      "start": 140.74,
-      "end": 146.22,
-      "text": " The person that is standing your boss.",
-      "tokens": [
-        51569,
-        440,
-        954,
-        300,
-        307,
-        4877,
-        428,
-        5741,
-        13,
-        51843
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4657051222664969,
-      "compression_ratio": 1.6170212765957446,
-      "no_speech_prob": 0.2715562880039215
-    },
-    {
-      "id": 60,
-      "seek": 14622,
-      "start": 146.22,
-      "end": 150.35999999999999,
-      "text": " 커피를 마시는 사람.",
-      "tokens": [
-        50364,
-        45326,
-        1870,
-        2429,
-        6437,
-        18147,
-        12211,
-        13,
-        50571
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 61,
-      "seek": 14622,
-      "start": 150.35999999999999,
-      "end": 151.2,
-      "text": " 다시요.",
-      "tokens": [
-        50571,
-        15463,
-        1495,
-        13,
-        50613
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 62,
-      "seek": 14622,
-      "start": 151.2,
-      "end": 153.9,
-      "text": " The person that is drinking coffee.",
-      "tokens": [
-        50613,
-        440,
-        954,
-        300,
-        307,
-        7583,
-        4982,
-        13,
-        50748
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 63,
-      "seek": 14622,
-      "start": 153.9,
-      "end": 155.5,
-      "text": " 자, 일하는 사람.",
-      "tokens": [
-        50748,
-        5650,
-        11,
-        7682,
-        7116,
-        12211,
-        13,
-        50828
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 64,
-      "seek": 14622,
-      "start": 155.5,
-      "end": 158.3,
-      "text": " The person that is roughly.",
-      "tokens": [
-        50828,
-        440,
-        954,
-        300,
-        307,
-        9810,
-        13,
-        50968
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 65,
-      "seek": 14622,
-      "start": 158.3,
-      "end": 159.74,
-      "text": " The person that is roughly.",
-      "tokens": [
-        50968,
-        440,
-        954,
-        300,
-        307,
-        9810,
-        13,
-        51040
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 66,
-      "seek": 14622,
-      "start": 159.74,
-      "end": 161.1,
-      "text": " 여기서 일하는 사람.",
-      "tokens": [
-        51040,
-        25404,
-        7682,
-        7116,
-        12211,
-        13,
-        51108
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 67,
-      "seek": 14622,
-      "start": 161.1,
-      "end": 164.1,
-      "text": " The person that is roughly.",
-      "tokens": [
-        51108,
-        440,
-        954,
-        300,
-        307,
-        9810,
-        13,
-        51258
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 68,
-      "seek": 14622,
-      "start": 164.1,
-      "end": 166.0,
-      "text": " 여기서 먹는 사람.",
-      "tokens": [
-        51258,
-        25404,
-        30616,
-        12211,
-        13,
-        51353
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 69,
-      "seek": 14622,
-      "start": 166.0,
-      "end": 168.64,
-      "text": " The person that is eating here.",
-      "tokens": [
-        51353,
-        440,
-        954,
-        300,
-        307,
-        3936,
-        510,
-        13,
-        51485
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 70,
-      "seek": 14622,
-      "start": 168.64,
-      "end": 169.9,
-      "text": " The person that is eating here.",
-      "tokens": [
-        51485,
-        440,
-        954,
-        300,
-        307,
-        3936,
-        510,
-        13,
-        51548
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 71,
-      "seek": 14622,
-      "start": 169.9,
-      "end": 170.74,
-      "text": " 시작.",
-      "tokens": [
-        51548,
-        14525,
-        13,
-        51590
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 72,
-      "seek": 14622,
-      "start": 170.74,
-      "end": 173.24,
-      "text": " The person that is eating here.",
-      "tokens": [
-        51590,
-        440,
-        954,
-        300,
-        307,
-        3936,
-        510,
-        13,
-        51715
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 73,
-      "seek": 14622,
-      "start": 173.24,
-      "end": 175.34,
-      "text": " 청과지를 있는 사람들.",
-      "tokens": [
-        51715,
-        24902,
-        7097,
-        29003,
-        7153,
-        39570,
-        13,
-        51820
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.35889543305843247,
-      "compression_ratio": 2.1705882352941175,
-      "no_speech_prob": 0.002167425351217389
-    },
-    {
-      "id": 74,
-      "seek": 17534,
-      "start": 175.34,
-      "end": 178.74,
-      "text": " The people that are.",
-      "tokens": [
-        50364,
-        440,
-        561,
-        300,
-        366,
-        13,
-        50534
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.4724652706048427,
-      "compression_ratio": 1.6783216783216783,
-      "no_speech_prob": 0.0007219906547106802
-    },
-    {
-      "id": 75,
-      "seek": 17534,
-      "start": 178.74,
-      "end": 179.28,
-      "text": " 그렇죠.",
-      "tokens": [
-        50534,
-        34410,
-        13,
-        50561
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.4724652706048427,
-      "compression_ratio": 1.6783216783216783,
-      "no_speech_prob": 0.0007219906547106802
-    },
-    {
-      "id": 76,
-      "seek": 17534,
-      "start": 179.28,
-      "end": 181.08,
-      "text": " Wearing jeans.",
-      "tokens": [
-        50561,
-        492,
-        1921,
-        18880,
-        13,
-        50651
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.4724652706048427,
-      "compression_ratio": 1.6783216783216783,
-      "no_speech_prob": 0.0007219906547106802
-    },
-    {
-      "id": 77,
-      "seek": 17534,
-      "start": 181.08,
-      "end": 185.46,
+      "start": 181.154,
+      "end": 185.699,
       "text": " 자켓을 입는 사람들.",
-      "tokens": [
-        50651,
-        5650,
-        12397,
-        241,
-        1638,
-        10051,
-        1098,
-        39570,
-        13,
-        50870
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.4724652706048427,
-      "compression_ratio": 1.6783216783216783,
-      "no_speech_prob": 0.0007219906547106802
+      "words": [
+        {
+          "word": "자켓을",
+          "start": 181.154,
+          "end": 181.574,
+          "score": 0.612
+        },
+        {
+          "word": "입는",
+          "start": 181.594,
+          "end": 181.775,
+          "score": 0.968
+        },
+        {
+          "word": "사람들.",
+          "start": 181.855,
+          "end": 185.699,
+          "score": 0.248
+        }
+      ]
     },
     {
-      "id": 78,
-      "seek": 17534,
-      "start": 185.46,
-      "end": 186.48000000000002,
-      "text": " 그렇죠.",
-      "tokens": [
-        50870,
-        34410,
-        13,
-        50921
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.4724652706048427,
-      "compression_ratio": 1.6783216783216783,
-      "no_speech_prob": 0.0007219906547106802
+      "start": 185.719,
+      "end": 186.059,
+      "text": "그렇죠.",
+      "words": [
+        {
+          "word": "그렇죠.",
+          "start": 185.719,
+          "end": 186.059,
+          "score": 0.616
+        }
+      ]
     },
     {
-      "id": 79,
-      "seek": 17534,
-      "start": 186.48000000000002,
-      "end": 191.18,
-      "text": " 스쿼트를 입는 사람들.",
-      "tokens": [
-        50921,
-        25858,
-        34680,
-        120,
-        35078,
-        10051,
-        1098,
-        39570,
-        13,
-        51156
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.4724652706048427,
-      "compression_ratio": 1.6783216783216783,
-      "no_speech_prob": 0.0007219906547106802
+      "start": 186.9,
+      "end": 191.305,
+      "text": "스커트를 입는 사람들.",
+      "words": [
+        {
+          "word": "스커트를",
+          "start": 186.9,
+          "end": 187.101,
+          "score": 0.631
+        },
+        {
+          "word": "입는",
+          "start": 187.181,
+          "end": 187.441,
+          "score": 0.999
+        },
+        {
+          "word": "사람들.",
+          "start": 187.601,
+          "end": 191.305,
+          "score": 0.972
+        }
+      ]
     },
     {
-      "id": 80,
-      "seek": 17534,
-      "start": 191.18,
-      "end": 191.84,
-      "text": " 그렇죠.",
-      "tokens": [
-        51156,
-        34410,
-        13,
-        51189
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.4724652706048427,
-      "compression_ratio": 1.6783216783216783,
-      "no_speech_prob": 0.0007219906547106802
+      "start": 191.325,
+      "end": 191.666,
+      "text": "그렇죠.",
+      "words": [
+        {
+          "word": "그렇죠.",
+          "start": 191.325,
+          "end": 191.666,
+          "score": 0.714
+        }
+      ]
     },
     {
-      "id": 81,
-      "seek": 17534,
-      "start": 191.84,
-      "end": 195.04,
-      "text": " 공부하는 사람들.",
-      "tokens": [
-        51189,
-        9273,
-        17317,
-        7116,
-        39570,
-        13,
-        51349
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.4724652706048427,
-      "compression_ratio": 1.6783216783216783,
-      "no_speech_prob": 0.0007219906547106802
+      "start": 191.886,
+      "end": 192.767,
+      "text": "공부하는 사람들.",
+      "words": [
+        {
+          "word": "공부하는",
+          "start": 191.886,
+          "end": 192.306,
+          "score": 0.948
+        },
+        {
+          "word": "사람들.",
+          "start": 192.387,
+          "end": 192.767,
+          "score": 0.937
+        }
+      ]
     },
     {
-      "id": 82,
-      "seek": 17534,
-      "start": 195.04,
-      "end": 197.88,
-      "text": " 공부하는 사람들.",
-      "tokens": [
-        51349,
-        9273,
-        17317,
-        7116,
-        39570,
-        13,
-        51491
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.4724652706048427,
-      "compression_ratio": 1.6783216783216783,
-      "no_speech_prob": 0.0007219906547106802
+      "start": 195.19,
+      "end": 197.993,
+      "text": "공부하는 사람들.",
+      "words": [
+        {
+          "word": "공부하는",
+          "start": 195.19,
+          "end": 195.55,
+          "score": 1.0
+        },
+        {
+          "word": "사람들.",
+          "start": 195.61,
+          "end": 197.993,
+          "score": 0.98
+        }
+      ]
     },
     {
-      "id": 83,
-      "seek": 17534,
-      "start": 197.88,
-      "end": 201.2,
-      "text": " 여기서 공부하는 사람들.",
-      "tokens": [
-        51491,
-        25404,
-        9273,
-        17317,
-        7116,
-        39570,
-        13,
-        51657
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.4724652706048427,
-      "compression_ratio": 1.6783216783216783,
-      "no_speech_prob": 0.0007219906547106802
+      "start": 198.013,
+      "end": 199.054,
+      "text": "여기서 공부하는 사람들.",
+      "words": [
+        {
+          "word": "여기서",
+          "start": 198.013,
+          "end": 198.233,
+          "score": 0.547
+        },
+        {
+          "word": "공부하는",
+          "start": 198.253,
+          "end": 198.574,
+          "score": 0.895
+        },
+        {
+          "word": "사람들.",
+          "start": 198.634,
+          "end": 199.054,
+          "score": 0.932
+        }
+      ]
     },
     {
-      "id": 84,
-      "seek": 17534,
-      "start": 201.2,
-      "end": 204.94,
-      "text": " 커피를 마시는 사람들.",
-      "tokens": [
-        51657,
-        45326,
-        1870,
-        2429,
-        6437,
-        18147,
-        39570,
-        13,
-        51844
-      ],
-      "temperature": 0.4,
-      "avg_logprob": -0.4724652706048427,
-      "compression_ratio": 1.6783216783216783,
-      "no_speech_prob": 0.0007219906547106802
+      "start": 201.337,
+      "end": 202.318,
+      "text": "커피를 마시는 사람들.",
+      "words": [
+        {
+          "word": "커피를",
+          "start": 201.337,
+          "end": 201.537,
+          "score": 0.801
+        },
+        {
+          "word": "마시는",
+          "start": 201.617,
+          "end": 201.877,
+          "score": 0.817
+        },
+        {
+          "word": "사람들.",
+          "start": 201.957,
+          "end": 202.318,
+          "score": 0.913
+        }
+      ]
     },
     {
-      "id": 85,
-      "seek": 20494,
-      "start": 204.94,
-      "end": 209.07999999999998,
-      "text": " 여기서 커피를 마시는 사람들.",
-      "tokens": [
-        50364,
-        25404,
-        45326,
-        1870,
-        2429,
-        6437,
-        18147,
-        39570,
-        13,
-        50571
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.32847860881260466,
-      "compression_ratio": 1.7934272300469483,
-      "no_speech_prob": 0.0010245010489597917
+      "start": 205.061,
+      "end": 209.446,
+      "text": "여기서 커피를 마시는 사람들.",
+      "words": [
+        {
+          "word": "여기서",
+          "start": 205.061,
+          "end": 205.441,
+          "score": 0.997
+        },
+        {
+          "word": "커피를",
+          "start": 205.561,
+          "end": 205.822,
+          "score": 0.953
+        },
+        {
+          "word": "마시는",
+          "start": 205.882,
+          "end": 206.162,
+          "score": 0.948
+        },
+        {
+          "word": "사람들.",
+          "start": 206.222,
+          "end": 209.446,
+          "score": 0.987
+        }
+      ]
     },
     {
-      "id": 86,
-      "seek": 20494,
-      "start": 209.07999999999998,
-      "end": 209.92,
-      "text": " 다시요.",
-      "tokens": [
-        50571,
-        15463,
-        1495,
-        13,
-        50613
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.32847860881260466,
-      "compression_ratio": 1.7934272300469483,
-      "no_speech_prob": 0.0010245010489597917
+      "start": 209.666,
+      "end": 209.746,
+      "text": "다시요.",
+      "words": [
+        {
+          "word": "다시요.",
+          "start": 209.666,
+          "end": 209.746,
+          "score": 0.223
+        }
+      ]
     },
     {
-      "id": 87,
-      "seek": 20494,
-      "start": 209.92,
-      "end": 212.92,
+      "start": 209.954,
+      "end": 217.823,
       "text": " The people that are drinking coffee here.",
-      "tokens": [
-        50613,
-        440,
-        561,
-        300,
-        366,
-        7583,
-        4982,
-        510,
-        13,
-        50763
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.32847860881260466,
-      "compression_ratio": 1.7934272300469483,
-      "no_speech_prob": 0.0010245010489597917
+      "words": [
+        {
+          "word": "The",
+          "start": 209.954,
+          "end": 210.354,
+          "score": 0.637
+        },
+        {
+          "word": "people",
+          "start": 210.374,
+          "end": 211.316,
+          "score": 0.947
+        },
+        {
+          "word": "that",
+          "start": 211.336,
+          "end": 212.277,
+          "score": 0.605
+        },
+        {
+          "word": "are",
+          "start": 212.297,
+          "end": 213.358,
+          "score": 0.942
+        },
+        {
+          "word": "drinking",
+          "start": 213.378,
+          "end": 217.563,
+          "score": 0.909
+        },
+        {
+          "word": "coffee",
+          "start": 217.583,
+          "end": 217.703,
+          "score": 0.0
+        },
+        {
+          "word": "here.",
+          "start": 217.723,
+          "end": 217.823,
+          "score": 0.0
+        }
+      ]
     },
     {
-      "id": 88,
-      "seek": 20494,
-      "start": 212.92,
-      "end": 213.76,
-      "text": " 다시요.",
-      "tokens": [
-        50763,
-        15463,
-        1495,
-        13,
-        50805
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.32847860881260466,
-      "compression_ratio": 1.7934272300469483,
-      "no_speech_prob": 0.0010245010489597917
+      "start": 217.843,
+      "end": 217.923,
+      "text": "다시요.",
+      "words": [
+        {
+          "word": "다시요.",
+          "start": 217.843,
+          "end": 217.923,
+          "score": 0.0
+        }
+      ]
     },
     {
-      "id": 89,
-      "seek": 20494,
-      "start": 213.76,
-      "end": 216.52,
-      "text": " The people that are drinking coffee here.",
-      "tokens": [
-        50805,
-        440,
-        561,
-        300,
-        366,
-        7583,
-        4982,
-        510,
-        13,
-        50943
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.32847860881260466,
-      "compression_ratio": 1.7934272300469483,
-      "no_speech_prob": 0.0010245010489597917
+      "start": 217.943,
+      "end": 222.028,
+      "text": "The people that are drinking coffee here.",
+      "words": [
+        {
+          "word": "The",
+          "start": 217.943,
+          "end": 218.003,
+          "score": 0.0
+        },
+        {
+          "word": "people",
+          "start": 218.023,
+          "end": 218.143,
+          "score": 0.0
+        },
+        {
+          "word": "that",
+          "start": 218.163,
+          "end": 218.344,
+          "score": 0.493
+        },
+        {
+          "word": "are",
+          "start": 218.364,
+          "end": 218.604,
+          "score": 0.967
+        },
+        {
+          "word": "drinking",
+          "start": 218.624,
+          "end": 221.767,
+          "score": 0.369
+        },
+        {
+          "word": "coffee",
+          "start": 221.787,
+          "end": 221.908,
+          "score": 0.003
+        },
+        {
+          "word": "here.",
+          "start": 221.928,
+          "end": 222.028,
+          "score": 0.003
+        }
+      ]
     },
     {
-      "id": 90,
-      "seek": 20494,
-      "start": 216.52,
-      "end": 218.0,
-      "text": " 그렇죠.",
-      "tokens": [
-        50943,
-        34410,
-        13,
-        51017
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.32847860881260466,
-      "compression_ratio": 1.7934272300469483,
-      "no_speech_prob": 0.0010245010489597917
+      "start": 222.048,
+      "end": 222.128,
+      "text": "그렇죠?",
+      "words": [
+        {
+          "word": "그렇죠?",
+          "start": 222.048,
+          "end": 222.128,
+          "score": 0.0
+        }
+      ]
     },
     {
-      "id": 91,
-      "seek": 20494,
-      "start": 218.0,
-      "end": 219.35999999999999,
-      "text": " 물을 마시는 사람들.",
-      "tokens": [
-        51017,
-        14403,
-        1638,
-        6437,
-        18147,
-        39570,
-        13,
-        51085
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.32847860881260466,
-      "compression_ratio": 1.7934272300469483,
-      "no_speech_prob": 0.0010245010489597917
+      "start": 222.148,
+      "end": 222.368,
+      "text": "물을 마시는 사람들.",
+      "words": [
+        {
+          "word": "물을",
+          "start": 222.148,
+          "end": 222.188,
+          "score": 0.0
+        },
+        {
+          "word": "마시는",
+          "start": 222.208,
+          "end": 222.268,
+          "score": 0.0
+        },
+        {
+          "word": "사람들.",
+          "start": 222.288,
+          "end": 222.368,
+          "score": 0.002
+        }
+      ]
     },
     {
-      "id": 92,
-      "seek": 20494,
-      "start": 219.35999999999999,
-      "end": 222.02,
-      "text": " 커피를 마시는 사람들.",
-      "tokens": [
-        51085,
-        45326,
-        1870,
-        2429,
-        6437,
-        18147,
-        39570,
-        13,
-        51218
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.32847860881260466,
-      "compression_ratio": 1.7934272300469483,
-      "no_speech_prob": 0.0010245010489597917
+      "start": 222.388,
+      "end": 222.468,
+      "text": "다시요.",
+      "words": [
+        {
+          "word": "다시요.",
+          "start": 222.388,
+          "end": 222.468,
+          "score": 0.357
+        }
+      ]
     },
     {
-      "id": 93,
-      "seek": 20494,
-      "start": 222.02,
-      "end": 222.8,
-      "text": " 다시요.",
-      "tokens": [
-        51218,
-        15463,
-        1495,
-        13,
-        51257
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.32847860881260466,
-      "compression_ratio": 1.7934272300469483,
-      "no_speech_prob": 0.0010245010489597917
+      "start": 225.932,
+      "end": 226.973,
+      "text": "부산에 가는 학생들.",
+      "words": [
+        {
+          "word": "부산에",
+          "start": 225.932,
+          "end": 226.213,
+          "score": 0.93
+        },
+        {
+          "word": "가는",
+          "start": 226.253,
+          "end": 226.393,
+          "score": 0.99
+        },
+        {
+          "word": "학생들.",
+          "start": 226.453,
+          "end": 226.973,
+          "score": 0.993
+        }
+      ]
     },
     {
-      "id": 94,
-      "seek": 20494,
-      "start": 222.8,
-      "end": 225.8,
-      "text": " 커피를 마시는 사람들.",
-      "tokens": [
-        51257,
-        45326,
-        1870,
-        2429,
-        6437,
-        18147,
-        39570,
-        13,
-        51407
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.32847860881260466,
-      "compression_ratio": 1.7934272300469483,
-      "no_speech_prob": 0.0010245010489597917
+      "start": 227.634,
+      "end": 229.276,
+      "text": "그럼 학생 단수로 어떻게 하면 되죠?",
+      "words": [
+        {
+          "word": "그럼",
+          "start": 227.634,
+          "end": 227.674,
+          "score": 0.0
+        },
+        {
+          "word": "학생",
+          "start": 227.694,
+          "end": 228.055,
+          "score": 0.945
+        },
+        {
+          "word": "단수로",
+          "start": 228.155,
+          "end": 228.555,
+          "score": 0.834
+        },
+        {
+          "word": "어떻게",
+          "start": 229.076,
+          "end": 229.136,
+          "score": 0.0
+        },
+        {
+          "word": "하면",
+          "start": 229.156,
+          "end": 229.196,
+          "score": 0.0
+        },
+        {
+          "word": "되죠?",
+          "start": 229.216,
+          "end": 229.276,
+          "score": 0.657
+        }
+      ]
     },
     {
-      "id": 95,
-      "seek": 20494,
-      "start": 225.8,
-      "end": 227.0,
-      "text": " 부산에 가는 학생들.",
-      "tokens": [
-        51407,
-        11351,
-        16551,
-        1517,
-        37407,
-        24504,
-        10175,
-        14271,
-        13,
-        51467
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.32847860881260466,
-      "compression_ratio": 1.7934272300469483,
-      "no_speech_prob": 0.0010245010489597917
+      "start": 230.317,
+      "end": 233.02,
+      "text": "The student that is going to Busan.",
+      "words": [
+        {
+          "word": "The",
+          "start": 230.317,
+          "end": 231.138,
+          "score": 0.906
+        },
+        {
+          "word": "student",
+          "start": 231.158,
+          "end": 232.259,
+          "score": 0.932
+        },
+        {
+          "word": "that",
+          "start": 232.279,
+          "end": 232.52,
+          "score": 0.228
+        },
+        {
+          "word": "is",
+          "start": 232.54,
+          "end": 232.58,
+          "score": 0.0
+        },
+        {
+          "word": "going",
+          "start": 232.6,
+          "end": 232.82,
+          "score": 0.386
+        },
+        {
+          "word": "to",
+          "start": 232.84,
+          "end": 232.88,
+          "score": 0.0
+        },
+        {
+          "word": "Busan.",
+          "start": 232.9,
+          "end": 233.02,
+          "score": 0.154
+        }
+      ]
     },
     {
-      "id": 96,
-      "seek": 20494,
-      "start": 227.0,
-      "end": 229.8,
-      "text": " 그럼 학생, 단수로 그러면 어떻게 하면 되죠.",
-      "tokens": [
-        51467,
-        13929,
-        24504,
-        10175,
-        11,
-        16818,
-        25361,
-        1955,
-        16645,
-        12952,
-        17422,
-        5514,
-        5837,
-        13,
-        51607
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.32847860881260466,
-      "compression_ratio": 1.7934272300469483,
-      "no_speech_prob": 0.0010245010489597917
+      "start": 233.04,
+      "end": 233.441,
+      "text": "한 번 더.",
+      "words": [
+        {
+          "word": "한",
+          "start": 233.04,
+          "end": 233.06,
+          "score": 0.0
+        },
+        {
+          "word": "번",
+          "start": 233.08,
+          "end": 233.381,
+          "score": 0.894
+        },
+        {
+          "word": "더.",
+          "start": 233.401,
+          "end": 233.441,
+          "score": 0.996
+        }
+      ]
     },
     {
-      "id": 97,
-      "seek": 20494,
-      "start": 229.8,
-      "end": 232.84,
-      "text": " The student that is going to Busan.",
-      "tokens": [
-        51607,
-        440,
-        3107,
-        300,
-        307,
-        516,
-        281,
-        43538,
-        13,
-        51759
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.32847860881260466,
-      "compression_ratio": 1.7934272300469483,
-      "no_speech_prob": 0.0010245010489597917
+      "start": 233.461,
+      "end": 237.826,
+      "text": "The student that is going to Busan.",
+      "words": [
+        {
+          "word": "The",
+          "start": 233.461,
+          "end": 234.682,
+          "score": 0.951
+        },
+        {
+          "word": "student",
+          "start": 234.702,
+          "end": 235.944,
+          "score": 0.975
+        },
+        {
+          "word": "that",
+          "start": 236.284,
+          "end": 236.825,
+          "score": 0.973
+        },
+        {
+          "word": "is",
+          "start": 236.845,
+          "end": 236.985,
+          "score": 0.929
+        },
+        {
+          "word": "going",
+          "start": 237.005,
+          "end": 237.265,
+          "score": 0.568
+        },
+        {
+          "word": "to",
+          "start": 237.285,
+          "end": 237.325,
+          "score": 0.5
+        },
+        {
+          "word": "Busan.",
+          "start": 237.345,
+          "end": 237.826,
+          "score": 0.827
+        }
+      ]
     },
     {
-      "id": 98,
-      "seek": 23284,
-      "start": 232.84,
-      "end": 233.9,
-      "text": " 한 번 더.",
-      "tokens": [
-        50364,
-        4815,
-        10212,
-        6990,
-        13,
-        50417
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.290296852041822,
-      "compression_ratio": 1.5138339920948616,
-      "no_speech_prob": 0.007440486922860146
+      "start": 237.846,
+      "end": 238.066,
+      "text": "부산에 가는 학생들.",
+      "words": [
+        {
+          "word": "부산에",
+          "start": 237.846,
+          "end": 237.906,
+          "score": 0.045
+        },
+        {
+          "word": "가는",
+          "start": 237.926,
+          "end": 237.966,
+          "score": 0.188
+        },
+        {
+          "word": "학생들.",
+          "start": 237.986,
+          "end": 238.066,
+          "score": 0.097
+        }
+      ]
     },
     {
-      "id": 99,
-      "seek": 23284,
-      "start": 233.9,
-      "end": 236.74,
-      "text": " The student that is going to Busan.",
-      "tokens": [
-        50417,
-        440,
-        3107,
-        300,
-        307,
-        516,
-        281,
-        43538,
-        13,
-        50559
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.290296852041822,
-      "compression_ratio": 1.5138339920948616,
-      "no_speech_prob": 0.007440486922860146
-    },
-    {
-      "id": 100,
-      "seek": 23284,
-      "start": 236.74,
-      "end": 238.78,
-      "text": " 부산에 가는 학생들.",
-      "tokens": [
-        50559,
-        11351,
-        16551,
-        1517,
-        37407,
-        24504,
-        10175,
-        14271,
-        13,
-        50661
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.290296852041822,
-      "compression_ratio": 1.5138339920948616,
-      "no_speech_prob": 0.007440486922860146
-    },
-    {
-      "id": 101,
-      "seek": 23284,
-      "start": 238.78,
-      "end": 241.48000000000002,
-      "text": " Students that are going to Busan.",
-      "tokens": [
-        50661,
-        17244,
-        300,
-        366,
-        516,
-        281,
-        43538,
-        13,
-        50796
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.290296852041822,
-      "compression_ratio": 1.5138339920948616,
-      "no_speech_prob": 0.007440486922860146
-    },
-    {
-      "id": 102,
-      "seek": 23284,
-      "start": 241.48000000000002,
-      "end": 242.32,
-      "text": " 다시요.",
-      "tokens": [
-        50796,
-        15463,
-        1495,
-        13,
-        50838
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.290296852041822,
-      "compression_ratio": 1.5138339920948616,
-      "no_speech_prob": 0.007440486922860146
-    },
-    {
-      "id": 103,
-      "seek": 23284,
-      "start": 242.32,
-      "end": 245.58,
+      "start": 238.466,
+      "end": 246.255,
       "text": " The students that are going to Busan.",
-      "tokens": [
-        50838,
-        440,
-        1731,
-        300,
-        366,
-        516,
-        281,
-        43538,
-        13,
-        51001
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.290296852041822,
-      "compression_ratio": 1.5138339920948616,
-      "no_speech_prob": 0.007440486922860146
+      "words": [
+        {
+          "word": "The",
+          "start": 238.466,
+          "end": 239.227,
+          "score": 0.952
+        },
+        {
+          "word": "students",
+          "start": 239.247,
+          "end": 243.071,
+          "score": 0.977
+        },
+        {
+          "word": "that",
+          "start": 243.091,
+          "end": 244.593,
+          "score": 0.97
+        },
+        {
+          "word": "are",
+          "start": 244.713,
+          "end": 245.934,
+          "score": 0.323
+        },
+        {
+          "word": "going",
+          "start": 245.954,
+          "end": 246.055,
+          "score": 0.002
+        },
+        {
+          "word": "to",
+          "start": 246.075,
+          "end": 246.115,
+          "score": 0.002
+        },
+        {
+          "word": "Busan.",
+          "start": 246.135,
+          "end": 246.255,
+          "score": 0.0
+        }
+      ]
     },
     {
-      "id": 104,
-      "seek": 23284,
-      "start": 245.58,
-      "end": 246.72,
-      "text": " 그렇게 하면 되겠죠.",
-      "tokens": [
-        51001,
-        16104,
-        17422,
-        5514,
-        29935,
-        13,
-        51058
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.290296852041822,
-      "compression_ratio": 1.5138339920948616,
-      "no_speech_prob": 0.007440486922860146
+      "start": 246.275,
+      "end": 246.355,
+      "text": "다시요.",
+      "words": [
+        {
+          "word": "다시요.",
+          "start": 246.275,
+          "end": 246.355,
+          "score": 0.0
+        }
+      ]
     },
     {
-      "id": 105,
-      "seek": 23284,
-      "start": 246.72,
-      "end": 249.16,
-      "text": " The people that are studying hard",
-      "tokens": [
-        51058,
-        440,
-        561,
-        300,
-        366,
-        7601,
-        1152,
-        51180
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.290296852041822,
-      "compression_ratio": 1.5138339920948616,
-      "no_speech_prob": 0.007440486922860146
+      "start": 246.375,
+      "end": 247.136,
+      "text": "The students that are going to Busan.",
+      "words": [
+        {
+          "word": "The",
+          "start": 246.375,
+          "end": 246.435,
+          "score": 0.001
+        },
+        {
+          "word": "students",
+          "start": 246.455,
+          "end": 246.615,
+          "score": 0.0
+        },
+        {
+          "word": "that",
+          "start": 246.635,
+          "end": 246.715,
+          "score": 0.0
+        },
+        {
+          "word": "are",
+          "start": 246.735,
+          "end": 246.795,
+          "score": 0.0
+        },
+        {
+          "word": "going",
+          "start": 246.815,
+          "end": 246.936,
+          "score": 0.109
+        },
+        {
+          "word": "to",
+          "start": 246.956,
+          "end": 246.996,
+          "score": 0.0
+        },
+        {
+          "word": "Busan.",
+          "start": 247.016,
+          "end": 247.136,
+          "score": 0.0
+        }
+      ]
     },
     {
-      "id": 106,
-      "seek": 23284,
-      "start": 249.16,
-      "end": 251.68,
-      "text": " will speak English well.",
-      "tokens": [
-        51180,
-        486,
-        1710,
-        3669,
-        731,
-        13,
-        51306
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.290296852041822,
-      "compression_ratio": 1.5138339920948616,
-      "no_speech_prob": 0.007440486922860146
+      "start": 247.156,
+      "end": 247.376,
+      "text": "그렇게 하면 되겠죠.",
+      "words": [
+        {
+          "word": "그렇게",
+          "start": 247.156,
+          "end": 247.216,
+          "score": 0.0
+        },
+        {
+          "word": "하면",
+          "start": 247.236,
+          "end": 247.276,
+          "score": 0.0
+        },
+        {
+          "word": "되겠죠.",
+          "start": 247.296,
+          "end": 247.376,
+          "score": 0.366
+        }
+      ]
     },
     {
-      "id": 107,
-      "seek": 23284,
-      "start": 251.68,
-      "end": 253.68,
-      "text": " 열심히 공부하는 사람들은",
-      "tokens": [
-        51306,
-        31939,
-        9273,
-        17317,
-        7116,
-        18078,
-        22571,
-        51406
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.290296852041822,
-      "compression_ratio": 1.5138339920948616,
-      "no_speech_prob": 0.007440486922860146
+      "start": 247.797,
+      "end": 254.344,
+      "text": "The people that are studying hard will speak English well.",
+      "words": [
+        {
+          "word": "The",
+          "start": 247.797,
+          "end": 248.117,
+          "score": 0.872
+        },
+        {
+          "word": "people",
+          "start": 248.137,
+          "end": 250.059,
+          "score": 0.79
+        },
+        {
+          "word": "that",
+          "start": 250.079,
+          "end": 250.6,
+          "score": 0.456
+        },
+        {
+          "word": "are",
+          "start": 250.62,
+          "end": 250.76,
+          "score": 0.982
+        },
+        {
+          "word": "studying",
+          "start": 250.86,
+          "end": 251.761,
+          "score": 0.467
+        },
+        {
+          "word": "hard",
+          "start": 251.781,
+          "end": 252.221,
+          "score": 0.979
+        },
+        {
+          "word": "will",
+          "start": 252.242,
+          "end": 252.942,
+          "score": 0.678
+        },
+        {
+          "word": "speak",
+          "start": 252.962,
+          "end": 253.163,
+          "score": 0.888
+        },
+        {
+          "word": "English",
+          "start": 253.183,
+          "end": 253.543,
+          "score": 0.946
+        },
+        {
+          "word": "well.",
+          "start": 253.823,
+          "end": 254.344,
+          "score": 0.77
+        }
+      ]
     },
     {
-      "id": 108,
-      "seek": 23284,
-      "start": 253.68,
-      "end": 254.96,
-      "text": " will speak English.",
-      "tokens": [
-        51406,
-        486,
-        1710,
-        3669,
-        13,
-        51470
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.290296852041822,
-      "compression_ratio": 1.5138339920948616,
-      "no_speech_prob": 0.007440486922860146
+      "start": 254.364,
+      "end": 255.025,
+      "text": "열심히 공부하는 사람들은 will speak English.",
+      "words": [
+        {
+          "word": "열심히",
+          "start": 254.364,
+          "end": 254.424,
+          "score": 0.002
+        },
+        {
+          "word": "공부하는",
+          "start": 254.444,
+          "end": 254.524,
+          "score": 0.0
+        },
+        {
+          "word": "사람들은",
+          "start": 254.544,
+          "end": 254.624,
+          "score": 0.0
+        },
+        {
+          "word": "will",
+          "start": 254.644,
+          "end": 254.724,
+          "score": 0.076
+        },
+        {
+          "word": "speak",
+          "start": 254.744,
+          "end": 254.844,
+          "score": 0.003
+        },
+        {
+          "word": "English.",
+          "start": 254.864,
+          "end": 255.025,
+          "score": 0.0
+        }
+      ]
     },
     {
-      "id": 109,
-      "seek": 23284,
-      "start": 254.96,
-      "end": 257.12,
-      "text": " 영어를 잘하게 될 거다.",
-      "tokens": [
-        51470,
-        9293,
-        47487,
-        6644,
-        8601,
-        16625,
-        3675,
-        1235,
-        13,
-        51578
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.290296852041822,
-      "compression_ratio": 1.5138339920948616,
-      "no_speech_prob": 0.007440486922860146
+      "start": 255.045,
+      "end": 257.407,
+      "text": "영어를 잘하게 될 거다.",
+      "words": [
+        {
+          "word": "영어를",
+          "start": 255.045,
+          "end": 255.305,
+          "score": 0.955
+        },
+        {
+          "word": "잘하게",
+          "start": 257.227,
+          "end": 257.287,
+          "score": 0.0
+        },
+        {
+          "word": "될",
+          "start": 257.307,
+          "end": 257.327,
+          "score": 0.453
+        },
+        {
+          "word": "거다.",
+          "start": 257.347,
+          "end": 257.407,
+          "score": 0.0
+        }
+      ]
     },
     {
-      "id": 110,
-      "seek": 23284,
-      "start": 257.12,
-      "end": 261.24,
-      "text": " The people that are working hard can make money.",
-      "tokens": [
-        51578,
-        440,
-        561,
-        300,
-        366,
-        1364,
-        1152,
-        393,
-        652,
-        1460,
-        13,
-        51784
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.290296852041822,
-      "compression_ratio": 1.5138339920948616,
-      "no_speech_prob": 0.007440486922860146
+      "start": 257.427,
+      "end": 264.095,
+      "text": "The people that are working hard can make money.",
+      "words": [
+        {
+          "word": "The",
+          "start": 257.427,
+          "end": 257.888,
+          "score": 0.936
+        },
+        {
+          "word": "people",
+          "start": 257.908,
+          "end": 259.71,
+          "score": 0.812
+        },
+        {
+          "word": "that",
+          "start": 259.73,
+          "end": 260.17,
+          "score": 0.784
+        },
+        {
+          "word": "are",
+          "start": 260.19,
+          "end": 263.514,
+          "score": 0.33
+        },
+        {
+          "word": "working",
+          "start": 263.534,
+          "end": 263.674,
+          "score": 0.002
+        },
+        {
+          "word": "hard",
+          "start": 263.694,
+          "end": 263.775,
+          "score": 0.0
+        },
+        {
+          "word": "can",
+          "start": 263.795,
+          "end": 263.855,
+          "score": 0.0
+        },
+        {
+          "word": "make",
+          "start": 263.875,
+          "end": 263.955,
+          "score": 0.244
+        },
+        {
+          "word": "money.",
+          "start": 263.975,
+          "end": 264.095,
+          "score": 0.003
+        }
+      ]
     },
     {
-      "id": 111,
-      "seek": 26284,
-      "start": 263.76,
-      "end": 264.35999999999996,
-      "text": " 그렇죠.",
-      "tokens": [
-        50410,
-        34410,
-        13,
-        50440
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -3.0786923217773436,
-      "compression_ratio": 1.013986013986014,
-      "no_speech_prob": 0.031745247542858124
+      "start": 264.115,
+      "end": 264.535,
+      "text": "그렇죠.",
+      "words": [
+        {
+          "word": "그렇죠.",
+          "start": 264.115,
+          "end": 264.535,
+          "score": 0.404
+        }
+      ]
     },
     {
-      "id": 112,
-      "seek": 26284,
-      "start": 264.35999999999996,
-      "end": 269.47999999999996,
-      "text": " 자체는 사람들은 �幸福 ay.",
-      "tokens": [
-        50440,
-        5650,
-        16260,
-        1098,
-        18078,
-        22571,
-        3214,
-        36482,
-        33952,
-        7494,
-        13,
-        50696
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -3.0786923217773436,
-      "compression_ratio": 1.013986013986014,
-      "no_speech_prob": 0.031745247542858124
+      "start": 264.736,
+      "end": 266.898,
+      "text": "지하철 타는 사람들은 늦는다.",
+      "words": [
+        {
+          "word": "지하철",
+          "start": 264.736,
+          "end": 264.796,
+          "score": 0.0
+        },
+        {
+          "word": "타는",
+          "start": 264.816,
+          "end": 264.876,
+          "score": 0.962
+        },
+        {
+          "word": "사람들은",
+          "start": 264.936,
+          "end": 265.316,
+          "score": 0.946
+        },
+        {
+          "word": "늦는다.",
+          "start": 265.757,
+          "end": 266.898,
+          "score": 0.708
+        }
+      ]
     },
     {
-      "id": 113,
-      "seek": 26284,
-      "start": 269.47999999999996,
-      "end": 273.32,
-      "text": " 넷은다.",
-      "tokens": [
-        50696,
-        3214,
-        115,
-        2124,
-        1235,
-        13,
-        50888
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -3.0786923217773436,
-      "compression_ratio": 1.013986013986014,
-      "no_speech_prob": 0.031745247542858124
+      "start": 269.698,
+      "end": 297.298,
+      "text": " 늦는다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다 늦을거다",
+      "words": [
+        {
+          "word": "늦는다",
+          "start": 269.698,
+          "end": 270.119,
+          "score": 0.871
+        },
+        {
+          "word": "늦을거다",
+          "start": 271.12,
+          "end": 271.3,
+          "score": 0.496
+        },
+        {
+          "word": "늦을거다",
+          "start": 272.843,
+          "end": 272.943,
+          "score": 0.563
+        },
+        {
+          "word": "늦을거다",
+          "start": 274.104,
+          "end": 274.645,
+          "score": 0.89
+        },
+        {
+          "word": "늦을거다",
+          "start": 275.526,
+          "end": 276.007,
+          "score": 0.711
+        },
+        {
+          "word": "늦을거다",
+          "start": 286.643,
+          "end": 286.943,
+          "score": 0.467
+        },
+        {
+          "word": "늦을거다",
+          "start": 290.048,
+          "end": 290.128,
+          "score": 0.178
+        },
+        {
+          "word": "늦을거다",
+          "start": 292.351,
+          "end": 292.431,
+          "score": 0.205
+        },
+        {
+          "word": "늦을거다",
+          "start": 292.852,
+          "end": 292.932,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 292.952,
+          "end": 293.032,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 293.052,
+          "end": 293.132,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 293.152,
+          "end": 293.493,
+          "score": 0.36
+        },
+        {
+          "word": "늦을거다",
+          "start": 293.513,
+          "end": 293.593,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 293.613,
+          "end": 293.693,
+          "score": 0.001
+        },
+        {
+          "word": "늦을거다",
+          "start": 293.713,
+          "end": 293.793,
+          "score": 0.001
+        },
+        {
+          "word": "늦을거다",
+          "start": 293.813,
+          "end": 293.893,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 293.913,
+          "end": 293.993,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 294.013,
+          "end": 294.093,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 294.113,
+          "end": 294.194,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 294.214,
+          "end": 294.294,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 294.314,
+          "end": 294.394,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 294.414,
+          "end": 294.494,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 294.514,
+          "end": 294.594,
+          "score": 0.002
+        },
+        {
+          "word": "늦을거다",
+          "start": 294.614,
+          "end": 294.694,
+          "score": 0.002
+        },
+        {
+          "word": "늦을거다",
+          "start": 294.714,
+          "end": 294.794,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 294.814,
+          "end": 294.895,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 294.915,
+          "end": 294.995,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 295.015,
+          "end": 295.095,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 295.115,
+          "end": 295.195,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 295.215,
+          "end": 295.355,
+          "score": 0.447
+        },
+        {
+          "word": "늦을거다",
+          "start": 295.756,
+          "end": 295.836,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 295.856,
+          "end": 295.936,
+          "score": 0.001
+        },
+        {
+          "word": "늦을거다",
+          "start": 295.956,
+          "end": 296.036,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 296.056,
+          "end": 296.136,
+          "score": 0.003
+        },
+        {
+          "word": "늦을거다",
+          "start": 296.156,
+          "end": 296.236,
+          "score": 0.001
+        },
+        {
+          "word": "늦을거다",
+          "start": 296.257,
+          "end": 296.337,
+          "score": 0.001
+        },
+        {
+          "word": "늦을거다",
+          "start": 296.357,
+          "end": 296.437,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 296.457,
+          "end": 296.537,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 296.557,
+          "end": 296.637,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 296.657,
+          "end": 296.737,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 296.757,
+          "end": 296.837,
+          "score": 0.0
+        },
+        {
+          "word": "늦을거다",
+          "start": 296.857,
+          "end": 296.938,
+          "score": 0.074
+        },
+        {
+          "word": "늦을거다",
+          "start": 297.018,
+          "end": 297.098,
+          "score": 0.245
+        },
+        {
+          "word": "늦을거다",
+          "start": 297.118,
+          "end": 297.198,
+          "score": 0.118
+        },
+        {
+          "word": "늦을거다",
+          "start": 297.218,
+          "end": 297.298,
+          "score": 0.021
+        }
+      ]
     },
     {
-      "id": 114,
-      "seek": 26284,
-      "start": 285.91999999999996,
-      "end": 287.47999999999996,
-      "text": " 여기서 이런다는",
-      "tokens": [
-        51518,
-        25404,
-        8381,
-        10520,
-        51596
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -3.0786923217773436,
-      "compression_ratio": 1.013986013986014,
-      "no_speech_prob": 0.031745247542858124
-    },
-    {
-      "id": 115,
-      "seek": 26284,
-      "start": 287.47999999999996,
-      "end": 288.71999999999997,
-      "text": " 이런다는ились.",
-      "tokens": [
-        51596,
-        8381,
-        10520,
-        19285,
-        13,
-        51658
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -3.0786923217773436,
-      "compression_ratio": 1.013986013986014,
-      "no_speech_prob": 0.031745247542858124
-    },
-    {
-      "id": 116,
-      "seek": 26284,
-      "start": 288.71999999999997,
-      "end": 292.08,
-      "text": " 이제 완전히 딸아혁抱여 boxes.",
-      "tokens": [
-        51658,
-        8424,
-        25587,
-        5905,
-        7378,
-        116,
-        2230,
-        5262,
-        223,
-        38382,
-        10558,
-        9002,
-        13,
-        51826
-      ],
-      "temperature": 1.0,
-      "avg_logprob": -3.0786923217773436,
-      "compression_ratio": 1.013986013986014,
-      "no_speech_prob": 0.031745247542858124
-    },
-    {
-      "id": 117,
-      "seek": 29208,
-      "start": 292.08,
-      "end": 294.08,
-      "text": " 공부하는?",
-      "tokens": [
-        50364,
-        9273,
-        17317,
-        7116,
-        30,
-        50464
-      ],
-      "temperature": 0.2,
-      "avg_logprob": -0.28254706341287367,
-      "compression_ratio": 2.0851063829787235,
-      "no_speech_prob": 0.24983835220336914
-    },
-    {
-      "id": 118,
-      "seek": 29208,
-      "start": 294.08,
-      "end": 296.08,
-      "text": " 공부하는?",
-      "tokens": [
-        50464,
-        9273,
-        17317,
-        7116,
-        30,
-        50564
-      ],
-      "temperature": 0.2,
-      "avg_logprob": -0.28254706341287367,
-      "compression_ratio": 2.0851063829787235,
-      "no_speech_prob": 0.24983835220336914
-    },
-    {
-      "id": 119,
-      "seek": 29208,
-      "start": 296.08,
-      "end": 298.08,
-      "text": " 공부하지 않는?",
-      "tokens": [
-        50564,
-        9273,
-        17317,
-        16175,
-        34790,
-        30,
-        50664
-      ],
-      "temperature": 0.2,
-      "avg_logprob": -0.28254706341287367,
-      "compression_ratio": 2.0851063829787235,
-      "no_speech_prob": 0.24983835220336914
-    },
-    {
-      "id": 120,
-      "seek": 29208,
-      "start": 298.08,
-      "end": 300.08,
-      "text": " 공부하지 않는?",
-      "tokens": [
-        50664,
-        9273,
-        17317,
-        16175,
-        34790,
-        30,
-        50764
-      ],
-      "temperature": 0.2,
-      "avg_logprob": -0.28254706341287367,
-      "compression_ratio": 2.0851063829787235,
-      "no_speech_prob": 0.24983835220336914
-    },
-    {
-      "id": 121,
-      "seek": 29208,
-      "start": 300.08,
-      "end": 302.08,
-      "text": " 시원스쿨에 가는?",
-      "tokens": [
-        50764,
-        5710,
-        7573,
-        7785,
-        34680,
-        101,
-        1517,
-        37407,
-        30,
-        50864
-      ],
-      "temperature": 0.2,
-      "avg_logprob": -0.28254706341287367,
-      "compression_ratio": 2.0851063829787235,
-      "no_speech_prob": 0.24983835220336914
-    },
-    {
-      "id": 122,
-      "seek": 29208,
-      "start": 302.08,
-      "end": 304.08,
-      "text": " 시원스쿨에 가는?",
-      "tokens": [
-        50864,
-        5710,
-        7573,
-        7785,
-        34680,
-        101,
-        1517,
-        37407,
-        30,
-        50964
-      ],
-      "temperature": 0.2,
-      "avg_logprob": -0.28254706341287367,
-      "compression_ratio": 2.0851063829787235,
-      "no_speech_prob": 0.24983835220336914
-    },
-    {
-      "id": 123,
-      "seek": 29208,
-      "start": 304.08,
-      "end": 306.08,
-      "text": " 시원스쿨에 가는?",
-      "tokens": [
-        50964,
-        5710,
-        7573,
-        7785,
-        34680,
-        101,
-        1517,
-        37407,
-        30,
-        51064
-      ],
-      "temperature": 0.2,
-      "avg_logprob": -0.28254706341287367,
-      "compression_ratio": 2.0851063829787235,
-      "no_speech_prob": 0.24983835220336914
-    },
-    {
-      "id": 124,
-      "seek": 29208,
-      "start": 306.08,
-      "end": 308.08,
-      "text": " 데라가고잉트 시원스쿨 시작?",
-      "tokens": [
-        51064,
-        39267,
-        2742,
-        1453,
-        1313,
-        1574,
-        231,
-        8857,
-        5710,
-        7573,
-        7785,
-        34680,
-        101,
-        14525,
-        30,
-        51164
-      ],
-      "temperature": 0.2,
-      "avg_logprob": -0.28254706341287367,
-      "compression_ratio": 2.0851063829787235,
-      "no_speech_prob": 0.24983835220336914
-    },
-    {
-      "id": 125,
-      "seek": 29208,
-      "start": 308.08,
-      "end": 310.08,
-      "text": " 데라고잉트 시원스쿨?",
-      "tokens": [
-        51164,
-        39267,
-        2742,
-        1313,
-        1574,
-        231,
-        8857,
-        5710,
-        7573,
-        7785,
-        34680,
-        101,
-        30,
-        51264
-      ],
-      "temperature": 0.2,
-      "avg_logprob": -0.28254706341287367,
-      "compression_ratio": 2.0851063829787235,
-      "no_speech_prob": 0.24983835220336914
-    },
-    {
-      "id": 126,
-      "seek": 29208,
-      "start": 310.08,
-      "end": 312.08,
-      "text": " 시원스쿨에 가지 않는?",
-      "tokens": [
-        51264,
-        5710,
-        7573,
-        7785,
-        34680,
-        101,
-        1517,
-        26569,
-        34790,
-        30,
-        51364
-      ],
-      "temperature": 0.2,
-      "avg_logprob": -0.28254706341287367,
-      "compression_ratio": 2.0851063829787235,
-      "no_speech_prob": 0.24983835220336914
-    },
-    {
-      "id": 127,
-      "seek": 29208,
-      "start": 312.08,
-      "end": 314.08,
-      "text": " 그르처!",
-      "tokens": [
-        51364,
-        2003,
-        41390,
-        110,
-        246,
-        0,
-        51464
-      ],
-      "temperature": 0.2,
-      "avg_logprob": -0.28254706341287367,
-      "compression_ratio": 2.0851063829787235,
-      "no_speech_prob": 0.24983835220336914
-    },
-    {
-      "id": 128,
-      "seek": 29208,
-      "start": 314.08,
-      "end": 316.08,
-      "text": " 오늘 썩 여기서 마치겠습니다.",
-      "tokens": [
-        51464,
-        8880,
-        37113,
-        102,
-        25404,
-        6437,
-        8464,
-        9420,
-        13,
-        51564
-      ],
-      "temperature": 0.2,
-      "avg_logprob": -0.28254706341287367,
-      "compression_ratio": 2.0851063829787235,
-      "no_speech_prob": 0.24983835220336914
+      "start": 297.41,
+      "end": 316.05,
+      "text": " 공부하지 않는 시원스쿨에 가는 시원스쿨에 가는 시원스쿨에 가지 않는 그렇죠 자 오늘 수업 여기서 마치겠습니다 수고하셨습니다",
+      "words": [
+        {
+          "word": "공부하지",
+          "start": 297.41,
+          "end": 298.873,
+          "score": 0.567
+        },
+        {
+          "word": "않는",
+          "start": 298.893,
+          "end": 299.114,
+          "score": 0.928
+        },
+        {
+          "word": "시원스쿨에",
+          "start": 300.958,
+          "end": 301.058,
+          "score": 0.183
+        },
+        {
+          "word": "가는",
+          "start": 301.118,
+          "end": 301.338,
+          "score": 0.948
+        },
+        {
+          "word": "시원스쿨에",
+          "start": 304.425,
+          "end": 304.525,
+          "score": 0.0
+        },
+        {
+          "word": "가는",
+          "start": 304.545,
+          "end": 304.766,
+          "score": 0.964
+        },
+        {
+          "word": "시원스쿨에",
+          "start": 306.91,
+          "end": 307.011,
+          "score": 0.2
+        },
+        {
+          "word": "가지",
+          "start": 309.937,
+          "end": 310.097,
+          "score": 0.741
+        },
+        {
+          "word": "않는",
+          "start": 310.137,
+          "end": 310.398,
+          "score": 0.9
+        },
+        {
+          "word": "그렇죠",
+          "start": 312.763,
+          "end": 313.124,
+          "score": 0.621
+        },
+        {
+          "word": "자",
+          "start": 313.505,
+          "end": 313.525,
+          "score": 0.988
+        },
+        {
+          "word": "오늘",
+          "start": 313.685,
+          "end": 313.946,
+          "score": 0.889
+        },
+        {
+          "word": "수업",
+          "start": 313.966,
+          "end": 314.006,
+          "score": 0.5
+        },
+        {
+          "word": "여기서",
+          "start": 314.046,
+          "end": 314.286,
+          "score": 0.879
+        },
+        {
+          "word": "마치겠습니다",
+          "start": 314.306,
+          "end": 314.968,
+          "score": 0.554
+        },
+        {
+          "word": "수고하셨습니다",
+          "start": 315.008,
+          "end": 316.05,
+          "score": 0.644
+        }
+      ]
     }
   ],
-  "language": "ko"
+  "word_segments": [
+    {
+      "word": "안녕하세요.",
+      "start": 4.45,
+      "end": 7.554,
+      "score": 0.656
+    },
+    {
+      "word": "안녕하세요.",
+      "start": 7.574,
+      "end": 7.694,
+      "score": 0.005
+    },
+    {
+      "word": "잘",
+      "start": 7.714,
+      "end": 7.734,
+      "score": 0.0
+    },
+    {
+      "word": "지내셨죠?",
+      "start": 7.754,
+      "end": 9.417,
+      "score": 0.391
+    },
+    {
+      "word": "네.",
+      "start": 9.437,
+      "end": 9.737,
+      "score": 0.956
+    },
+    {
+      "word": "오늘",
+      "start": 9.877,
+      "end": 10.178,
+      "score": 0.958
+    },
+    {
+      "word": "시간에는",
+      "start": 10.318,
+      "end": 10.799,
+      "score": 0.982
+    },
+    {
+      "word": "여러분들께서요,",
+      "start": 11.019,
+      "end": 12.481,
+      "score": 0.936
+    },
+    {
+      "word": "됐다음에",
+      "start": 12.501,
+      "end": 12.721,
+      "score": 0.5
+    },
+    {
+      "word": "바로",
+      "start": 13.062,
+      "end": 13.102,
+      "score": 0.0
+    },
+    {
+      "word": "동사가",
+      "start": 13.122,
+      "end": 13.462,
+      "score": 0.905
+    },
+    {
+      "word": "오는",
+      "start": 13.582,
+      "end": 13.622,
+      "score": 0.0
+    },
+    {
+      "word": "게",
+      "start": 13.642,
+      "end": 13.662,
+      "score": 0.0
+    },
+    {
+      "word": "아니고",
+      "start": 13.682,
+      "end": 13.843,
+      "score": 0.647
+    },
+    {
+      "word": "비동사가",
+      "start": 14.363,
+      "end": 14.804,
+      "score": 0.91
+    },
+    {
+      "word": "와서",
+      "start": 14.884,
+      "end": 15.124,
+      "score": 0.916
+    },
+    {
+      "word": "이렇게",
+      "start": 15.986,
+      "end": 16.186,
+      "score": 0.959
+    },
+    {
+      "word": "진행형을",
+      "start": 16.466,
+      "end": 16.847,
+      "score": 0.853
+    },
+    {
+      "word": "만드는",
+      "start": 16.907,
+      "end": 17.167,
+      "score": 0.971
+    },
+    {
+      "word": "거를",
+      "start": 17.327,
+      "end": 17.367,
+      "score": 0.498
+    },
+    {
+      "word": "한번",
+      "start": 17.508,
+      "end": 17.688,
+      "score": 0.862
+    },
+    {
+      "word": "해보도록",
+      "start": 17.728,
+      "end": 18.048,
+      "score": 0.918
+    },
+    {
+      "word": "하겠습니다.",
+      "start": 18.108,
+      "end": 19.971,
+      "score": 0.643
+    },
+    {
+      "word": "고의",
+      "start": 19.991,
+      "end": 20.191,
+      "score": 0.522
+    },
+    {
+      "word": "진행형은",
+      "start": 20.371,
+      "end": 20.852,
+      "score": 0.944
+    },
+    {
+      "word": "is",
+      "start": 20.872,
+      "end": 21.914,
+      "score": 0.904
+    },
+    {
+      "word": "going.",
+      "start": 21.934,
+      "end": 22.054,
+      "score": 0.108
+    },
+    {
+      "word": "제가",
+      "start": 22.074,
+      "end": 22.114,
+      "score": 0.452
+    },
+    {
+      "word": "go",
+      "start": 22.134,
+      "end": 22.194,
+      "score": 0.179
+    },
+    {
+      "word": "하면",
+      "start": 22.214,
+      "end": 22.394,
+      "score": 0.428
+    },
+    {
+      "word": "여러분",
+      "start": 22.414,
+      "end": 22.655,
+      "score": 0.874
+    },
+    {
+      "word": "is",
+      "start": 22.675,
+      "end": 22.735,
+      "score": 0.514
+    },
+    {
+      "word": "going",
+      "start": 22.755,
+      "end": 23.155,
+      "score": 0.908
+    },
+    {
+      "word": "해주세요.",
+      "start": 23.275,
+      "end": 25.178,
+      "score": 0.752
+    },
+    {
+      "word": "go",
+      "start": 25.198,
+      "end": 30.645,
+      "score": 0.99
+    },
+    {
+      "word": "is",
+      "start": 30.665,
+      "end": 32.247,
+      "score": 0.49
+    },
+    {
+      "word": "going",
+      "start": 32.268,
+      "end": 32.368,
+      "score": 0.001
+    },
+    {
+      "word": "go",
+      "start": 32.388,
+      "end": 32.428,
+      "score": 0.0
+    },
+    {
+      "word": "is",
+      "start": 32.448,
+      "end": 32.488,
+      "score": 0.0
+    },
+    {
+      "word": "going",
+      "start": 32.508,
+      "end": 32.608,
+      "score": 0.0
+    },
+    {
+      "word": "make",
+      "start": 32.628,
+      "end": 32.708,
+      "score": 0.0
+    },
+    {
+      "word": "is",
+      "start": 32.728,
+      "end": 32.768,
+      "score": 0.0
+    },
+    {
+      "word": "made",
+      "start": 32.788,
+      "end": 32.868,
+      "score": 0.0
+    },
+    {
+      "word": "make",
+      "start": 32.888,
+      "end": 32.968,
+      "score": 0.0
+    },
+    {
+      "word": "is",
+      "start": 32.988,
+      "end": 33.029,
+      "score": 0.0
+    },
+    {
+      "word": "made",
+      "start": 33.049,
+      "end": 33.129,
+      "score": 0.0
+    },
+    {
+      "word": "work",
+      "start": 33.149,
+      "end": 33.229,
+      "score": 0.0
+    },
+    {
+      "word": "is",
+      "start": 33.249,
+      "end": 33.289,
+      "score": 0.0
+    },
+    {
+      "word": "working",
+      "start": 33.309,
+      "end": 33.449,
+      "score": 0.0
+    },
+    {
+      "word": "work",
+      "start": 33.469,
+      "end": 33.549,
+      "score": 0.0
+    },
+    {
+      "word": "is",
+      "start": 33.569,
+      "end": 33.609,
+      "score": 0.0
+    },
+    {
+      "word": "working",
+      "start": 33.629,
+      "end": 33.77,
+      "score": 0.0
+    },
+    {
+      "word": "buy",
+      "start": 33.79,
+      "end": 33.85,
+      "score": 0.0
+    },
+    {
+      "word": "is",
+      "start": 33.87,
+      "end": 33.91,
+      "score": 0.0
+    },
+    {
+      "word": "buying",
+      "start": 33.93,
+      "end": 34.05,
+      "score": 0.0
+    },
+    {
+      "word": "buy",
+      "start": 34.07,
+      "end": 34.13,
+      "score": 0.0
+    },
+    {
+      "word": "think",
+      "start": 34.274,
+      "end": 41.645,
+      "score": 0.912
+    },
+    {
+      "word": "see",
+      "start": 41.665,
+      "end": 48.395,
+      "score": 0.992
+    },
+    {
+      "word": "watch",
+      "start": 51.861,
+      "end": 54.304,
+      "score": 0.777
+    },
+    {
+      "word": "speak",
+      "start": 54.324,
+      "end": 57.629,
+      "score": 0.198
+    },
+    {
+      "word": "come",
+      "start": 57.649,
+      "end": 58.411,
+      "score": 0.949
+    },
+    {
+      "word": "that",
+      "start": 58.431,
+      "end": 60.434,
+      "score": 0.248
+    },
+    {
+      "word": "goes",
+      "start": 60.454,
+      "end": 60.534,
+      "score": 0.001
+    },
+    {
+      "word": "that",
+      "start": 60.554,
+      "end": 60.634,
+      "score": 0.0
+    },
+    {
+      "word": "goes",
+      "start": 60.654,
+      "end": 60.734,
+      "score": 0.0
+    },
+    {
+      "word": "that",
+      "start": 60.754,
+      "end": 60.834,
+      "score": 0.0
+    },
+    {
+      "word": "goes",
+      "start": 60.854,
+      "end": 60.934,
+      "score": 0.0
+    },
+    {
+      "word": "to",
+      "start": 60.954,
+      "end": 60.994,
+      "score": 0.0
+    },
+    {
+      "word": "종로",
+      "start": 61.014,
+      "end": 61.055,
+      "score": 0.0
+    },
+    {
+      "word": "that",
+      "start": 61.075,
+      "end": 61.335,
+      "score": 0.974
+    },
+    {
+      "word": "goes",
+      "start": 61.355,
+      "end": 62.897,
+      "score": 0.246
+    },
+    {
+      "word": "to",
+      "start": 62.917,
+      "end": 62.957,
+      "score": 0.0
+    },
+    {
+      "word": "종로",
+      "start": 62.977,
+      "end": 63.017,
+      "score": 0.352
+    },
+    {
+      "word": "read",
+      "start": 63.038,
+      "end": 63.158,
+      "score": 0.388
+    },
+    {
+      "word": "is",
+      "start": 63.178,
+      "end": 63.218,
+      "score": 0.228
+    },
+    {
+      "word": "reading",
+      "start": 63.238,
+      "end": 63.378,
+      "score": 0.066
+    },
+    {
+      "word": "read,",
+      "start": 63.746,
+      "end": 64.046,
+      "score": 0.793
+    },
+    {
+      "word": "read,",
+      "start": 65.489,
+      "end": 66.931,
+      "score": 0.814
+    },
+    {
+      "word": "read,",
+      "start": 68.052,
+      "end": 69.374,
+      "score": 0.897
+    },
+    {
+      "word": "read,",
+      "start": 69.394,
+      "end": 76.184,
+      "score": 0.788
+    },
+    {
+      "word": "read,",
+      "start": 76.204,
+      "end": 76.304,
+      "score": 0.759
+    },
+    {
+      "word": "read,",
+      "start": 76.324,
+      "end": 78.848,
+      "score": 0.539
+    },
+    {
+      "word": "that",
+      "start": 78.868,
+      "end": 79.389,
+      "score": 0.762
+    },
+    {
+      "word": "reads,",
+      "start": 79.409,
+      "end": 79.529,
+      "score": 0.354
+    },
+    {
+      "word": "that",
+      "start": 79.549,
+      "end": 81.492,
+      "score": 0.722
+    },
+    {
+      "word": "reads,",
+      "start": 81.512,
+      "end": 81.933,
+      "score": 0.867
+    },
+    {
+      "word": "that",
+      "start": 81.953,
+      "end": 82.153,
+      "score": 0.198
+    },
+    {
+      "word": "reads,",
+      "start": 82.173,
+      "end": 83.175,
+      "score": 0.839
+    },
+    {
+      "word": "that",
+      "start": 83.195,
+      "end": 83.735,
+      "score": 0.973
+    },
+    {
+      "word": "reads,",
+      "start": 83.755,
+      "end": 84.717,
+      "score": 0.79
+    },
+    {
+      "word": "that",
+      "start": 84.737,
+      "end": 85.278,
+      "score": 0.991
+    },
+    {
+      "word": "read",
+      "start": 85.638,
+      "end": 86.179,
+      "score": 0.899
+    },
+    {
+      "word": "a",
+      "start": 86.199,
+      "end": 86.219,
+      "score": 0.996
+    },
+    {
+      "word": "book,",
+      "start": 86.339,
+      "end": 86.96,
+      "score": 0.753
+    },
+    {
+      "word": "that",
+      "start": 86.98,
+      "end": 87.06,
+      "score": 0.0
+    },
+    {
+      "word": "is",
+      "start": 87.08,
+      "end": 87.12,
+      "score": 0.0
+    },
+    {
+      "word": "reading",
+      "start": 87.14,
+      "end": 87.281,
+      "score": 0.021
+    },
+    {
+      "word": "a",
+      "start": 87.301,
+      "end": 87.321,
+      "score": 0.0
+    },
+    {
+      "word": "book.",
+      "start": 87.341,
+      "end": 87.501,
+      "score": 0.15
+    },
+    {
+      "word": "시작!",
+      "start": 87.521,
+      "end": 87.641,
+      "score": 0.466
+    },
+    {
+      "word": "다섯",
+      "start": 87.661,
+      "end": 87.701,
+      "score": 0.5
+    },
+    {
+      "word": "번",
+      "start": 87.761,
+      "end": 87.781,
+      "score": 0.0
+    },
+    {
+      "word": "시작!",
+      "start": 87.801,
+      "end": 87.962,
+      "score": 0.597
+    },
+    {
+      "word": "that",
+      "start": 87.982,
+      "end": 88.062,
+      "score": 0.108
+    },
+    {
+      "word": "is",
+      "start": 88.082,
+      "end": 88.122,
+      "score": 0.002
+    },
+    {
+      "word": "reading",
+      "start": 88.142,
+      "end": 88.282,
+      "score": 0.269
+    },
+    {
+      "word": "a",
+      "start": 88.302,
+      "end": 88.322,
+      "score": 0.0
+    },
+    {
+      "word": "book,",
+      "start": 88.342,
+      "end": 88.442,
+      "score": 0.0
+    },
+    {
+      "word": "that",
+      "start": 88.462,
+      "end": 88.542,
+      "score": 0.0
+    },
+    {
+      "word": "is",
+      "start": 88.562,
+      "end": 88.602,
+      "score": 0.0
+    },
+    {
+      "word": "reading",
+      "start": 88.623,
+      "end": 89.123,
+      "score": 0.274
+    },
+    {
+      "word": "a",
+      "start": 89.143,
+      "end": 89.163,
+      "score": 0.859
+    },
+    {
+      "word": "book,",
+      "start": 89.183,
+      "end": 89.283,
+      "score": 0.29
+    },
+    {
+      "word": "that",
+      "start": 89.304,
+      "end": 89.384,
+      "score": 0.0
+    },
+    {
+      "word": "is",
+      "start": 89.404,
+      "end": 89.444,
+      "score": 0.0
+    },
+    {
+      "word": "reading",
+      "start": 89.464,
+      "end": 89.604,
+      "score": 0.29
+    },
+    {
+      "word": "a",
+      "start": 89.624,
+      "end": 89.644,
+      "score": 0.0
+    },
+    {
+      "word": "book,",
+      "start": 89.664,
+      "end": 89.764,
+      "score": 0.156
+    },
+    {
+      "word": "that",
+      "start": 89.784,
+      "end": 89.864,
+      "score": 0.0
+    },
+    {
+      "word": "is",
+      "start": 89.884,
+      "end": 89.924,
+      "score": 0.0
+    },
+    {
+      "word": "reading",
+      "start": 89.944,
+      "end": 90.085,
+      "score": 0.0
+    },
+    {
+      "word": "a",
+      "start": 90.105,
+      "end": 90.125,
+      "score": 0.001
+    },
+    {
+      "word": "book,",
+      "start": 90.145,
+      "end": 90.245,
+      "score": 0.013
+    },
+    {
+      "word": "that",
+      "start": 90.265,
+      "end": 90.345,
+      "score": 0.0
+    },
+    {
+      "word": "is",
+      "start": 90.365,
+      "end": 90.405,
+      "score": 0.379
+    },
+    {
+      "word": "reading",
+      "start": 90.425,
+      "end": 90.565,
+      "score": 0.298
+    },
+    {
+      "word": "a",
+      "start": 90.585,
+      "end": 90.605,
+      "score": 0.012
+    },
+    {
+      "word": "book,",
+      "start": 90.625,
+      "end": 90.726,
+      "score": 0.547
+    },
+    {
+      "word": "that",
+      "start": 90.746,
+      "end": 90.826,
+      "score": 0.204
+    },
+    {
+      "word": "is",
+      "start": 90.846,
+      "end": 90.886,
+      "score": 0.093
+    },
+    {
+      "word": "going.",
+      "start": 90.906,
+      "end": 91.026,
+      "score": 0.189
+    },
+    {
+      "word": "The",
+      "start": 91.138,
+      "end": 92.039,
+      "score": 0.862
+    },
+    {
+      "word": "bus",
+      "start": 92.059,
+      "end": 94.361,
+      "score": 0.752
+    },
+    {
+      "word": "that",
+      "start": 94.381,
+      "end": 94.501,
+      "score": 0.396
+    },
+    {
+      "word": "is",
+      "start": 94.521,
+      "end": 94.661,
+      "score": 0.933
+    },
+    {
+      "word": "going",
+      "start": 94.681,
+      "end": 96.723,
+      "score": 0.777
+    },
+    {
+      "word": "to",
+      "start": 96.743,
+      "end": 97.024,
+      "score": 0.93
+    },
+    {
+      "word": "Gangnam",
+      "start": 97.044,
+      "end": 99.226,
+      "score": 0.964
+    },
+    {
+      "word": "Station",
+      "start": 99.246,
+      "end": 99.946,
+      "score": 0.866
+    },
+    {
+      "word": "is",
+      "start": 99.966,
+      "end": 100.106,
+      "score": 0.99
+    },
+    {
+      "word": "number",
+      "start": 100.307,
+      "end": 102.529,
+      "score": 0.64
+    },
+    {
+      "word": "69.",
+      "start": 102.549,
+      "end": 102.889,
+      "score": 0.558
+    },
+    {
+      "word": "다시",
+      "start": 102.909,
+      "end": 102.949,
+      "score": 0.013
+    },
+    {
+      "word": "시작.",
+      "start": 102.969,
+      "end": 103.109,
+      "score": 0.466
+    },
+    {
+      "word": "The",
+      "start": 103.149,
+      "end": 103.71,
+      "score": 0.963
+    },
+    {
+      "word": "bus",
+      "start": 103.73,
+      "end": 105.531,
+      "score": 0.468
+    },
+    {
+      "word": "that",
+      "start": 105.551,
+      "end": 106.132,
+      "score": 0.726
+    },
+    {
+      "word": "is",
+      "start": 106.152,
+      "end": 106.272,
+      "score": 0.964
+    },
+    {
+      "word": "going",
+      "start": 106.312,
+      "end": 106.773,
+      "score": 0.964
+    },
+    {
+      "word": "to",
+      "start": 106.933,
+      "end": 107.213,
+      "score": 0.976
+    },
+    {
+      "word": "Gangnam",
+      "start": 107.273,
+      "end": 107.693,
+      "score": 0.906
+    },
+    {
+      "word": "Station",
+      "start": 111.998,
+      "end": 112.618,
+      "score": 0.968
+    },
+    {
+      "word": "is",
+      "start": 112.638,
+      "end": 113.219,
+      "score": 0.906
+    },
+    {
+      "word": "number",
+      "start": 113.239,
+      "end": 114.24,
+      "score": 0.475
+    },
+    {
+      "word": "69.",
+      "start": 114.26,
+      "end": 114.52,
+      "score": 0.48
+    },
+    {
+      "word": "그렇죠.",
+      "start": 114.54,
+      "end": 114.62,
+      "score": 0.5
+    },
+    {
+      "word": "The",
+      "start": 114.74,
+      "end": 115.2,
+      "score": 0.997
+    },
+    {
+      "word": "person",
+      "start": 115.221,
+      "end": 116.201,
+      "score": 0.895
+    },
+    {
+      "word": "that",
+      "start": 116.221,
+      "end": 116.362,
+      "score": 0.833
+    },
+    {
+      "word": "is",
+      "start": 116.382,
+      "end": 117.743,
+      "score": 0.954
+    },
+    {
+      "word": "와.",
+      "start": 117.763,
+      "end": 117.803,
+      "score": 0.921
+    },
+    {
+      "word": "The",
+      "start": 117.823,
+      "end": 118.143,
+      "score": 0.85
+    },
+    {
+      "word": "people",
+      "start": 118.263,
+      "end": 120.846,
+      "score": 0.913
+    },
+    {
+      "word": "that",
+      "start": 120.866,
+      "end": 121.026,
+      "score": 0.328
+    },
+    {
+      "word": "아예.",
+      "start": 121.046,
+      "end": 121.106,
+      "score": 0.06
+    },
+    {
+      "word": "이",
+      "start": 121.634,
+      "end": 121.774,
+      "score": 0.3
+    },
+    {
+      "word": "시간이",
+      "start": 121.814,
+      "end": 122.054,
+      "score": 0.95
+    },
+    {
+      "word": "끝나기",
+      "start": 122.134,
+      "end": 122.495,
+      "score": 0.958
+    },
+    {
+      "word": "전에",
+      "start": 122.555,
+      "end": 122.835,
+      "score": 0.946
+    },
+    {
+      "word": "완전하게",
+      "start": 123.216,
+      "end": 123.676,
+      "score": 0.882
+    },
+    {
+      "word": "익히고",
+      "start": 123.856,
+      "end": 124.176,
+      "score": 0.628
+    },
+    {
+      "word": "가도록",
+      "start": 124.236,
+      "end": 124.377,
+      "score": 0.649
+    },
+    {
+      "word": "하겠습니다.",
+      "start": 124.437,
+      "end": 125.718,
+      "score": 0.308
+    },
+    {
+      "word": "타는",
+      "start": 125.738,
+      "end": 125.838,
+      "score": 1.0
+    },
+    {
+      "word": "사람.",
+      "start": 125.998,
+      "end": 129.562,
+      "score": 0.988
+    },
+    {
+      "word": "자,",
+      "start": 129.582,
+      "end": 129.722,
+      "score": 0.966
+    },
+    {
+      "word": "일하는",
+      "start": 129.882,
+      "end": 130.182,
+      "score": 0.988
+    },
+    {
+      "word": "사람.",
+      "start": 130.282,
+      "end": 134.046,
+      "score": 0.978
+    },
+    {
+      "word": "책을",
+      "start": 134.066,
+      "end": 134.186,
+      "score": 0.462
+    },
+    {
+      "word": "읽는",
+      "start": 134.286,
+      "end": 134.346,
+      "score": 0.993
+    },
+    {
+      "word": "사람.",
+      "start": 134.446,
+      "end": 136.308,
+      "score": 0.981
+    },
+    {
+      "word": "그렇게",
+      "start": 137.829,
+      "end": 137.89,
+      "score": 0.329
+    },
+    {
+      "word": "하면",
+      "start": 139.411,
+      "end": 139.451,
+      "score": 0.0
+    },
+    {
+      "word": "되겠죠.",
+      "start": 139.471,
+      "end": 139.551,
+      "score": 0.0
+    },
+    {
+      "word": "버스를",
+      "start": 139.571,
+      "end": 139.731,
+      "score": 0.985
+    },
+    {
+      "word": "타는",
+      "start": 139.811,
+      "end": 140.012,
+      "score": 1.0
+    },
+    {
+      "word": "사람.",
+      "start": 140.112,
+      "end": 146.318,
+      "score": 0.614
+    },
+    {
+      "word": "커피를",
+      "start": 146.338,
+      "end": 146.658,
+      "score": 0.9
+    },
+    {
+      "word": "마시는",
+      "start": 146.758,
+      "end": 147.058,
+      "score": 1.0
+    },
+    {
+      "word": "사람.",
+      "start": 147.158,
+      "end": 150.862,
+      "score": 0.966
+    },
+    {
+      "word": "다시요.",
+      "start": 150.882,
+      "end": 150.962,
+      "score": 0.066
+    },
+    {
+      "word": "자,",
+      "start": 151.234,
+      "end": 151.815,
+      "score": 0.83
+    },
+    {
+      "word": "일하는",
+      "start": 154.318,
+      "end": 154.618,
+      "score": 0.987
+    },
+    {
+      "word": "사람.",
+      "start": 154.698,
+      "end": 159.784,
+      "score": 0.665
+    },
+    {
+      "word": "여기서",
+      "start": 159.804,
+      "end": 160.065,
+      "score": 0.961
+    },
+    {
+      "word": "일하는",
+      "start": 160.105,
+      "end": 160.365,
+      "score": 0.998
+    },
+    {
+      "word": "사람.",
+      "start": 160.445,
+      "end": 164.21,
+      "score": 0.664
+    },
+    {
+      "word": "여기서",
+      "start": 164.23,
+      "end": 164.71,
+      "score": 0.955
+    },
+    {
+      "word": "먹는",
+      "start": 164.851,
+      "end": 165.131,
+      "score": 0.998
+    },
+    {
+      "word": "사람.",
+      "start": 165.231,
+      "end": 169.056,
+      "score": 0.95
+    },
+    {
+      "word": "청바지를",
+      "start": 173.401,
+      "end": 173.802,
+      "score": 0.943
+    },
+    {
+      "word": "입는",
+      "start": 173.842,
+      "end": 174.002,
+      "score": 0.986
+    },
+    {
+      "word": "사람들.",
+      "start": 174.022,
+      "end": 175.804,
+      "score": 0.634
+    },
+    {
+      "word": "그쵸,",
+      "start": 176.365,
+      "end": 176.665,
+      "score": 0.817
+    },
+    {
+      "word": "wearing",
+      "start": 178.868,
+      "end": 179.228,
+      "score": 0.81
+    },
+    {
+      "word": "jeans.",
+      "start": 179.248,
+      "end": 180.69,
+      "score": 0.916
+    },
+    {
+      "word": "자켓을",
+      "start": 181.154,
+      "end": 181.574,
+      "score": 0.612
+    },
+    {
+      "word": "입는",
+      "start": 181.594,
+      "end": 181.775,
+      "score": 0.968
+    },
+    {
+      "word": "사람들.",
+      "start": 181.855,
+      "end": 185.699,
+      "score": 0.248
+    },
+    {
+      "word": "그렇죠.",
+      "start": 185.719,
+      "end": 186.059,
+      "score": 0.616
+    },
+    {
+      "word": "스커트를",
+      "start": 186.9,
+      "end": 187.101,
+      "score": 0.631
+    },
+    {
+      "word": "입는",
+      "start": 187.181,
+      "end": 187.441,
+      "score": 0.999
+    },
+    {
+      "word": "사람들.",
+      "start": 187.601,
+      "end": 191.305,
+      "score": 0.972
+    },
+    {
+      "word": "그렇죠.",
+      "start": 191.325,
+      "end": 191.666,
+      "score": 0.714
+    },
+    {
+      "word": "공부하는",
+      "start": 191.886,
+      "end": 192.306,
+      "score": 0.948
+    },
+    {
+      "word": "사람들.",
+      "start": 192.387,
+      "end": 192.767,
+      "score": 0.937
+    },
+    {
+      "word": "공부하는",
+      "start": 195.19,
+      "end": 195.55,
+      "score": 1.0
+    },
+    {
+      "word": "사람들.",
+      "start": 195.61,
+      "end": 197.993,
+      "score": 0.98
+    },
+    {
+      "word": "여기서",
+      "start": 198.013,
+      "end": 198.233,
+      "score": 0.547
+    },
+    {
+      "word": "공부하는",
+      "start": 198.253,
+      "end": 198.574,
+      "score": 0.895
+    },
+    {
+      "word": "사람들.",
+      "start": 198.634,
+      "end": 199.054,
+      "score": 0.932
+    },
+    {
+      "word": "커피를",
+      "start": 201.337,
+      "end": 201.537,
+      "score": 0.801
+    },
+    {
+      "word": "마시는",
+      "start": 201.617,
+      "end": 201.877,
+      "score": 0.817
+    },
+    {
+      "word": "사람들.",
+      "start": 201.957,
+      "end": 202.318,
+      "score": 0.913
+    },
+    {
+      "word": "여기서",
+      "start": 205.061,
+      "end": 205.441,
+      "score": 0.997
+    },
+    {
+      "word": "커피를",
+      "start": 205.561,
+      "end": 205.822,
+      "score": 0.953
+    },
+    {
+      "word": "마시는",
+      "start": 205.882,
+      "end": 206.162,
+      "score": 0.948
+    },
+    {
+      "word": "사람들.",
+      "start": 206.222,
+      "end": 209.446,
+      "score": 0.987
+    },
+    {
+      "word": "다시요.",
+      "start": 209.666,
+      "end": 209.746,
+      "score": 0.223
+    },
+    {
+      "word": "The",
+      "start": 209.954,
+      "end": 210.354,
+      "score": 0.637
+    },
+    {
+      "word": "people",
+      "start": 210.374,
+      "end": 211.316,
+      "score": 0.947
+    },
+    {
+      "word": "that",
+      "start": 211.336,
+      "end": 212.277,
+      "score": 0.605
+    },
+    {
+      "word": "are",
+      "start": 212.297,
+      "end": 213.358,
+      "score": 0.942
+    },
+    {
+      "word": "drinking",
+      "start": 213.378,
+      "end": 217.563,
+      "score": 0.909
+    },
+    {
+      "word": "coffee",
+      "start": 217.583,
+      "end": 217.703,
+      "score": 0.0
+    },
+    {
+      "word": "here.",
+      "start": 217.723,
+      "end": 217.823,
+      "score": 0.0
+    },
+    {
+      "word": "다시요.",
+      "start": 217.843,
+      "end": 217.923,
+      "score": 0.0
+    },
+    {
+      "word": "The",
+      "start": 217.943,
+      "end": 218.003,
+      "score": 0.0
+    },
+    {
+      "word": "people",
+      "start": 218.023,
+      "end": 218.143,
+      "score": 0.0
+    },
+    {
+      "word": "that",
+      "start": 218.163,
+      "end": 218.344,
+      "score": 0.493
+    },
+    {
+      "word": "are",
+      "start": 218.364,
+      "end": 218.604,
+      "score": 0.967
+    },
+    {
+      "word": "drinking",
+      "start": 218.624,
+      "end": 221.767,
+      "score": 0.369
+    },
+    {
+      "word": "coffee",
+      "start": 221.787,
+      "end": 221.908,
+      "score": 0.003
+    },
+    {
+      "word": "here.",
+      "start": 221.928,
+      "end": 222.028,
+      "score": 0.003
+    },
+    {
+      "word": "그렇죠?",
+      "start": 222.048,
+      "end": 222.128,
+      "score": 0.0
+    },
+    {
+      "word": "물을",
+      "start": 222.148,
+      "end": 222.188,
+      "score": 0.0
+    },
+    {
+      "word": "마시는",
+      "start": 222.208,
+      "end": 222.268,
+      "score": 0.0
+    },
+    {
+      "word": "사람들.",
+      "start": 222.288,
+      "end": 222.368,
+      "score": 0.002
+    },
+    {
+      "word": "다시요.",
+      "start": 222.388,
+      "end": 222.468,
+      "score": 0.357
+    },
+    {
+      "word": "부산에",
+      "start": 225.932,
+      "end": 226.213,
+      "score": 0.93
+    },
+    {
+      "word": "가는",
+      "start": 226.253,
+      "end": 226.393,
+      "score": 0.99
+    },
+    {
+      "word": "학생들.",
+      "start": 226.453,
+      "end": 226.973,
+      "score": 0.993
+    },
+    {
+      "word": "그럼",
+      "start": 227.634,
+      "end": 227.674,
+      "score": 0.0
+    },
+    {
+      "word": "학생",
+      "start": 227.694,
+      "end": 228.055,
+      "score": 0.945
+    },
+    {
+      "word": "단수로",
+      "start": 228.155,
+      "end": 228.555,
+      "score": 0.834
+    },
+    {
+      "word": "어떻게",
+      "start": 229.076,
+      "end": 229.136,
+      "score": 0.0
+    },
+    {
+      "word": "하면",
+      "start": 229.156,
+      "end": 229.196,
+      "score": 0.0
+    },
+    {
+      "word": "되죠?",
+      "start": 229.216,
+      "end": 229.276,
+      "score": 0.657
+    },
+    {
+      "word": "The",
+      "start": 230.317,
+      "end": 231.138,
+      "score": 0.906
+    },
+    {
+      "word": "student",
+      "start": 231.158,
+      "end": 232.259,
+      "score": 0.932
+    },
+    {
+      "word": "that",
+      "start": 232.279,
+      "end": 232.52,
+      "score": 0.228
+    },
+    {
+      "word": "is",
+      "start": 232.54,
+      "end": 232.58,
+      "score": 0.0
+    },
+    {
+      "word": "going",
+      "start": 232.6,
+      "end": 232.82,
+      "score": 0.386
+    },
+    {
+      "word": "to",
+      "start": 232.84,
+      "end": 232.88,
+      "score": 0.0
+    },
+    {
+      "word": "Busan.",
+      "start": 232.9,
+      "end": 233.02,
+      "score": 0.154
+    },
+    {
+      "word": "한",
+      "start": 233.04,
+      "end": 233.06,
+      "score": 0.0
+    },
+    {
+      "word": "번",
+      "start": 233.08,
+      "end": 233.381,
+      "score": 0.894
+    },
+    {
+      "word": "더.",
+      "start": 233.401,
+      "end": 233.441,
+      "score": 0.996
+    },
+    {
+      "word": "The",
+      "start": 233.461,
+      "end": 234.682,
+      "score": 0.951
+    },
+    {
+      "word": "student",
+      "start": 234.702,
+      "end": 235.944,
+      "score": 0.975
+    },
+    {
+      "word": "that",
+      "start": 236.284,
+      "end": 236.825,
+      "score": 0.973
+    },
+    {
+      "word": "is",
+      "start": 236.845,
+      "end": 236.985,
+      "score": 0.929
+    },
+    {
+      "word": "going",
+      "start": 237.005,
+      "end": 237.265,
+      "score": 0.568
+    },
+    {
+      "word": "to",
+      "start": 237.285,
+      "end": 237.325,
+      "score": 0.5
+    },
+    {
+      "word": "Busan.",
+      "start": 237.345,
+      "end": 237.826,
+      "score": 0.827
+    },
+    {
+      "word": "부산에",
+      "start": 237.846,
+      "end": 237.906,
+      "score": 0.045
+    },
+    {
+      "word": "가는",
+      "start": 237.926,
+      "end": 237.966,
+      "score": 0.188
+    },
+    {
+      "word": "학생들.",
+      "start": 237.986,
+      "end": 238.066,
+      "score": 0.097
+    },
+    {
+      "word": "The",
+      "start": 238.466,
+      "end": 239.227,
+      "score": 0.952
+    },
+    {
+      "word": "students",
+      "start": 239.247,
+      "end": 243.071,
+      "score": 0.977
+    },
+    {
+      "word": "that",
+      "start": 243.091,
+      "end": 244.593,
+      "score": 0.97
+    },
+    {
+      "word": "are",
+      "start": 244.713,
+      "end": 245.934,
+      "score": 0.323
+    },
+    {
+      "word": "going",
+      "start": 245.954,
+      "end": 246.055,
+      "score": 0.002
+    },
+    {
+      "word": "to",
+      "start": 246.075,
+      "end": 246.115,
+      "score": 0.002
+    },
+    {
+      "word": "Busan.",
+      "start": 246.135,
+      "end": 246.255,
+      "score": 0.0
+    },
+    {
+      "word": "다시요.",
+      "start": 246.275,
+      "end": 246.355,
+      "score": 0.0
+    },
+    {
+      "word": "The",
+      "start": 246.375,
+      "end": 246.435,
+      "score": 0.001
+    },
+    {
+      "word": "students",
+      "start": 246.455,
+      "end": 246.615,
+      "score": 0.0
+    },
+    {
+      "word": "that",
+      "start": 246.635,
+      "end": 246.715,
+      "score": 0.0
+    },
+    {
+      "word": "are",
+      "start": 246.735,
+      "end": 246.795,
+      "score": 0.0
+    },
+    {
+      "word": "going",
+      "start": 246.815,
+      "end": 246.936,
+      "score": 0.109
+    },
+    {
+      "word": "to",
+      "start": 246.956,
+      "end": 246.996,
+      "score": 0.0
+    },
+    {
+      "word": "Busan.",
+      "start": 247.016,
+      "end": 247.136,
+      "score": 0.0
+    },
+    {
+      "word": "그렇게",
+      "start": 247.156,
+      "end": 247.216,
+      "score": 0.0
+    },
+    {
+      "word": "하면",
+      "start": 247.236,
+      "end": 247.276,
+      "score": 0.0
+    },
+    {
+      "word": "되겠죠.",
+      "start": 247.296,
+      "end": 247.376,
+      "score": 0.366
+    },
+    {
+      "word": "The",
+      "start": 247.797,
+      "end": 248.117,
+      "score": 0.872
+    },
+    {
+      "word": "people",
+      "start": 248.137,
+      "end": 250.059,
+      "score": 0.79
+    },
+    {
+      "word": "that",
+      "start": 250.079,
+      "end": 250.6,
+      "score": 0.456
+    },
+    {
+      "word": "are",
+      "start": 250.62,
+      "end": 250.76,
+      "score": 0.982
+    },
+    {
+      "word": "studying",
+      "start": 250.86,
+      "end": 251.761,
+      "score": 0.467
+    },
+    {
+      "word": "hard",
+      "start": 251.781,
+      "end": 252.221,
+      "score": 0.979
+    },
+    {
+      "word": "will",
+      "start": 252.242,
+      "end": 252.942,
+      "score": 0.678
+    },
+    {
+      "word": "speak",
+      "start": 252.962,
+      "end": 253.163,
+      "score": 0.888
+    },
+    {
+      "word": "English",
+      "start": 253.183,
+      "end": 253.543,
+      "score": 0.946
+    },
+    {
+      "word": "well.",
+      "start": 253.823,
+      "end": 254.344,
+      "score": 0.77
+    },
+    {
+      "word": "열심히",
+      "start": 254.364,
+      "end": 254.424,
+      "score": 0.002
+    },
+    {
+      "word": "공부하는",
+      "start": 254.444,
+      "end": 254.524,
+      "score": 0.0
+    },
+    {
+      "word": "사람들은",
+      "start": 254.544,
+      "end": 254.624,
+      "score": 0.0
+    },
+    {
+      "word": "will",
+      "start": 254.644,
+      "end": 254.724,
+      "score": 0.076
+    },
+    {
+      "word": "speak",
+      "start": 254.744,
+      "end": 254.844,
+      "score": 0.003
+    },
+    {
+      "word": "English.",
+      "start": 254.864,
+      "end": 255.025,
+      "score": 0.0
+    },
+    {
+      "word": "영어를",
+      "start": 255.045,
+      "end": 255.305,
+      "score": 0.955
+    },
+    {
+      "word": "잘하게",
+      "start": 257.227,
+      "end": 257.287,
+      "score": 0.0
+    },
+    {
+      "word": "될",
+      "start": 257.307,
+      "end": 257.327,
+      "score": 0.453
+    },
+    {
+      "word": "거다.",
+      "start": 257.347,
+      "end": 257.407,
+      "score": 0.0
+    },
+    {
+      "word": "The",
+      "start": 257.427,
+      "end": 257.888,
+      "score": 0.936
+    },
+    {
+      "word": "people",
+      "start": 257.908,
+      "end": 259.71,
+      "score": 0.812
+    },
+    {
+      "word": "that",
+      "start": 259.73,
+      "end": 260.17,
+      "score": 0.784
+    },
+    {
+      "word": "are",
+      "start": 260.19,
+      "end": 263.514,
+      "score": 0.33
+    },
+    {
+      "word": "working",
+      "start": 263.534,
+      "end": 263.674,
+      "score": 0.002
+    },
+    {
+      "word": "hard",
+      "start": 263.694,
+      "end": 263.775,
+      "score": 0.0
+    },
+    {
+      "word": "can",
+      "start": 263.795,
+      "end": 263.855,
+      "score": 0.0
+    },
+    {
+      "word": "make",
+      "start": 263.875,
+      "end": 263.955,
+      "score": 0.244
+    },
+    {
+      "word": "money.",
+      "start": 263.975,
+      "end": 264.095,
+      "score": 0.003
+    },
+    {
+      "word": "그렇죠.",
+      "start": 264.115,
+      "end": 264.535,
+      "score": 0.404
+    },
+    {
+      "word": "지하철",
+      "start": 264.736,
+      "end": 264.796,
+      "score": 0.0
+    },
+    {
+      "word": "타는",
+      "start": 264.816,
+      "end": 264.876,
+      "score": 0.962
+    },
+    {
+      "word": "사람들은",
+      "start": 264.936,
+      "end": 265.316,
+      "score": 0.946
+    },
+    {
+      "word": "늦는다.",
+      "start": 265.757,
+      "end": 266.898,
+      "score": 0.708
+    },
+    {
+      "word": "늦는다",
+      "start": 269.698,
+      "end": 270.119,
+      "score": 0.871
+    },
+    {
+      "word": "늦을거다",
+      "start": 271.12,
+      "end": 271.3,
+      "score": 0.496
+    },
+    {
+      "word": "늦을거다",
+      "start": 272.843,
+      "end": 272.943,
+      "score": 0.563
+    },
+    {
+      "word": "늦을거다",
+      "start": 274.104,
+      "end": 274.645,
+      "score": 0.89
+    },
+    {
+      "word": "늦을거다",
+      "start": 275.526,
+      "end": 276.007,
+      "score": 0.711
+    },
+    {
+      "word": "늦을거다",
+      "start": 286.643,
+      "end": 286.943,
+      "score": 0.467
+    },
+    {
+      "word": "늦을거다",
+      "start": 290.048,
+      "end": 290.128,
+      "score": 0.178
+    },
+    {
+      "word": "늦을거다",
+      "start": 292.351,
+      "end": 292.431,
+      "score": 0.205
+    },
+    {
+      "word": "늦을거다",
+      "start": 292.852,
+      "end": 292.932,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 292.952,
+      "end": 293.032,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 293.052,
+      "end": 293.132,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 293.152,
+      "end": 293.493,
+      "score": 0.36
+    },
+    {
+      "word": "늦을거다",
+      "start": 293.513,
+      "end": 293.593,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 293.613,
+      "end": 293.693,
+      "score": 0.001
+    },
+    {
+      "word": "늦을거다",
+      "start": 293.713,
+      "end": 293.793,
+      "score": 0.001
+    },
+    {
+      "word": "늦을거다",
+      "start": 293.813,
+      "end": 293.893,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 293.913,
+      "end": 293.993,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 294.013,
+      "end": 294.093,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 294.113,
+      "end": 294.194,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 294.214,
+      "end": 294.294,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 294.314,
+      "end": 294.394,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 294.414,
+      "end": 294.494,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 294.514,
+      "end": 294.594,
+      "score": 0.002
+    },
+    {
+      "word": "늦을거다",
+      "start": 294.614,
+      "end": 294.694,
+      "score": 0.002
+    },
+    {
+      "word": "늦을거다",
+      "start": 294.714,
+      "end": 294.794,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 294.814,
+      "end": 294.895,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 294.915,
+      "end": 294.995,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 295.015,
+      "end": 295.095,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 295.115,
+      "end": 295.195,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 295.215,
+      "end": 295.355,
+      "score": 0.447
+    },
+    {
+      "word": "늦을거다",
+      "start": 295.756,
+      "end": 295.836,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 295.856,
+      "end": 295.936,
+      "score": 0.001
+    },
+    {
+      "word": "늦을거다",
+      "start": 295.956,
+      "end": 296.036,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 296.056,
+      "end": 296.136,
+      "score": 0.003
+    },
+    {
+      "word": "늦을거다",
+      "start": 296.156,
+      "end": 296.236,
+      "score": 0.001
+    },
+    {
+      "word": "늦을거다",
+      "start": 296.257,
+      "end": 296.337,
+      "score": 0.001
+    },
+    {
+      "word": "늦을거다",
+      "start": 296.357,
+      "end": 296.437,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 296.457,
+      "end": 296.537,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 296.557,
+      "end": 296.637,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 296.657,
+      "end": 296.737,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 296.757,
+      "end": 296.837,
+      "score": 0.0
+    },
+    {
+      "word": "늦을거다",
+      "start": 296.857,
+      "end": 296.938,
+      "score": 0.074
+    },
+    {
+      "word": "늦을거다",
+      "start": 297.018,
+      "end": 297.098,
+      "score": 0.245
+    },
+    {
+      "word": "늦을거다",
+      "start": 297.118,
+      "end": 297.198,
+      "score": 0.118
+    },
+    {
+      "word": "늦을거다",
+      "start": 297.218,
+      "end": 297.298,
+      "score": 0.021
+    },
+    {
+      "word": "공부하지",
+      "start": 297.41,
+      "end": 298.873,
+      "score": 0.567
+    },
+    {
+      "word": "않는",
+      "start": 298.893,
+      "end": 299.114,
+      "score": 0.928
+    },
+    {
+      "word": "시원스쿨에",
+      "start": 300.958,
+      "end": 301.058,
+      "score": 0.183
+    },
+    {
+      "word": "가는",
+      "start": 301.118,
+      "end": 301.338,
+      "score": 0.948
+    },
+    {
+      "word": "시원스쿨에",
+      "start": 304.425,
+      "end": 304.525,
+      "score": 0.0
+    },
+    {
+      "word": "가는",
+      "start": 304.545,
+      "end": 304.766,
+      "score": 0.964
+    },
+    {
+      "word": "시원스쿨에",
+      "start": 306.91,
+      "end": 307.011,
+      "score": 0.2
+    },
+    {
+      "word": "가지",
+      "start": 309.937,
+      "end": 310.097,
+      "score": 0.741
+    },
+    {
+      "word": "않는",
+      "start": 310.137,
+      "end": 310.398,
+      "score": 0.9
+    },
+    {
+      "word": "그렇죠",
+      "start": 312.763,
+      "end": 313.124,
+      "score": 0.621
+    },
+    {
+      "word": "자",
+      "start": 313.505,
+      "end": 313.525,
+      "score": 0.988
+    },
+    {
+      "word": "오늘",
+      "start": 313.685,
+      "end": 313.946,
+      "score": 0.889
+    },
+    {
+      "word": "수업",
+      "start": 313.966,
+      "end": 314.006,
+      "score": 0.5
+    },
+    {
+      "word": "여기서",
+      "start": 314.046,
+      "end": 314.286,
+      "score": 0.879
+    },
+    {
+      "word": "마치겠습니다",
+      "start": 314.306,
+      "end": 314.968,
+      "score": 0.554
+    },
+    {
+      "word": "수고하셨습니다",
+      "start": 315.008,
+      "end": 316.05,
+      "score": 0.644
+    }
+  ]
 }
